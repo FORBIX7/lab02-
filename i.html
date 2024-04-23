@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Создание тестового файла</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 50px;
+    }
+    label {
+        display: block;
+        margin-bottom: 10px;
+    }
+</style>
+</head>
+<body>
+<h1>Создание тестового файла</h1>
+<form id="testForm">
+    <label for="question">Вопрос:</label>
+    <input type="text" id="question" name="question" required><br>
+
+    <label for="choices">Варианты ответов (через запятую):</label>
+    <input type="text" id="choices" name="choices" required><br>
+
+    <label for="correctAnswer">Правильный ответ:</label>
+    <input type="text" id="correctAnswer" name="correctAnswer" required><br>
+
+    <button type="button" onclick="addQuestion()">Добавить вопрос</button>
+    <button type="button" onclick="createJSON()">Создать JSON файл</button>
+</form>
+
+<div id="output"></div>
+
+<script>
+    let questions = [];
+
+    function addQuestion() {
+        const questionForm = document.getElementById('testForm');
+        const formData = new FormData(questionForm);
+        const questionObj = {};
+        for (const [key, value] of formData.entries()) {
+            questionObj[key] = value;
+        }
+        questions.push(questionObj);
+        displayQuestions();
+        questionForm.reset();
+    }
+
+    function displayQuestions() {
+        const outputDiv = document.getElementById('output');
+        outputDiv.innerHTML = '';
+        questions.forEach((question, index) => {
+            const questionString = `<p><strong>Вопрос ${index + 1}:</strong> ${question.question}</p>`;
+            outputDiv.innerHTML += questionString;
+        });
+    }
+
+    function createJSON() {
+        if (questions.length === 0) {
+            alert('Добавьте хотя бы один вопрос!');
+            return;
+        }
+        const jsonContent = JSON.stringify(questions, null, 4);
+        const blob = new Blob([jsonContent], { type: 'application/json' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = 'test.json';
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+        // Очищаем массив вопросов после создания JSON файла
+        questions = [];
+        displayQuestions(); // Очищаем вывод вопросов
+    }
+</script>
+</body>
+</html>

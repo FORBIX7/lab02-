@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Тестирование (made by Rogov)</title>
+<style>
+    /* Стили для примера, можно настроить по своему усмотрению */
+    body {
+        font-family: Arial, sans-serif;
+    }
+    .container {
+        max-width: 600px;
+        margin: 50px auto;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        background-color: #f9f9f9;
+    }
+    #question-container {
+        margin-bottom: 20px;
+    }
+    #result-container {
+        margin-top: 20px;
+        padding: 10px;
+        border: 1px solid #333;
+        border-radius: 5px;
+        background-color: #f0f0f0;
+    }
+    /* Стили для кнопки "Далее" */
+    #nextBtn {
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        background-color: #4CAF50; /* Зеленый цвет */
+        color: white;
+        font-size: 16px;
+        cursor: pointer;
+    }
+    #nextBtn:hover {
+        background-color: #45a049; /* Темно-зеленый цвет при наведении */
+    }
+</style>
+</head>
+<body>
+<div class="container">
+    <h1>Тестирование</h1>
+    <input type="file" id="fileInput" accept=".json"><br><br>
+    <div id="question-container"></div>
+    <button id="nextBtn">Далее</button>
+    <div id="result-container" style="display: none;"></div>
+</div>
+
+<script>
+    let questions = [];
+    let currentQuestionIndex = 0;
+    let incorrectQuestions = [];
+    let startTime = null;
+    let endTime = null;
+    let isReviewMode = false;
+    let answered = false; // Флаг для отслеживания ответа пользователя
+
+    const fileInput = document.getElementById('fileInput');
+    const questionContainer = document.getElementById('question-container');
+    const nextBtn = document.getElementById('nextBtn');
+    const resultContainer = document.getElementById('result-container');
+
+    fileInput.addEventListener('change', function(event) {
+        const file = event.target.files[0];
+        if (!file) return;
+        const reader = new FileReader();
+        reader.onload = function(e) {
+            const contents = e.target.result;
+            questions = JSON.parse(contents);
+            showQuestion();
+        };
+        reader.readAsText(file);
+    });
+
+    nextBtn.addEventListener('click', function() {
+        if (!answered) {
+            const selectedAnswer = document.querySelector('input[name="answer"]:checked');
+            if (!selectedAnswer) {
+                alert('Пожалуйста, выберите ответ!');
+                return;
+            }
+            const correctAnswer = questions[currentQuestionIndex].correctAnswer;
+            const isCorrect = selectedAnswer.value === correctAnswer;
+            if (isCorrect) {
+                selectedAnswer.parentElement.style.backgroundColor = '#4CAF50'; // Правильный ответ - зеленый
+            } else {
+                selectedAnswer.parentElement.style.backgroundColor = '#f44336'; // Неправильный ответ - красный
+                // Подсветить правильный ответ
+                const choices = questionContainer.querySelectorAll('input[name="answer"]');
+                choices.forEach(choice => {
+                    if (choice.value === correctAnswer) {
+                        choice.parentElement.style.backgroundColor = '#4CAF50'; // Правильный ответ - зеленый
+                    }
+                    choice.disabled = true; // Заблокировать ответы после нажатия "Далее"
+                });
+                incorrectQuestions.push(questions[currentQuestionIndex]);
+            }
+            answered = true;
+            return; // Не переходим к следующему вопросу
+        }
+
+        currentQuestionIndex++;
+        if (currentQuestionIndex < questions.length) {
+            showQuestion();
+            answered = false; // Сбрасываем флаг после перехода к следующему вопросу
+        } else {
+            endTime = new Date();
+            const timeTaken = (endTime - startTime) / 1000; // время в секундах
+            const totalQuestions = questions.length;
+            const incorrectAnswers = totalQuestions - questions.length;
+            showResult(timeTaken, incorrectAnswers);
+        }
+    });
+
+    function showQuestion() {
+        const question = questions[currentQuestionIndex];
+        const choices = question.choices.map(choice => {
+            return `<label style="display: block;"><input type="radio" name="answer" value="${choice}"> ${choice}</label>`;
+        }).join('');
+        questionContainer.innerHTML = `
+            <h3>${isReviewMode ? 'Работа над ошибками' : `Вопрос ${currentQuestionIndex + 1}`}</h3>
+            <p>${question.question}</p>
+            ${choices}
+        `;
+        if (!startTime) {
+            startTime = new Date();
+        }
+    }
+
+    function showResult(timeTaken, incorrectAnswers) {
+        questionContainer.style.display = 'none';
+        nextBtn.style.display = 'none';
+        resultContainer.style.display = 'block';
+        resultContainer.innerHTML = `
+            <h2>Статистика</h2>
+            <p>Время прохождения: ${timeTaken} секунд</p>
+            <p>Количество ошибок: ${incorrectAnswers}</p>
+            <button onclick="restartTest()">Начать заново</button>
+        `;
+    }
+
+    function restartTest() {
+        questionContainer.style.display = 'block';
+        nextBtn.style.display = 'block';
+        resultContainer.style.display = 'none';
+        currentQuestionIndex = 0;
+        incorrectQuestions = [];
+        startTime = null;
+        endTime = null;
+        answered = false;
+        showQuestion();
+    }
+</script>
+</body>
+</html>
