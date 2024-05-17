@@ -1,0 +1,1202 @@
+[
+    {
+        "question": "A very fast computer that runs powerful work programs.",
+        "choices": ["Laptop", "Desktop computer", "Supercomputer", "Workstation"],
+        "correctAnswer": "Workstation"
+      },
+      {
+        "question": "A large computer that is built to process large amounts of information at a higher speed than other computers can handle.",
+        "choices": ["Laptop", "Supercomputer", "Workstation", "Desktop computer"],
+        "correctAnswer": "Supercomputer"
+      },
+      {
+        "question": "A computer that is small enough for you to carry around and use anywhere.",
+        "choices": ["Desktop computer", "Supercomputer", "Workstation", "Laptop"],
+        "correctAnswer": "Laptop"
+      },
+      {
+        "question": "A computer that is small enough to use at a desk, but too big to carry around.",
+        "choices": ["Desktop computer", "Laptop", "Supercomputer", "Workstation"],
+        "correctAnswer": "Desktop computer"
+      },
+      {
+        "question": "Employees _________ laptops when they work outside of the office.",
+        "choices": ["usually uses", "usually using", "usually use", "use usually"],
+        "correctAnswer": "usually use"
+      },
+      {
+        "question": "A cell phone is a device that ________ and ________ calls.",
+        "choices": ["make / receive", "makes / receive", "makes / receives", "make / receives"],
+        "correctAnswer": "makes / receives"
+      },
+      {
+        "question": "Diplomats ________ English in their work as a rule.",
+        "choices": ["use", "uses", "are using", "are use"],
+        "correctAnswer": "use"
+      },
+      {
+        "question": "Professor Higgins _________ his reports in that hall.",
+        "choices": ["usually make", "usually makes", "makes usually", "make usually"],
+        "correctAnswer": "usually makes"
+      },
+      {
+        "question": "Yesterday Jack _______ on some powerful programs.",
+        "choices": ["had worked", "works", "will work", "worked"],
+        "correctAnswer": "worked"
+      },
+      {
+        "question": "Last week Mary ______ valuable software.",
+        "choices": ["created", "creates", "create", "will create"],
+        "correctAnswer": "created"
+      },
+      {
+        "question": "They _______ the abacus more than 2000 years ago.",
+        "choices": ["invent", "will invent", "invented", "invents"],
+        "correctAnswer": "invented"
+      },
+      {
+        "question": "She _______ you a message by e-mail yesterday.",
+        "choices": ["sent", "send", "sended", "sends"],
+        "correctAnswer": "sent"
+      },
+      {
+        "question": "The company _________ a mainframe next month.",
+        "choices": ["has", "have", "will have", "had"],
+        "correctAnswer": "will have" 
+      },
+      {
+        "question": "I don’t think the exam _______ very difficult.",
+        "choices": ["will be", "will", "is", "was"],
+        "correctAnswer": "will be"
+      },
+      {
+        "question": "The students ________ that problem at the next meeting.",
+        "choices": ["discuss", "discussed", "discussing", "will discuss"],
+        "correctAnswer": "will discuss"
+      },
+      {
+        "question": "They ________ a new computer in a week.",
+        "choices": ["buy", "will buy", "bought", "buys"],
+        "correctAnswer": "will buy"
+      },
+      {
+        "question": "Scientists ________ speeches at international conferences.",
+        "choices": ["often makes", "make often", "makes often", "often make"], 
+        "correctAnswer": "often make"
+      },
+      {
+        "question": "I ________ many mistakes in my control paper the day before yesterday.",
+        "choices": ["don’t make", "won’t make", "didn’t make", "wasn’t make"],
+        "correctAnswer": "didn’t make"
+      },
+      {
+        "question": "______ worry, everything ______ OK.",
+        "choices": ["Not, will be", "Don’t, will be", "Don’t, will", "Not, will"],
+        "correctAnswer": "Don’t, will be"
+      },
+      {
+        "question": "Computer operators _______ instructions in English as a rule.",
+        "choices": ["read", "reads", "are read", "will read"],
+        "correctAnswer": "read" 
+      },
+      {
+        "question": "Extra circuit boards that are used to increase the functions of a computer.",
+        "choices": ["heat sink", "expansion cards", "power supply", "motherboard"],
+        "correctAnswer": "expansion cards"
+      },
+      {
+        "question": "A firm slotted board onto which computer circuitry is attached.",
+        "choices": ["motherboard", "expansion cards", "power supply", "heat sink"],
+        "correctAnswer": "motherboard"
+      },
+      {
+        "question": "It delivers electricity to all parts of a computer.",
+        "choices": ["motherboard", "expansion cards", "power supply", "heat sink"],
+        "correctAnswer": "power supply"
+      }, 
+      {
+        "question": "It transfers heat away from nearby components of a computer.",
+        "choices": ["power supply", "motherboard", "expansion cards", "heat sink"],
+        "correctAnswer": "heat sink"
+      },
+      {
+        "question": "The computer ___________ at the moment.",
+        "choices": ["is functioning", "function", "are functioning", "functions"],
+        "correctAnswer": "is functioning"
+      },
+      {
+        "question": "Several of my colleagues __________ at home this week.",
+        "choices": ["is working", "are working", "works", "work"],
+        "correctAnswer": "are working"
+      },
+      {
+        "question": "How _________ on?",
+        "choices": ["are you getting", "you are getting", "you getting", "do you get"],
+        "correctAnswer": "are you getting" 
+      },
+      {
+        "question": "It’s a fine day. It ________.",
+        "choices": ["doesn’t rain", "doesn’t raining", "isn’t raining", "isn’t rain"],
+        "correctAnswer": "isn’t raining"
+      },
+      {
+        "question": "When I came into the office, the employees _________ data.",
+        "choices": ["are encoding", "were encoding", "was encoding", "encode"],
+        "correctAnswer": "were encoding"
+      },
+      {
+        "question": "A software engineer _______ the program when we came in.",
+        "choices": ["was repairing", "is repairing", "repaired", "were repairing"],
+        "correctAnswer": "was repairing"
+      }, 
+      {
+        "question": "We saw an accident while we _________ for the bus.",
+        "choices": ["was waiting", "waited", "were waiting", "are waiting"],
+        "correctAnswer": "were waiting"
+      },
+      {
+        "question": "The doorbell rang while I _______ a shower.",
+        "choices": ["were having", "had", "am having", "was having"],
+        "correctAnswer": "was having"
+      }, 
+      {
+        "question": "Tomorrow at 6 p.m. the programmer __________ a new program.",
+        "choices": ["will write", "writes", "will be writing", "will writing"],
+        "correctAnswer": "will be writing"
+      },
+      { 
+        "question": "This time next week I ____________ email.",
+        "choices": ["will answer", "am answering", "will be answer", "will be answering"],
+        "correctAnswer": "will be answering"
+      },
+      {
+        "question": "This time next week I ________ on a beach or _______ in the sea.",
+        "choices": ["will be lying, swimming", "will lie, swim", "will lying, swimming", "will be lying, swim"],
+        "correctAnswer": "will be lying, swimming"
+      }, 
+      {
+        "question": "Do you think _________ the same job in ten years’ time?",
+        "choices": ["are you still doing", "will you still be doing", "you will still be doing", "you will still doing"],
+        "correctAnswer": "you will still be doing"
+      },
+      {
+        "question": "A system for computer network to receive IP addresses and other configuration information.",
+        "choices": ["LAN", "WLAN", "DHCP", "CAT-5 cables"],
+        "correctAnswer": "DHCP"
+      }, 
+      {
+        "question": "A network that connects a small group of computers.",
+        "choices": ["LAN", "WLAN", "DHCP", "CAT-5 cables"],
+        "correctAnswer": "LAN"
+      },
+      {
+        "question": "The standard cables that connect computers to networks.",
+        "choices": ["LAN", "WLAN", "DHCP", "CAT-5 cables"],
+        "correctAnswer": "CAT-5 cables"
+      },
+      { 
+        "question": "A network that connects computers to a network without cables.",
+        "choices": ["LAN", "WLAN", "DHCP", "CAT-5 cables"],
+        "correctAnswer": "WLAN"
+      },
+      {
+        "question": "A method that allows computer users to receive email from a server.", 
+        "choices": ["POP 3", "domain name", "attachment", "SMTP"],
+        "correctAnswer": "POP 3"
+      },
+      {
+        "question": "A method that allows computer users to send emails to other users.", 
+        "choices": ["POP 3", "SMTP", "attachment", "domain name"],
+        "correctAnswer": "SMTP"
+      }, 
+      {
+        "question": "A file that is sent with an email.",
+        "choices": ["domain name", "SMTP", "attachment", "POP 3"],
+        "correctAnswer": "attachment"
+      },
+      {
+        "question": "A set of words and letters that identify company or address on the Internet.",
+        "choices": ["SMTP", "attachment", "POP 3", "domain name"],
+        "correctAnswer": "domain name"
+      }, 
+      { 
+        "question": "When I _________ her, she _________ the phone.",
+        "choices": ["see / answered     ", "saw / was answering", "saw / answering    ", "saw / is answering"],
+        "correctAnswer": "saw / was answering"
+      },
+      {
+        "question": "He ________ coffee when she ________ him to modify the program.",
+        "choices": ["was drinking / was asking", "drank / was asking", "was drinking / asked", "drank / asked"],
+        "correctAnswer": "was drinking / asked" 
+      },
+      {
+        "question": "Our computer engineers and system analysts __________ software programs now.",
+        "choices": ["are designing", "were designing", "design", "designed"],
+        "correctAnswer": "are designing"
+      }, 
+      {
+        "question": "At the moment Jack ___________ on updating the program.",
+        "choices": ["work", "is working", "works", "are working"],
+        "correctAnswer": "is working"
+      },
+      {
+        "question": "The ability of one program or file to work with a different program.",
+        "choices": ["macro", "spell check", "layout", "compatibility"],
+        "correctAnswer": "compatibility" 
+      },
+      {
+        "question": "The way that items are arranged on a document.",
+        "choices": ["macro", "spell check", "layout", "compatibility"],
+        "correctAnswer": "layout"
+      },
+      {
+        "question": "A function that reviews a document for spelling errors.",
+        "choices": ["macro", "spell check", "layout", "compatibility"],
+        "correctAnswer": "spell check" 
+      },
+      { 
+        "question": "A short keystroke that performs a predetermined action.",
+        "choices": ["macro", "spell check", "layout", "compatibility"],
+        "correctAnswer": "macro"
+      },
+      {
+        "question": "A computer language that is used to construct web sites on the Internet.",
+        "choices": ["http", "URL", "HTML", "meta tag"],
+        "correctAnswer": "HTML" 
+      },
+      {
+        "question": "Text that is used in the codes of a web page to provide information about the site to   search engine.", 
+        "choices": ["http", "URL", "HTML", "meta tag"],
+        "correctAnswer": "meta tag"
+      },
+      {
+        "question": "A part of an Internet address that allows a computer to connect to the site.",
+        "choices": ["http", "URL", "HTML", "meta tag"],
+        "correctAnswer": "http"
+      },
+      {
+        "question": "The text and symbols that form a web address.", 
+        "choices": ["http", "URL", "HTML", "meta tag"],
+        "correctAnswer": "URL" 
+      }, 
+      {
+        "question": "He _________ a new laptop today.",
+        "choices": ["has bought", "have bought", "bought", "buys"],
+        "correctAnswer": "has bought" 
+      },
+      {
+        "question": "He ________ in programming since his childhood.",
+        "choices": ["has been interesting", "was interested", "has been interested", "was interesting"],
+        "correctAnswer": "has been interested"
+      },
+      { 
+        "question": "Alice and Mike ________ to the seaside this summer.",
+        "choices": ["has gone", "have gone", "went", "go"],
+        "correctAnswer": "have gone" 
+      },
+      {
+        "question": "I think it is the best vacation they ________.",
+        "choices": ["ever took", "ever have taken", "have taken ever", "have ever taken"],
+        "correctAnswer": "have ever taken" 
+      }, 
+      {
+        "question": "We weren’t hungry. We ___________ lunch.",
+        "choices": ["just had", "have just had", "had had just", "had just had"],
+        "correctAnswer": "had just had"
+      },
+      {
+        "question": "They _________ their suitcases before I came.",
+        "choices": ["have packed", "had packed", "packed", "were packed"],
+        "correctAnswer": "had packed"
+      }, 
+      {
+        "question": "I _____________ to test a new program by 6 p.m.",
+        "choices": ["will finish", "will be finishing", "will have finish", "will have finished"],
+        "correctAnswer": "will have finished" 
+      },
+      {
+        "question": "The film________ by the time we get to the cinema.",
+        "choices": ["will already have started", "will already start", "will already have start", "already start"],
+        "correctAnswer": "will already have started" 
+      },
+      { 
+        "question": "Jack ________ a desktop computer last month, but now he _______ it down.",
+        "choices": ["bought / has broken", "has bought / broke", "bought / broke", "has bought / has broken"],
+        "correctAnswer": "bought / has broken"
+      },
+      {
+        "question": "Shakespeare ________ many plays. My sister is a writer. She _______ many books.",
+        "choices": ["has written / wrote", "wrote / has written", "wrote / wrote", "has written / has written"],
+        "correctAnswer": "wrote / has written" 
+      }, 
+      {
+        "question": "I _________ golf. (in my life)",
+        "choices": ["never played", "played never", "have never played", "have never play    "],
+        "correctAnswer": "have never played" 
+      },
+      {
+        "question": "I ________ golf when I was on holiday last summer.",
+        "choices": ["don’t play", "didn’t played", "haven’t played", "didn’t play"],
+        "correctAnswer": "didn’t play" 
+      }, 
+      {
+        "question": "When Sarah _______ at the party, Paul________ home.",
+        "choices": ["arrived / already went", "had arrived / already went", "arrived / had already gone", "arrived / has already gone"],
+        "correctAnswer": "arrived / had already gone"
+      },
+      {
+        "question": "When I ______ into the office, everyone ________ to work.",
+        "choices": ["came / has already finished", "came / had already finished", "had come / already finished", "came / had already finish"], 
+        "correctAnswer": "came / had already finished"
+      }, 
+      {
+        "question": "When we got home last night, we found that somebody _______ into the flat.",
+        "choices": ["broke", "has broken", "had broken", "was broken"],
+        "correctAnswer": "had broken"
+      }, 
+      {
+        "question": "Karen didn’t want to come to the cinema with us because she _______ the film.",
+        "choices": ["had already seen", "already saw", "has already seen", "already seen"],
+        "correctAnswer": "had already seen" 
+      },
+      {
+        "question": "I _________ for you for the last half hour.",
+        "choices": ["am looking", "have looked", "look", "have been looking"],
+        "correctAnswer": "have been looking"
+      },
+      {
+        "question": "She ________ English since her childhood.",
+        "choices": ["is learning", "has been learning", "learns", "has learning"],
+        "correctAnswer": "has been learning" 
+      }, 
+      {
+        "question": "It ________ since lunchtime.",
+        "choices": ["is raining", "has raining", "has been raining", "have been raining"],
+        "correctAnswer": "has been raining" 
+      },
+      {
+        "question": "My hands are very dirty. I __________ the car.",
+        "choices": ["have been repairing", "repair", "have repaired", "repaired"],
+        "correctAnswer": "have been repairing" 
+      }, 
+      { 
+        "question": "The car is OK again now. I ________ it.",
+        "choices": ["repaired", "repair", "have repaired", "have been repairing"],
+        "correctAnswer": "have repaired" 
+      },
+      {
+        "question": "Ken gave up smoking two years ago. He _______ for 30 years.",
+        "choices": ["had been smoking", "smokes", "smoked", "has been smoking"],
+        "correctAnswer": "had been smoking"
+      },
+      { 
+        "question": "I was very tired when I arrived home. I ________ hard all day.",
+        "choices": ["worked", "work", "had been working", "am working"],
+        "correctAnswer": "had been working" 
+      },
+      {
+        "question": "How long _________ Jane?",
+        "choices": ["do you know", "have you known", "have you been knowing", "you know"],
+        "correctAnswer": "have you known"
+      },
+      {
+        "question": "A large group of data organized in a computer system. It allows you to search and find information easily.", 
+        "choices": ["spreadsheet", "worksheet", "cell", "database"],
+        "correctAnswer": "database"
+      },
+      {
+        "question": "A computer program that organizes information and perform calculations.", 
+        "choices": ["worksheet", "spreadsheet", "cell", "database"],
+        "correctAnswer": "spreadsheet" 
+      }, 
+      {
+        "question": "A single page of a spreadsheet.",
+        "choices": ["spreadsheet", "worksheet", "cell", "database"],
+        "correctAnswer": "worksheet"
+      },
+      {
+        "question": "A unit of a spreadsheet that holds a piece of information.", 
+        "choices": ["spreadsheet", "worksheet", "database", "cell"],
+        "correctAnswer": "cell" 
+      },
+      {
+        "question": "An icon that has been moved to a desktop to make opening a file or program easier.", 
+        "choices": ["pointer", "shortcut", "folder", "graphical user interface"],
+        "correctAnswer": "shortcut"
+      }, 
+      {
+        "question": "An operating system that uses icons to represent programs and files and allow users to access to them.",
+        "choices": ["pointer", "shortcut", "folder", "graphical user interface"],
+        "correctAnswer": "graphical user interface" 
+      }, 
+      {
+        "question": "It holds and organizes files and documents on a computer.",
+        "choices": ["pointer", "shortcut", "folder", "graphical user interface"],
+        "correctAnswer": "folder"
+      }, 
+      {
+        "question": "A small arrow that lets a user choose what to do on a computer.",
+        "choices": ["pointer", "shortcut", "folder", "graphical user interface"],
+        "correctAnswer": "pointer" 
+      },
+      {
+        "question": "To move files, folders or icons around on a desktop.", 
+        "choices": ["drag", "cycle", "query", "sort"],
+        "correctAnswer": "drag" 
+      }, 
+      {
+        "question": "A search that locates all information of a specific type in a database.",
+        "choices": ["drag", "cycle", "query", "sort"],
+        "correctAnswer": "query" 
+      }, 
+      {
+        "question": "To arrange the information in a database in a specific way.",
+        "choices": ["drag", "cycle", "query", "sort"],
+        "correctAnswer": "sort" 
+      }, 
+      {
+        "question": "To turn a device on a network off and then turn it on again or to unplug from its power source.",
+        "choices": ["drag", "cycle", "query", "sort"], 
+        "correctAnswer": "cycle" 
+      },
+      {
+        "question": "It’s hard to see the details of this picture. Please_________ it so that it is bigger.",
+        "choices": ["contrast", "resize", "graphic editing program", "crop"],
+        "correctAnswer": "resize"
+      },
+      {
+        "question": "I want to edit my pictures. I need a _____________.",
+        "choices": ["contrast", "resize", "graphic editing program", "crop"],
+        "correctAnswer": "graphic editing program"
+      },
+      {
+        "question": "I don’t like the background of this picture. Let’s __________ it out.",
+        "choices": ["contrast", "resize", "graphic editing program", "crop"],
+        "correctAnswer": "crop"
+      },
+      {
+        "question": "This picture is too dark. Make the __________ a little lighter.",
+        "choices": ["contrast", "resize", "graphic editing program", "crop"],
+        "correctAnswer": "contrast"
+      },
+      {
+        "question": "There is no doubt that computer operators ________ have basic computer skills.",
+        "choices": ["should", "must", "cannot", "could"],
+        "correctAnswer": "must"
+      },
+      {
+        "question": "A real professional ________ do without knowledge of English.",
+        "choices": ["should", "must", "cannot", "could"],
+        "correctAnswer": "cannot"
+      },
+      {
+        "question": "To get a good job a person _______ speak English well.",
+        "choices": ["should", "must", "cannot", "could"],
+        "correctAnswer": "should"
+      },
+      {
+        "question": "N. Lunacharsky ________ speak almost all European languages.",
+        "choices": ["should", "must", "cannot", "could"],
+        "correctAnswer": "could"
+      },
+      {
+        "question": "I’m so tired. I _______ for a week.",
+        "choices": ["could sleep", "could have slept", "must sleep", "must have slept"],
+        "correctAnswer": "could sleep" 
+      },
+      {
+        "question": "I was so tired yesterday. I________ for a week.",
+        "choices": ["could sleep", "could have slept", "must sleep", "must have slept"],
+        "correctAnswer": "could have slept"
+      },
+      {
+        "question": "I’m feeling sick. I ________ so much chocolate.",
+        "choices": ["shouldn’t eat", "should eat", "shouldn’t have eaten", "should have eaten"], 
+        "correctAnswer": "shouldn’t have eaten"
+      }, 
+      {
+        "question": "You look tired. You _______ to bed now.",
+        "choices": ["should go", "should have gone", "may go", "can go"],
+        "correctAnswer": "should go"
+      },
+      {
+        "question": "We haven’t got much time. We ______ hurry.",
+        "choices": ["needn’t", "may", "mustn’t", "must"],
+        "correctAnswer": "must" 
+      },
+      {
+        "question": "We’ve got plenty of time. We _______ hurry.",
+        "choices": ["needn’t", "must", "need", "mustn’t"],
+        "correctAnswer": "needn’t"
+      },
+      {
+        "question": "She’s a really nice person. You _______ meet her.",
+        "choices": ["have to", "must", "can", "may"],
+        "correctAnswer": "must"
+      },
+      {
+        "question": "My eyesight isn’t very good. I _______ wear glasses for reading.",
+        "choices": ["can", "may", "have to", "must"],
+        "correctAnswer": "have to" 
+      },
+      {
+        "question": "Shortcuts _______ on the desktop, and you can click them to get to a program quickly.", 
+        "choices": ["place", "is placed", "placed", "are placed"],
+        "correctAnswer": "are placed" 
+      },
+      {
+        "question": "Databases and spreadsheets __________ by employees incorrectly.",
+        "choices": ["often use", "are often used", "is often used", "often uses"],
+        "correctAnswer": "are often used"
+      },
+      {
+        "question": "An attachment is a file that _______ with an email.",
+        "choices": ["is sent", "is send", "sends", "sent"],
+        "correctAnswer": "is sent" 
+      },
+      {
+        "question": "RAM is memory that ___________.", 
+        "choices": ["can be quickly access", "can quickly access", "can be quickly accessed", "can quickly accessed"],
+        "correctAnswer": "can be quickly accessed" 
+      }, 
+      {
+        "question": "A printer is a device that _______ by a computer to transfer ink onto paper.",
+        "choices": ["uses", "are used", "use", "is used"],
+        "correctAnswer": "is used"
+      }, 
+      {
+        "question": "Layout is the way that items __________ on a document.",
+        "choices": ["arranged", "are arranged", "is arranged", "arrange"],
+        "correctAnswer": "are arranged"
+      },
+      { 
+        "question": "The battery _________ at the moment.",
+        "choices": ["is being charged", "is charging", "is being charge", "is being charging"],
+        "correctAnswer": "is being charged" 
+      },
+      {
+        "question": "The oil __________ now.",
+        "choices": ["is changing", "is being change", "is being changed", "changes"],
+        "correctAnswer": "is being changed" 
+      }, 
+      {
+        "question": "The balcony door ________ before the thunderstorm broke out.",
+        "choices": ["hadn’t closed", "didn’t close", "hadn’t been closed", "hadn’t been close"],
+        "correctAnswer": "hadn’t been closed" 
+      }, 
+      {
+        "question": "They had repaired the TV set but the player _______ by the New Year.",
+        "choices": ["hadn’t repaired", "hadn’t been repaired", "wasn’t repaired", "didn’t repair"],
+        "correctAnswer": "hadn’t been repaired"
+      }, 
+      {
+        "question": "The hardware devices attached to the computer _________ peripheral equipment.", 
+        "choices": ["is called", "were called", "will be called", "are called"],
+        "correctAnswer": "are called" 
+      }, 
+      {
+        "question": "Software __________ into two categories: System Software and Application Software.", 
+        "choices": ["can be classified", "can classify", "can be classify", "can classified"],
+        "correctAnswer": "can be classified"
+      },
+      {
+        "question": "It is a group of disk drives that are connected and used as a single unit.",
+        "choices": ["USB flash drive   ", "zip drive   ", "array   ", "floppy disk"],
+        "correctAnswer": "array   " 
+      }, 
+      {
+        "question": "It is a flexible magnetic storage disk encased in a square plastic shell that is used to    transfer data.", 
+        "choices": ["USB flash drive   ", "zip drive   ", "array   ", "floppy disk"],
+        "correctAnswer": "floppy disk" 
+      },
+      {
+        "question": "It is a portable flash memory system that uses a USB interface to connect to a computer and transfer information.", 
+        "choices": ["USB flash drive   ", "zip drive   ", "array   ", "floppy disk"],
+        "correctAnswer": "USB flash drive   " 
+      }, 
+      {
+        "question": "It is a removable disk storage system that is typically used to transfer data.", 
+        "choices": ["USB flash drive   ", "zip drive   ", "array   ", "floppy disk"],
+        "correctAnswer": "zip drive   " 
+      },
+      {
+        "question": "Using ________ blurs a photo’s detail.", 
+        "choices": ["digital zoom   ", "optical zoom   ", "upload    ", "freeze"],
+        "correctAnswer": "digital zoom   " 
+      }, 
+      {
+        "question": "A thicker lens will increase your camera’s _________.", 
+        "choices": ["digital zoom   ", "optical zoom   ", "upload    ", "freeze"],
+        "correctAnswer": "optical zoom   " 
+      }, 
+      {
+        "question": "Did you _________ the file yet? ", 
+        "choices": ["digital zoom   ", "optical zoom   ", "upload    ", "freeze"],
+        "correctAnswer": "upload    "
+      },
+      {
+        "question": "Computers _________ when too many programs are open.", 
+        "choices": ["digital zoom   ", "optical zoom   ", "upload    ", "freeze"],
+        "correctAnswer": "freeze"
+      }, 
+      {
+        "question": "Every day Johnny ___ to a street corner and _____ for the school bus.", 
+        "choices": ["walks…waits", "is walking…waits", "walks…is waiting", "is walking…is waiting"],
+        "correctAnswer": "walks…waits" 
+      }, 
+      {
+        "question": "Ann _____ like her friend’s dog; she thinks hers is better.", 
+        "choices": ["does    ", "don't   ", "doesn't     ", "isn't"],
+        "correctAnswer": "doesn't     " 
+      }, 
+      {
+        "question": "Kate is a vegetarian, she ______ meat.", 
+        "choices": ["isn’t eating    ", "hasn’t been eating   ", "doesn’t eat   ", "don’t eat"],
+        "correctAnswer": "doesn’t eat   " 
+      }, 
+      {
+        "question": "_____ you believe that Nick will go to London next month?", 
+        "choices": ["Are     ", "Do   ", "Is     ", "Have"],
+        "correctAnswer": "Do   "
+      }, 
+      {
+        "question": "My sister _____ some new clothes last week.", 
+        "choices": ["had bought           ", "bought       ", "was buying         ", "has bought"],
+        "correctAnswer": "bought       " 
+      }, 
+      {
+        "question": "When ______ from his business trip?",
+        "choices": ["has he returned                                    ", "did he return", "was he returning                                  ", "did he returned"],
+        "correctAnswer": "did he return" 
+      },
+      {
+        "question": "I _______ to Mr. Lloyds yesterday. ", 
+        "choices": ["speak          ", "spoke        ", "speaks       ", "will speak"],
+        "correctAnswer": "spoke        "
+      },
+      {
+        "question": "The room was empty. There _______ nobody.", 
+        "choices": ["were     ", "was     ", "is      ", "are"],
+        "correctAnswer": "was     "
+      }, 
+      {
+        "question": "Her son ______ a computer soon. His father has given money for it.", 
+        "choices": ["have     ", "will have       ", "has        ", "won't have "],
+        "correctAnswer": "will have       "
+      }, 
+      {
+        "question": "______ people work better if they are given complete freedom and responsibility?", 
+        "choices": ["Will     ", "Were    ", "Is     ", "Do"],
+        "correctAnswer": "Will     "
+      },
+      {
+        "question": "Who ___ Phil with his homework tomorrow?",
+        "choices": ["will help    ", "helps   ", "do help    ", "has help"],
+        "correctAnswer": "will help    "
+      }, 
+      {
+        "question": "Boris ______ a new CPU in two days.", 
+        "choices": ["buy       ", "buys      ", "will buy      ", "bought"],
+        "correctAnswer": "will buy      " 
+      }, 
+      {
+        "question": "The computer has a ________ of 64 bits.", 
+        "choices": ["bus speed", "MB", "bit size", "RAM"],
+        "correctAnswer": "bit size" 
+      },
+      {
+        "question": "The computer’s CPU has a__________ of 800 MHz.", 
+        "choices": ["bus speed", "MB", "bit size", "RAM"],
+        "correctAnswer": "bus speed"
+      },
+      {
+        "question": "The computer comes with 900 _________ of RAM.", 
+        "choices": ["bus speed", "MB", "bit size", "RAM"],
+        "correctAnswer": "MB" 
+      }, 
+      {
+        "question": "Install additional ________ into the motherboard.", 
+        "choices": ["bus speed", "MB", "bit size", "RAM"],
+        "correctAnswer": "RAM" 
+      }, 
+      {
+        "question": "It is a programming language that is used to program operating systems.", 
+        "choices": ["Assembler    ", "C     ", "C++   ", "Java"],
+        "correctAnswer": "C     " 
+      }, 
+      {
+        "question": "It is a programming language that adds object-oriented programming capabilities to C.", 
+        "choices": ["Assembler    ", "C     ", "C++   ", "Java"],
+        "correctAnswer": "C++   " 
+      }, 
+      {
+        "question": "It is a low level programming language that translates between computer programs.", 
+        "choices": ["Assembler    ", "C     ", "C++   ", "Java"],
+        "correctAnswer": "Assembler    "
+      }, 
+      {
+        "question": "It is an object-oriented programming language.", 
+        "choices": ["Assembler    ", "C     ", "C++   ", "Java"],
+        "correctAnswer": "Java"
+      },
+      {
+        "question": "This coffee shop has a(n) _________ so customers can go online.",
+        "choices": ["antivirus software", "ISP", "hotspot", "wireless router"],
+        "correctAnswer": "hotspot"
+      },
+      {
+        "question": "Contact your _______ to get in touch with tech support.",
+        "choices": ["antivirus software", "ISP", "hotspot", "wireless router"],
+        "correctAnswer": "ISP"
+      },
+      {
+        "question": "You need a(n) _________ to get a Wi-Fi network.",
+        "choices": ["antivirus software", "ISP", "hotspot", "wireless router"],
+        "correctAnswer": "wireless router"
+      },
+      {
+        "question": "Using _________ protects your computer.",
+        "choices": ["antivirus software", "ISP", "hotspot", "wireless router"],
+        "correctAnswer": "antivirus software"
+      },
+      {
+        "question": "A feature of some cell phones that lets you dial a number by voice instead of by hand.",
+        "choices": ["voice activation", "voicemail", "caller ID", "call waiting"],
+        "correctAnswer": "voice activation"
+      }, 
+      {
+        "question": "A feature that lets you listen to or leave an electronic spoken message on a cell phone.",
+        "choices": ["voice activation", "voicemail", "caller ID", "call waiting"],
+        "correctAnswer": "voicemail"
+      },
+      {
+        "question": "A feature of some cell phones that tells you the name and the number of person calling you.", 
+        "choices": ["voice activation", "voicemail", "caller ID", "call waiting"],
+        "correctAnswer": "caller ID" 
+      },
+      {
+        "question": "A feature of some cell phones which alerts you that someone is calling while you are on the line with someone else.", 
+        "choices": ["voice activation", "voicemail", "caller ID", "call waiting"],
+        "correctAnswer": "call waiting" 
+      },
+      {
+        "question": "Tom can ___ tennis well but he wasn't able ___ a game yesterday because he was ill.",
+        "choices": ["play, to play   ", "to play, to play   ", "play, play   ", "to play, play"],
+        "correctAnswer": "play, to play   "
+      },
+      {
+        "question": "It's high time for you __ working.",
+        "choices": ["to start     ", "start      ", "starting      ", "to be starting"],
+        "correctAnswer": "to start     "
+      },
+      {
+        "question": "He promised _______ late.", 
+        "choices": ["not be    ", "not to be    ", "not being    ", "don’t be"],
+        "correctAnswer": "not to be    "
+      }, 
+      {
+        "question": "We asked how ______ to the station.", 
+        "choices": ["get    ", "getting     ", "to get     ", "will get"],
+        "correctAnswer": "to get     " 
+      },
+      {
+        "question": "We saw ______ out.", 
+        "choices": ["them go   ", "them to go   ", "they go   ", "they to go"],
+        "correctAnswer": "them go   "
+      },
+      {
+        "question": "I’ve never seen ________.", 
+        "choices": ["she dances", "she to dance", "her to dance", "her dance"],
+        "correctAnswer": "her dance" 
+      }, 
+      {
+        "question": "I didn’t hear ______ in.", 
+        "choices": ["he comes", "he to come", "him come", "him to come"],
+        "correctAnswer": "him come"
+      }, 
+      {
+        "question": "Do you want ______ the router?",
+        "choices": ["me to check", "I to check", "me check", "I check"],
+        "correctAnswer": "me to check"
+      },
+      {
+        "question": "Известно, что он хороший программист.", 
+        "choices": ["He knows to be a good programmer.", "He is known to be a good programmer.", "He is a good programmer.", "It knows he to be a good programmer."],
+        "correctAnswer": "He is known to be a good programmer." 
+      }, 
+      {
+        "question": "Говорят, что он закончил университет.", 
+        "choices": ["He has graduated from the University.", "He says to graduate from the University.", "He is said to have graduated from the University.", "It says he graduated from the University."],
+        "correctAnswer": "He is said to have graduated from the University."
+      }, 
+      {
+        "question": "Ожидалось, что гости приедут утром.", 
+        "choices": ["The guests were expected to arrive in the morning.", "They expected to arrive in the morning.", "The guests are expected to arrive in the morning.", "The guests expected will arrive in the morning."],
+        "correctAnswer": "The guests were expected to arrive in the morning."
+      }, 
+      {
+        "question": "Казалось, что погода улучшилась.", 
+        "choices": ["The weather is appeared has improved.", "The weather appeared to improve.", "The weather appeared to have improved.", "The weather appeared improve."],
+        "correctAnswer": "The weather appeared to have improved." 
+      },
+      {
+        "question": "Stop _________! You are too loud.",
+        "choices": ["to talk       ", "talk          ", "talking            ", "into talking"],
+        "correctAnswer": "talking            "
+      },
+      {
+        "question": "I think ______ should be forbidden in the workplace.",
+        "choices": ["to smoke    ", "smoke    ", "smoking          ", "smoked"],
+        "correctAnswer": "smoking          "
+      },
+      {
+        "question": "We went _______ last holiday.", 
+        "choices": ["to hike       ", "hiking     ", "for hiking        ", "to hiking"],
+        "correctAnswer": "hiking     " 
+      }, 
+      {
+        "question": "He enjoys ________ to music.", 
+        "choices": ["to listen    ", "listening   ", "for listening    ", "to listening"],
+        "correctAnswer": "listening   " 
+      },
+      {
+        "question": "All of Joe’s contacts are saved on his _________.", 
+        "choices": ["barcode", "data plan", "email", "PDA"],
+        "correctAnswer": "PDA" 
+      }, 
+      {
+        "question": "To track the package you must scan its _________.", 
+        "choices": ["barcode", "data plan", "email", "PDA"],
+        "correctAnswer": "barcode" 
+      }, 
+      {
+        "question": "A(n) ___________ allows users to browse the Internet on smartphones.",
+        "choices": ["barcode", "data plan", "email", "PDA"], 
+        "correctAnswer": "data plan" 
+      }, 
+      {
+        "question": "Please send a(n) __________ with the receipt attached.",
+        "choices": ["barcode", "data plan", "email", "PDA"],
+        "correctAnswer": "email"
+      }, 
+      {
+        "question": "An object’s location east or west of the Prime Meridian.", 
+        "choices": ["latitude", "longitude", "navigation", "waypoints"],
+        "correctAnswer": "longitude"
+      }, 
+      {
+        "question": "An object’s location north or south of the Equator.", 
+        "choices": ["latitude", "longitude", "navigation", "waypoints"],
+        "correctAnswer": "latitude" 
+      }, 
+      {
+        "question": "Locations that you can mark or record in your GPS.", 
+        "choices": ["latitude", "longitude", "navigation", "waypoints"],
+        "correctAnswer": "waypoints" 
+      }, 
+      {
+        "question": "The act of creating a route to a destination.", 
+        "choices": ["latitude", "longitude", "navigation", "waypoints"],
+        "correctAnswer": "navigation" 
+      }, 
+      {
+        "question": "The________ site helps you meet other professionals.", 
+        "choices": ["feed   ", "MMORPG   ", "social networking   ", "gaming"],
+        "correctAnswer": "social networking   "
+      }, 
+      {
+        "question": "Sarah enjoys ________ and spends all her money on games.", 
+        "choices": ["feed   ", "MMORPG   ", "social networking   ", "gaming"],
+        "correctAnswer": "gaming" 
+      }, 
+      {
+        "question": "Shadow of Doubt is a(n) ________ with many players.", 
+        "choices": ["feed   ", "MMORPG   ", "social networking   ", "gaming"],
+        "correctAnswer": "MMORPG   " 
+      },
+      {
+        "question": "I receive updates about products through a news ___________.", 
+        "choices": ["feed   ", "MMORPG   ", "social networking   ", "gaming"],
+        "correctAnswer": "feed   "
+      },
+      {
+        "question": "_________ he will never agree to this plan is absolutely clear.", 
+        "choices": ["that", "what", "who", "whoever"],
+        "correctAnswer": "that" 
+      },
+      {
+        "question": "_________ is elected Prime Minister, lives at 10, Downing Street.", 
+        "choices": [" that", "what", "who", "whoever"],
+        "correctAnswer": "whoever"
+      }, 
+      {
+        "question": "_________ her mother was, was the question.",
+        "choices": ["that", "what", "who", "whoever"],
+        "correctAnswer": "who"
+      },
+      {
+        "question": "_________ was done could not be underdone.", 
+        "choices": ["that", "what", "who", "whoever"],
+        "correctAnswer": "what" 
+      }, 
+      {
+        "question": "The decision is ________ we have been hoping for.", 
+        "choices": ["that", "what", "whether", "whatever"],
+        "correctAnswer": "what"
+      }, 
+      {
+        "question": "But his chief trouble was _________ he didn’t know any editor or writer.", 
+        "choices": ["that", "what", "whether", "whatever"],
+        "correctAnswer": "that" 
+      }, 
+      {
+        "question": "Time will show _______ I’m right or wrong.", 
+        "choices": ["that", "what", "whether", "whatever"],
+        "correctAnswer": "whether"
+      }, 
+      {
+        "question": "I’m always ready to listen to ________ you may say.", 
+        "choices": ["that", "what", "whether", "whatever"],
+        "correctAnswer": "whatever" 
+      }, 
+      {
+        "question": "The man _______ wants to buy my house is your friend.", 
+        "choices": ["who", "that", "where", "why"],
+        "correctAnswer": "who" 
+      },
+      {
+        "question": "The letter ________ arrived this morning was wrongly addressed.",
+        "choices": ["who", "that", "where", "why"],
+        "correctAnswer": "that" 
+      },
+      {
+        "question": "We visited the town ______ I was born.",
+        "choices": ["who", "that", "where", "why"],
+        "correctAnswer": "where" 
+      }, 
+      {
+        "question": "There must be a reason ________ you said that.",
+        "choices": ["who", "that", "where", "why"],
+        "correctAnswer": "why" 
+      }, 
+      {
+        "question": "I have drawn a diagram _______ my explanation will be clear.",
+        "choices": ["so that", "as if", "in the way", "as"],
+        "correctAnswer": "so that"
+      }, 
+      {
+        "question": "She acts _______ she owns the place.", 
+        "choices": ["so that", "as if", "in the way", "as"],
+        "correctAnswer": "as if"
+      },
+      {
+        "question": "______ I had no money with me, I didn’t pay him.",
+        "choices": ["so that", "as if", "in the way", "as"],
+        "correctAnswer": "as" 
+      },
+      {
+        "question": "They did it _______ I had never seen before.", 
+        "choices": ["so that", "as if", "in the way", "as"],
+        "correctAnswer": "in the way" 
+      },
+      {
+        "question": "The scientific study of robots and their structure and movement.",
+        "choices": ["robotics   ", "end-effector    ", "manipulator    ", "actuator"],
+        "correctAnswer": "robotics   "
+      },
+      {
+        "question": "The hand or tool at the end of a robot’s manipulator.",
+        "choices": ["robotics   ", "end-effector    ", "manipulator    ", "actuator"],
+        "correctAnswer": "end-effector    "
+      },
+      {
+        "question": "The arm of a robot.",
+        "choices": ["robotics   ", "end-effector    ", "manipulator    ", "actuator"],
+        "correctAnswer": "manipulator    "
+      },
+      {
+        "question": "A piece of equipment that makes a robot move.",
+        "choices": ["robotics   ", "end-effector    ", "manipulator    ", "actuator"],
+        "correctAnswer": "actuator"
+      },
+      {
+        "question": "Books or magazines produced by a publishing company.",
+        "choices": ["PDF reader   ", "offline   ", "system requirements    ", "publications"],
+        "correctAnswer": "publications"
+      },
+      {
+        "question": "A program that opens text documents.",
+        "choices": ["PDF reader   ", "offline   ", "system requirements    ", "publications"],
+        "correctAnswer": "PDF reader   "
+      },
+      {
+        "question": "Being available for use even when not connected to the Internet.",
+        "choices": ["PDF reader   ", "offline   ", "system requirements    ", "publications"],
+        "correctAnswer": "offline   "
+      },
+      {
+        "question": "The software or hardware that is needed to run a program.",
+        "choices": ["PDF reader   ", "offline   ", "system requirements    ", "publications"],
+        "correctAnswer": "system requirements    "
+      },
+      {
+        "question": "A library server program that allows remote users to access the library’s electronic materials.",
+        "choices": ["EZ proxy", "VPN", "subscription", "remote access"],
+        "correctAnswer": "EZ proxy"
+      },
+      {
+        "question": "A way to encrypt a connection using when you use remote access.",
+        "choices": ["EZ proxy", "VPN", "subscription", "remote access"],
+        "correctAnswer": "VPN"
+      },
+      {
+        "question": "The agreement to use something, often requiring a fee.",
+        "choices": ["EZ proxy", "VPN", "subscription", "remote access"],
+        "correctAnswer": "subscription"
+      },
+      {
+        "question": "The ability to use online library resources from outside the library.",
+        "choices": ["EZ proxy", "VPN", "subscription", "remote access"],
+        "correctAnswer": "remote access"
+      },
+      {
+        "question": "The process of classifying objects by examining their visual appearance.",
+        "choices": ["pattern recognition", "computer vision", "algorithm", "consciousness"],
+        "correctAnswer": "pattern recognition"
+      },
+      {
+        "question": "The field and technology of making computers that have the ability to see.",
+        "choices": ["pattern recognition", "computer vision", "algorithm", "consciousness"],
+        "correctAnswer": "computer vision"
+      },
+      {
+        "question": "The state of being aware of oneself and one’s actions.",
+        "choices": ["pattern recognition", "computer vision", "algorithm", "consciousness"],
+        "correctAnswer": "consciousness"
+      },
+      {
+        "question": "A rule or set of rules that provides steps to take or questions to ask in order to solve a problem.",
+        "choices": ["pattern recognition", "computer vision", "algorithm", "consciousness"],
+        "correctAnswer": "algorithm"
+      },
+      {
+        "question": "If it _________ like rain, we _________at home.",
+        "choices": ["look / will stay", "looks / will stay", "will look / will stay", "will look / stay"],
+        "correctAnswer": "looks / will stay"
+      },
+      {
+        "question": "If I ________ you, I __________ there myself.",
+        "choices": ["was / will go", "were / will go", "were / would go", "were / went"],
+        "correctAnswer": "were / would go"
+      },
+      {
+        "question": "If it ________, I _________.",
+        "choices": ["were not raining / could go out", "was not raining / can go out", "were not raining / can go out", "is not raining / could go out"],
+        "correctAnswer": "were not raining / could go out"
+      },
+      {
+        "question": "If he _________ on Friday, he ________ to go with us.",
+        "choices": ["is working / isn’t able", "will be working / won’t be able", "will be working / isn’t able", "is working / won’t be able"],
+        "correctAnswer": "is working / won’t be able"
+      },
+      {
+        "question": "In case I ________ her at home, I ________ her a note.",
+        "choices": ["won’t find / will leave", "don’t find / will leave", "don’t find / leave", "won’t find / leave"],
+        "correctAnswer": "don’t find / will leave"
+      },
+      {
+        "question": "If you knew him better, you __________ so.",
+        "choices": ["won’t think", "don’t think", "wouldn’t think", "aren’t think"],
+        "correctAnswer": "wouldn’t think"
+      },
+      {
+        "question": "If we don’t hurry, we ______ late.",
+        "choices": ["are", "were", "would be", "will be"],
+        "correctAnswer": "will be"
+      },
+      {
+        "question": "If his English were good, he __________ English books in the original.",
+        "choices": ["reads", "will read", "would read", "read"],
+        "correctAnswer": "would read"
+      },
+      {
+        "question": "If it hadn’t been so hot last summer, we __________ to the South.",
+        "choices": ["would have gone", "would go", "will go", "go"],
+        "correctAnswer": "would have gone"
+      },
+      {
+        "question": "If he had the money, he _______ a car.",
+        "choices": ["will buy", "would buy", "would have bought", "bought"],
+        "correctAnswer": "would buy"
+      },
+      {
+        "question": "The view was wonderful. If I’d had a camera, I ____________some photographs.",
+        "choices": ["will take", "took", "would take", "would have taken"],
+        "correctAnswer": "would have taken"
+      },
+      {
+        "question": "If I had seen you, I ____________ hello.",
+        "choices": ["would have said", "will say", "would say", "say"],
+        "correctAnswer": "would have said"
+      },
+      {
+        "question": "Do you ever wish you ________?",
+        "choices": ["can fly", "could fly", "could have fly", "fly"],
+        "correctAnswer": "could fly"
+      },
+      {
+        "question": "It’s very crowded here. I wish there __________ so many people.",
+        "choices": ["wasn’t", "weren’t", "hadn’t been", "will be"],
+        "correctAnswer": "weren’t"
+      },
+      {
+        "question": "I feel sick. I wish I __________ so much cake. (I ate too much cake)",
+        "choices": ["hadn’t eaten", "didn’t eat", "won’t eat", "wouldn’t eat"],
+        "correctAnswer": "hadn’t eaten"
+      },
+      {
+        "question": "Do you wish you ________ science instead of languages. (you didn’t study science)",
+        "choices": ["studied", "will study", "would study", "had studied"],
+        "correctAnswer": "had studied"
+      },
+      {
+        "question": "It ________ cheaper if we _______ by bus.",
+        "choices": ["is / will go", "will be / go", "is / go", "will be / will go"],
+        "correctAnswer": "will be / go"
+      },
+      {
+        "question": "If you _________ the exam you __________ a certificate.",
+        "choices": ["pass / will get", "will pass / will get", "will pass / get", "pass / get"],
+        "correctAnswer": "pass / will get"
+      },
+      {
+        "question": "Jane likes living in a city. She ________ happy if she lived in the country.",
+        "choices": ["isn’t", "won’t be", "wouldn’t be", "wouldn’t have been"],
+        "correctAnswer": "wouldn’t be"
+      },
+      {
+        "question": "What would you do if you _________ a lot of money?",
+        "choices": ["win", "won", "would win", "would have won"],
+        "correctAnswer": "won"
+      },
+      {
+        "question": "Online banking offers _________ to monitor __________.",
+        "choices": ["PINs / identity theft", "account alerts / bill pay", "electronic statements / account activity", "site key / lockout"],
+        "correctAnswer": "electronic statements / account activity"
+      },
+      {
+        "question": "Online banks have a(n) _______ and a(n) _______ to secure transactions.",
+        "choices": ["SSL connection / site key", "PIN, electronic statements", "account alerts / bill pay", "lockout / account activity"],
+        "correctAnswer": "SSL connection / site key"
+      },
+      {
+        "question": "To protect members from fraud, online banks use ______ and ______.",
+        "choices": ["site keys / account activity", "lockouts / account alerts", "PINs / electronic funds transfer", "bill pay / identity theft"],
+        "correctAnswer": "lockouts / account alerts"
+      },
+      {
+        "question": "Online banks protect you from ________ and __________.",
+        "choices": ["PINs / electronic funds transfer", "SSL connection / site key", "lockout / bill pay", "bank fraud / identity theft"],
+        "correctAnswer": "bank fraud / identity theft"
+      }  
+]
