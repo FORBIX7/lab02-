@@ -663,6 +663,7 @@
         ],
         "correctAnswers": [
             "для конструкторов класса",
+            "для элементов ссылочных типов",
             "для типов (классов и интерфейсов) объявления верхнего уровня"
         ]
     },
@@ -938,8 +939,7 @@
         ],
         "correctAnswers": [
             "предоставляет возможность производить многократную запись небольших блоков данных без обращения к устройству вывода",
-            "запись с использованием буфера значительно быстрее, чем без него",
-            "инициирование передачи содержимого буфера на устройство вывода можно осуществить явным образом"
+            "запись с использованием буфера значительно быстрее, чем без него"
         ]
     },
     {
@@ -1888,7 +1888,6 @@
         ],
         "correctAnswers": [
             "int",
-            "char",
             "short",
             "long"
         ]
@@ -2213,9 +2212,7 @@
             "array[]"
         ],
         "correctAnswers": [
-            "array[1]",
-            "array[0]",
-            "array[]"
+            "array[0]"
         ]
     },
     {
@@ -2432,14 +2429,14 @@
     {
         "question": "class Mountain {\n  static String name = \"Himalaya\";\n  static Mountain getMountain() {\n    System.out.println(\"Getting Name \");\n    return null;\n  }\n  public static void main(String[ ] args) {\n    System.out.println( getMountain().name );\n  }\n}\n\nЧто произойдет при попытке выполнения данного кода:",
         "choices": [
-            "1.\tБудет выведено «Himalaya» но НЕ будет выведено «Getting Name „",
-            "1.\tБудет выведено “Getting Name » и «Himalaya»",
-            "1.\tНичего не будет выведено",
-            "1.\tБудет выброшен NullPointerException",
-            "1.\tБудет выведено «Getting Name », а потом выброшено NullPointerException"
+            "Будет выведено «Himalaya» но НЕ будет выведено «Getting Name „",
+            "Будет выведено “Getting Name » и «Himalaya»",
+            "Ничего не будет выведено",
+            "Будет выброшен NullPointerException",
+            "Будет выведено «Getting Name », а потом выброшено NullPointerException"
         ],
         "correctAnswers": [
-            "1.\tБудет выведено «Getting Name », а потом выброшено NullPointerException"
+            "Будет выведено «Getting Name », а потом выброшено NullPointerException"
         ]
     },
     {
@@ -2613,6 +2610,7 @@
             "public class SomeClass { static int a = SomeClass.b; static int SomeClass.b = 5; }"
         ],
         "correctAnswers": [
+            "public class SomeClass { int a = b; static int b = 5; }",
             "public class SomeClass { int a = SomeClass.b; static int b = 5; }",
             "public class SomeClass { static int a = SomeClass.b; static int b = 5; }"
         ]
@@ -2622,12 +2620,12 @@
         "choices": [
             "для конструкторов класса",
             "для типов (классов и интерфейсов) объявления верхнего уровня",
-            "для элементов ссылочных типов",
-            "для пакетов"
+            "для элементов ссылочных типов для пакетов"
         ],
         "correctAnswers": [
             "для конструкторов класса",
-            "для типов (классов и интерфейсов) объявления верхнего уровня"
+            "для типов (классов и интерфейсов) объявления верхнего уровня",
+            "для элементов ссылочных типов для пакетов"
         ]
     },
     {
@@ -2640,8 +2638,8 @@
             "double nextGaussian()— возвращает случайное число в диапазоне от 0.0 до 1.0 распределенное по нормальному закону"
         ],
         "correctAnswers": [
-            "используется для получения\nпоследовательности псевдослучайных чисел",
-            "double nextGaussian()— возвращает случайное число в диапазоне от 0.0 до 1.0 распределенноепо нормальному закону"
+            "void nextBytes(byte[] arr) — заполняет массив arr нулями",
+            "double nextGaussian()— возвращает случайное число в диапазоне от 0.0 до 1.0 распределенное по нормальному закону"
         ]
     },
     {
@@ -2822,16 +2820,16 @@
         ]
     },
     {
-        "question": "```java\nclass Mountain {\n  static String name = \"Himalaya\";\n  static Mountain getMountain() {\n    System.out.println(\"Getting Name \");\n    return null;\n  }\n  public static void main(String[ ] args) {\n    System.out.println( getMountain().name );\n  }\n}\n```\n\nЧто произойдет при попытке выполнения данного кода:",
+        "question": "Что произойдет при попытке выполнения данного кода:\n\nclass Mountain {\n  static String name = \"Himalaya\";\n  static Mountain getMountain() {\n    System.out.println(\"Getting Name \");\n    return null;\n  }\n  public static void main(String[ ] args) {\n    System.out.println( getMountain().name );\n  }\n}\n",
         "choices": [
-            "Будет выведено «Himalaya» но НЕ будет выведено «Getting Name „",
-            "Будет выведено “Getting Name » и «Himalaya»",
+            "Будет выведено «Himalaya» но НЕ будет выведено «Getting Name »",
+            "Будет выведено «Getting Name » и «Himalaya»",
             "Ничего не будет выведено",
             "Будет выброшен NullPointerException",
             "Будет выведено «Getting Name », а потом выброшено NullPointerException"
         ],
         "correctAnswers": [
-            "Будет выведено «Getting Name », а потом выброшено NullPointerException"
+            "Будет выведено «Getting Name » и «Himalaya»"
         ]
     },
     {
@@ -2963,6 +2961,7 @@
             "public class SomeClass { static int a = b; static int b = 5; }"
         ],
         "correctAnswers": [
+            "public class SomeClass { int a = b; static int b = 5; }",
             "public class SomeClass { int a = SomeClass.b; static int b = 5; }",
             "public class SomeClass { static int a = SomeClass.b; static int b = 5; }"
         ]
@@ -2976,7 +2975,8 @@
         ],
         "correctAnswers": [
             "для конструкторов класса",
-            "для типов (классов и интерфейсов) объявления верхнего уровня"
+            "для типов (классов и интерфейсов) объявления верхнего уровня",
+            "для элементов ссылочных типов для пакетов"
         ]
     },
     {
@@ -3234,7 +3234,7 @@
             "процесс разработки ПО, который обеспечивает упорядоченность к распределению задач и обязанностей в организации-разработчике"
         ],
         "correctAnswers": [
-            "подход, при котором требования к системе воспринимаются с точки зрения классов и объектов, выявленных в предметной области"
+            "подход, при котором система разбивается на функциональные подсистемы, которые в свою очередь делятся на подфункции, подразделяемые на задачи и так далее"
         ]
     },
     {
@@ -3257,7 +3257,7 @@
             "в виде иерархии"
         ],
         "correctAnswers": [
-            "в виде иерархии"
+            "в виде ориентированного графа"
         ]
     },
     {
@@ -3279,7 +3279,7 @@
             "«объект-часть» может включаться сразу в несколько ''объектов-целое''"
         ],
         "correctAnswers": [
-            "иерархия выстраивается с использованием двух отношений: композиция и наследование"
+            "модуль состоит из функций, иерархически связанных между собой отношением композиции"
         ]
     },
     {
@@ -3443,7 +3443,7 @@
             "позволяет отделить самые существенные особенности поведения от несущественных"
         ],
         "correctAnswers": [
-            "позволяет отделить самые существенные особенности поведения от несущественных"
+            "выделяет характеристики объекта, отличающие его от других объектов"
         ]
     },
     {
@@ -3488,7 +3488,7 @@
             "перечень всех свойств данного объекта и текущими значениями каждого из этих свойств"
         ],
         "correctAnswers": [
-            "то, как объект действует и реагирует"
+            "свойство объекта или такой набор свойств, который отличает его от всех других объектов"
         ]
     },
     {
