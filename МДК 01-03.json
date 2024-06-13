@@ -423,6 +423,7 @@
   },
   {
     "question": "Приложение какого вида имеет смысл использовать для отображения динамической информации, такой как заряд батареи, прогноз погоды, дата и время?",
+    "image": "",
     "choices": [
       "виджет",
       "фоновое приложение",
@@ -511,6 +512,7 @@
   },
   {
     "question": "Какой компонент управляет распределенным множеством данных приложения?",
+    "image": "",
     "choices": [
       "активность (Activity)",
       "сервис (Service)",
@@ -3445,14 +3447,15 @@
   },
   {
     "question": "Выберите строку с верным синтаксисом:",
+    "image": "",
     "choices": [
-      "for (int i=0;i <X; i ++)",
+      " for (int i=0;i < X; i++)",
       "for (int i=0;X; i ++)",
       "for (int i=0;i <X; i =1)",
       "for (int i=0;X; i =1)"
     ],
     "correctAnswers": [
-      "for (int i=0;i <X; i ++)"
+      " for (int i=0;i < X; i++)"
     ]
   },
   {
@@ -3862,16 +3865,16 @@
   {
     "question": "Нужно осуществить разрешение для URI контент-провайдера. Вы хотите указать путь, начинающийся с /contacts/. Какую конфигурацию для вашей службы необходимо поместить в файл AndroidManifest.xml?",
     "choices": [
-        "&lt;grant-uri-permission android:path='/contact/*' /&gt;",
-        "< grant-uri-permission android:pathPrefix='/'path='contacts'/>",
-        "&lt;add-uri-permission android:pathPrefix='/contact/*' /&gt;",
-        "&lt;grant-uri-permission android:pathPrefix='/contact/*' /&gt;",
-        "&lt;add-uri-permission android:path='/contact/*' /&gt;"
+      "&lt;grant-uri-permission android:path='/contact/*' /&gt;",
+      "< grant-uri-permission android:pathPrefix='/'path='contacts'/>",
+      "&lt;add-uri-permission android:pathPrefix='/contact/*' /&gt;",
+      "&lt;grant-uri-permission android:pathPrefix='/contact/*' /&gt;",
+      "&lt;add-uri-permission android:path='/contact/*' /&gt;"
     ],
     "correctAnswers": [
-        "< grant-uri-permission android:pathPrefix='/'path='contacts'/>"
+      "< grant-uri-permission android:pathPrefix='/'path='contacts'/>"
     ]
-},
+  },
   {
     "question": "Одиночное действие должно быть определено в файле AndroidManifest.xml и доступно под двумя названиями, с двумя отдельными наборами фильтров. Какой атрибут для этого используется?",
     "choices": [
