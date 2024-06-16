@@ -2007,7 +2007,7 @@
       "Ничего"
     ],
     "correctAnswers": [
-      "текст \"C++ is fun\""
+      "текст 'C++ is fun'"
     ]
   },
   {
@@ -2244,6 +2244,8 @@
   },
   {
     "question": "На рисунке представлена простейшая программа на С++.\n\nПервая строка программы является директивой…",
+    "image": "https://github.com/FORBIX7/lab02-/blob/TEST_22_37/%D0%BC%D0%B4%D0%BA_01.04/1.png?raw=true",
+
     "choices": [
       "препроцессора для подключения библиотеки",
       "препроцессора для вызова глобальной переменной",
@@ -2561,6 +2563,8 @@
   },
   {
     "question": "На рисунке представлена простейшая программа на С++.\n\nЭлемент, обозначенный цифрой 1, указывает…\n\n",
+    "image": "https://github.com/FORBIX7/lab02-/blob/TEST_22_37/%D0%BC%D0%B4%D0%BA_01.04/2.png?raw=true",
+
     "choices": [
       "тип возвращаемого значения (return type)",
       "список параметров (parameter list)",
@@ -2682,6 +2686,8 @@
   },
   {
     "question": "Объявлениями функций, не вызывающими ошибки компиляции, являются …\n\nВыберите все подходящие ответы из списка",
+    "image": "https://github.com/FORBIX7/lab02-/blob/TEST_22_37/%D0%BC%D0%B4%D0%BA_01.04/3.png?raw=true",
+
     "choices": [
       "d",
       "a",
@@ -2979,9 +2985,7 @@
       "по указателю"
     ],
     "correctAnswers": [
-      "по значению",
-      "по ссылке",
-      "по указателю"
+      "все варианты возможны"
     ]
   },
   {
@@ -3517,13 +3521,13 @@
   {
     "question": "Как объявить дружественную функцию внутри класса в С++?",
     "choices": [
-      "объявить функцию внутри класса с ключевым словом \"friend\"",
-      "объявить функцию внутри класса с ключевым словом \"private\"",
-      "объявить функцию внутри класса с ключевым словом \"protected\"",
-      "объявить функцию внутри класса с ключевым словом \"public\""
+      "объявить функцию внутри класса с ключевым словом 'friend'",
+      "объявить функцию внутри класса с ключевым словом 'private'",
+      "объявить функцию внутри класса с ключевым словом 'protected'",
+      "объявить функцию внутри класса с ключевым словом 'public'"
     ],
     "correctAnswers": [
-      "объявить функцию внутри класса с ключевым словом \"friend\""
+      "объявить функцию внутри класса с ключевым словом 'friend'"
     ]
   },
   {
@@ -3614,14 +3618,14 @@
   {
     "question": "Как объявить шаблонный класс в C++?",
     "choices": [
-      "template <T> class MyClass;",
+      "template < T> class MyClass;",
       "template class MyClass;",
-      "template <typename T> class MyClass;",
-      "template <class T> class MyClass;"
+      "template < typename T> class MyClass;",
+      "template < class T> class MyClass;"
     ],
     "correctAnswers": [
-      "template <typename T> class MyClass;",
-      "template <class T> class MyClass;"
+      "template < typename T> class MyClass;",
+      "template < class T> class MyClass;"
     ]
   },
   {
