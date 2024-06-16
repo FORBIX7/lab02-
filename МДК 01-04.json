@@ -936,7 +936,7 @@
       "режим, при котором программа имеет привилегии перед другими программами в условиях многозадачности."
     ],
     "correctAnswers": [
-      "режим неограниченного доступа ко всем ресурсам компьютера;"
+      "режим, при котором программа имеет привилегии перед другими программами в условиях многозадачности."
     ]
   },
   {
@@ -1866,12 +1866,12 @@
       "Концепции языков программирования сложны для понимания человеку",
       "Первый язык программирования был написан компьютером",
       "Языки программирования делятся на высокоуровневые и низкоуровневые",
-      "Языки программирования необходимы для представления алгоритмов \"Компьютеру\"",
+      "Языки программирования необходимы для представления алгоритмов 'Компьютеру'",
       "Логика - необходимый элемент при написании любой программы"
     ],
     "correctAnswers": [
       "Языки программирования делятся на высокоуровневые и низкоуровневые",
-      "Языки программирования необходимы для представления алгоритмов \"Компьютеру\"",
+      "Языки программирования необходимы для представления алгоритмов 'Компьютеру'",
       "Логика - необходимый элемент при написании любой программы"
     ]
   },
@@ -1927,16 +1927,16 @@
     ]
   },
   {
-    "question": "Какая из перечисленных ниже программ на C++ подходит для вывода в консоль строки \"Hello World\"?",
+    "question": "Какая из перечисленных ниже программ на C++ подходит для вывода в консоль строки 'Hello World'?",
+    "image": "https://github.com/FORBIX7/lab02-/blob/TEST_22_37/%D0%BC%D0%B4%D0%BA_01.04/1.png?raw=true",
     "choices": [
-      "#include<iostream>\nusing namespace std;\nint main()\n{\n cout<<\"Hello World\";\n return 0;\n}",
-      "#include<iostream>\nint main()\n{\n std::cout<<\"Hello World\";\n return 0;\n}",
-      "#include<iostream>\nusing namespace std;\nvoid codescracker();\nint main()\n{\n codescracker();\n return 0;\n}\nvoid codescracker()\n{\n cout<<\"Hello World\";\n}"
+      "2",
+      "1",
+      "все",
+      "3"
     ],
     "correctAnswers": [
-      "#include<iostream>\nusing namespace std;\nint main()\n{\n cout<<\"Hello World\";\n return 0;\n}",
-      "#include<iostream>\nint main()\n{\n std::cout<<\"Hello World\";\n return 0;\n}",
-      "#include<iostream>\nusing namespace std;\nvoid codescracker();\nint main()\n{\n codescracker();\n return 0;\n}\nvoid codescracker()\n{\n cout<<\"Hello World\";\n}"
+      "все"
     ]
   },
   {
@@ -1956,19 +1956,7 @@
       "Высокая скорость языка С++ достигается в том числе потому что он не интерпретируемый"
     ]
   },
-  {
-    "question": "Какая из перечисленных ниже программ на C++ подходит для вывода в консоль строки \"Hello World\"?",
-    "choices": [
-      "#include<iostream>\nusing namespace std;\nint main()\n{\n cout<<\"Hello World\";\n return 0;\n}",
-      "#include<iostream>\nint main()\n{\n std::cout<<\"Hello World\";\n return 0;\n}",
-      "#include<iostream>\nusing namespace std;\nvoid codescracker();\nint main()\n{\n codescracker();\n return 0;\n}\nvoid codescracker()\n{\n cout<<\"Hello World\";\n}"
-    ],
-    "correctAnswers": [
-      "#include<iostream>\nusing namespace std;\nint main()\n{\n cout<<\"Hello World\";\n return 0;\n}",
-      "#include<iostream>\nint main()\n{\n std::cout<<\"Hello World\";\n return 0;\n}",
-      "#include<iostream>\nusing namespace std;\nvoid codescracker();\nint main()\n{\n codescracker();\n return 0;\n}\nvoid codescracker()\n{\n cout<<\"Hello World\";\n}"
-    ]
-  },
+
   {
     "question": "Выберите правильные утверждения",
     "choices": [
@@ -1987,22 +1975,22 @@
     ]
   },
   {
-    "question": "Как должна выглядеть команда для печати текста \"Привет студентам!\"?",
+    "question": "Как должна выглядеть команда для печати текста 'Привет студентам!'?",
     "choices": [
       "std::cout(Привет студентам!);",
-      "std::cout << (\"Привет студентам!\");",
+      "std::cout << ('Привет студентам!');",
       "std::cout << Привет студентам!;",
-      "std::cout << \"Привет студентам!\";"
+      "std::cout << 'Привет студентам!';"
     ],
     "correctAnswers": [
-      "std::cout << \"Привет студентам!\";"
+      "std::cout << 'Привет студентам!';"
     ]
   },
   {
-    "question": "Что выполнит следующая программа?\n#include <iostream>\nint main() {\n    std::cout << \"C++ is fun\";\n}",
+    "question": "Что выполнит следующая программа?\n#include <iostream>\nint main() {\n    std::cout << 'C++ is fun';\n}",
     "choices": [
-      "текст \"C++isfun\"",
-      "текст \"C++ is fun\"",
+      "текст 'C++isfun'",
+      "текст 'C++ is fun'",
       "0",
       "Ничего"
     ],
@@ -2023,7 +2011,7 @@
     ]
   },
   {
-    "question": "Сколько строк будет в выводе следующей программы?\n#include <iostream>\nint main() {\n    // print c++ is fun\n    std::cout << \"C++ is fun\";\n    // c++ is fun\n    // c++ c++ c++\n}",
+    "question": "Сколько строк будет в выводе следующей программы?\n#include <iostream>\nint main() {\n    // print c++ is fun\n    std::cout << 'C++ is fun';\n    // c++ is fun\n    // c++ c++ c++\n}",
     "choices": [
       "2",
       "1",
@@ -2074,9 +2062,9 @@
   {
     "question": "Какие из следующих значений может хранить переменная test?\n        int test;",
     "choices": [
-      "\"19\"",
+      "'19'",
       "19,9",
-      "\"девятнадцать\"",
+      "'девятнадцать'",
       "19"
     ],
     "correctAnswers": [
@@ -2112,7 +2100,7 @@
     "choices": [
       "char letter = 5;",
       "char letter = 5.6;",
-      "char letter = \"a\";",
+      "char letter = 'a';",
       "char letter = 'a';"
     ],
     "correctAnswers": [
@@ -2218,10 +2206,10 @@
     ]
   },
   {
-    "question": "Что будет выведено в результате работы строки cout << \"hello \" << endl;?",
+    "question": "Что будет выведено в результате работы строки cout << 'hello ' << endl;?",
     "choices": [
-      "\"hello\"endl",
-      "\"hello\"<<endl",
+      "'hello'endl",
+      "'hello'<<endl",
       "hello endl",
       "hello"
     ],
@@ -2230,7 +2218,7 @@
     ]
   },
   {
-    "question": "Что будет выведено в результате выполнения программы?\n\n#include <iostream>\nusing namespace std;\nint main() {\n    char a = 'x';\n    cout << \"hello\" << a << endl;\n    return 0;\n}",
+    "question": "Что будет выведено в результате выполнения программы?\n\n#include <iostream>\nusing namespace std;\nint main() {\n    char a = 'x';\n    cout << 'hello' << a << endl;\n    return 0;\n}",
     "choices": [
       "helloaendl",
       "helloa",
@@ -2243,7 +2231,7 @@
   },
   {
     "question": "На рисунке представлена простейшая программа на С++.\n\nПервая строка программы является директивой…",
-    "image": "https://github.com/FORBIX7/lab02-/blob/TEST_22_37/%D0%BC%D0%B4%D0%BA_01.04/1.png?raw=true",
+    "image": "https://github.com/FORBIX7/lab02-/blob/TEST_22_37/%D0%BC%D0%B4%D0%BA_01.04/2.png?raw=true",
     "choices": [
       "препроцессора для подключения библиотеки",
       "препроцессора для вызова глобальной переменной",
@@ -2377,7 +2365,7 @@
     ]
   },
   {
-    "question": "Каким будет результат выполнения программы?\n\n#include <iostream>\nusing namespace std;\n\nint main() {\n    int number1=10, number2=20;\n    if (number1 >= number2) {\n            cout << \"1\" << endl;\n}\n    else {\n            cout << \"2\" << endl;\n}\n    return 0;\n}",
+    "question": "Каким будет результат выполнения программы?\n\n#include <iostream>\nusing namespace std;\n\nint main() {\n    int number1=10, number2=20;\n    if (number1 >= number2) {\n            cout << '1' << endl;\n}\n    else {\n            cout << '2' << endl;\n}\n    return 0;\n}",
     "choices": [
       "2",
       "1",
@@ -2389,7 +2377,7 @@
     ]
   },
   {
-    "question": "Каким будет результат выполнения программы?\n\n#include <iostream>\n#include <locale.h>\nusing namespace std;\n\nint main() {\n    int num = 10;\n    if (num != 0) {\n            if (num > 0) {\n                cout << \"Positive \";\n            }\n            else {\n                cout << \"Negative \";\n            }\n    }\n    else {\n      cout << \"Is 0\" << endl;\n    }\n    cout << \"goodbye\" << endl;\n    return 0;\n}",
+    "question": "Каким будет результат выполнения программы?\n\n#include <iostream>\n#include <locale.h>\nusing namespace std;\n\nint main() {\n    int num = 10;\n    if (num != 0) {\n            if (num > 0) {\n                cout << 'Positive ';\n            }\n            else {\n                cout << 'Negative ';\n            }\n    }\n    else {\n      cout << 'Is 0' << endl;\n    }\n    cout << 'goodbye' << endl;\n    return 0;\n}",
     "choices": [
       "Positive",
       "goodbye",
@@ -2438,7 +2426,7 @@
   },
   {
     "question": "Дан следующий пример программного кода. В точке где производится вывод строки «Результат:» допустимо организовать вывод значений переменных \n\n",
-    "image": "https://github.com/FORBIX7/lab02-/blob/TEST_22_37/%D0%BC%D0%B4%D0%BA_01.04/4.png?raw=true",
+    "image": "https://github.com/FORBIX7/lab02-/blob/TEST_22_37/%D0%BC%D0%B4%D0%BA_01.04/3.png?raw=true",
     "choices": [
       "count",
       "gisma",
@@ -2454,8 +2442,8 @@
     ]
   },
   {
-    "question": "Сколько раз будет напечатано слово \"hello\" в результате выполнения программы?\n\n",
-    "image": "https://github.com/FORBIX7/lab02-/blob/TEST_22_37/%D0%BC%D0%B4%D0%BA_01.04/5.png?raw=true",
+    "question": "Сколько раз будет напечатано слово 'hello' в результате выполнения программы?\n\n",
+    "image": "https://github.com/FORBIX7/lab02-/blob/TEST_22_37/%D0%BC%D0%B4%D0%BA_01.04/4.png?raw=true",
     "choices": [
       "5",
       "6",
@@ -2563,7 +2551,7 @@
   },
   {
     "question": "На рисунке представлена простейшая программа на С++.\n\nЭлемент, обозначенный цифрой 1, указывает…\n\n",
-    "image": "https://github.com/FORBIX7/lab02-/blob/TEST_22_37/%D0%BC%D0%B4%D0%BA_01.04/2.png?raw=true",
+    "image": "https://github.com/FORBIX7/lab02-/blob/TEST_22_37/%D0%BC%D0%B4%D0%BA_01.04/5.png?raw=true",
     "choices": [
       "тип возвращаемого значения (return type)",
       "список параметров (parameter list)",
@@ -2588,6 +2576,7 @@
   },
   {
     "question": "Дана реализация функции fact().\n\nКорректный вызов функции осуществляется записью…\n\n",
+    "image": "https://github.com/FORBIX7/lab02-/blob/TEST_22_37/%D0%BC%D0%B4%D0%BA_01.04/6.png?raw=true",
     "choices": [
       "fact(“Hello”;",
       "fact(42,10;",
@@ -2600,6 +2589,7 @@
   },
   {
     "question": "Запись вида\n\nозначает, что …\n\n",
+    "image": "https://github.com/FORBIX7/lab02-/blob/TEST_22_37/%D0%BC%D0%B4%D0%BA_01.04/7.png?raw=true",
     "choices": [
       "функция вызывает саму себя, рекурсивно",
       "функция принимает массив аргументов",
@@ -2637,6 +2627,7 @@
   },
   {
     "question": "Дана программа.\n\nПри выполнении данного кода программы на экран будет выведено значение …\n\n",
+    "image": "https://github.com/FORBIX7/lab02-/blob/TEST_22_37/%D0%BC%D0%B4%D0%BA_01.04/8.png?raw=true",
     "choices": [
       "20",
       "10",
@@ -2661,6 +2652,7 @@
   },
   {
     "question": "Какое значение будет выведено на экран при выполнении данного программного кода?\n\n",
+    "image": "https://github.com/FORBIX7/lab02-/blob/TEST_22_37/%D0%BC%D0%B4%D0%BA_01.04/9.png?raw=true",
     "choices": [
       "17",
       "11",
@@ -2685,7 +2677,7 @@
   },
   {
     "question": "Объявлениями функций, не вызывающими ошибки компиляции, являются …\n\nВыберите все подходящие ответы из списка",
-    "image": "https://github.com/FORBIX7/lab02-/blob/TEST_22_37/%D0%BC%D0%B4%D0%BA_01.04/3.png?raw=true",
+    "image": "https://github.com/FORBIX7/lab02-/blob/TEST_22_37/%D0%BC%D0%B4%D0%BA_01.04/10.png?raw=true",
     "choices": [
       "d",
       "a",
@@ -3011,7 +3003,8 @@
     ]
   },
   {
-    "question": "Корректным объявлением класса является …\na.  \nb.  \nc.  \n      d.  ",
+    "question": "Корректным объявлением класса является …",
+    "image": "https://github.com/FORBIX7/lab02-/blob/TEST_22_37/%D0%BC%D0%B4%D0%BA_01.04/11.png?raw=true",
     "choices": [
       "a",
       "d",
@@ -3130,7 +3123,8 @@
     ]
   },
   {
-    "question": "Что выведет данная программа?\n#include <iostream>\nusing namespace std;\nclass Count {\n   private:\n    int value;\n   public:\n    Count() : value(10) {}\n    void operator ++ () {\n        ++value;\n    }\n    void display() {\n        cout << \"Count: \" << value << endl;\n    }\n};\nint main() {\n    Count count1;\n    ++count1;\n    count1.display();\n    return 0;\n}",
+    "question": "Что выведет данная программа?",
+    "image": "https://github.com/FORBIX7/lab02-/blob/TEST_22_37/%D0%BC%D0%B4%D0%BA_01.04/12.png?raw=true",
     "choices": [
       "Count: 10",
       "0",
@@ -3224,6 +3218,7 @@
   },
   {
     "question": "Какое значение возвратит запуск на выполнение данного фрагмента программного кода?\n",
+    "image": "https://github.com/FORBIX7/lab02-/blob/TEST_22_37/%D0%BC%D0%B4%D0%BA_01.04/13.png?raw=true",
     "choices": [
       "1",
       "0",
@@ -3259,7 +3254,8 @@
     ]
   },
   {
-    "question": "Каким будет вывод программы?\n\n#include <iostream>\nusing namespace std;\n\nvoid swap(int *n1, int *n2);\n\nint main()\n{\n    int num1 = 5, num2 = 20;\n    swap(&num1, &num2);\n\n    cout << \"num1 = \" << num1 << endl;\n    cout << \"num2 = \" << num2;\n    return 0;\n}\nvoid swap(int* n1, int* n2)\n{\n    int temp;\n    temp = *n1;\n    *n1 = *n2;\n    *n2 = temp;\n}",
+    "question": "Каким будет вывод программы?",
+    "image": "https://github.com/FORBIX7/lab02-/blob/TEST_22_37/%D0%BC%D0%B4%D0%BA_01.04/14.png?raw=true",
     "choices": [
       "num1=5 num2=20",
       "temp=5 n1=20 n2=5",
@@ -3555,13 +3551,13 @@
   {
     "question": "Как объявить виртуальную функцию внутри класса в C++?",
     "choices": [
-      "объявить функцию внутри класса с ключевым словом \"private\"",
-      "объявить функцию внутри класса с ключевым словом \"public\"",
-      "объявить функцию внутри класса с ключевым словом \"virtual\"",
-      "объявить функцию внутри класса с ключевым словом \"protected\""
+      "объявить функцию внутри класса с ключевым словом 'private'",
+      "объявить функцию внутри класса с ключевым словом 'public'",
+      "объявить функцию внутри класса с ключевым словом 'virtual'",
+      "объявить функцию внутри класса с ключевым словом 'protected'"
     ],
     "correctAnswers": [
-      "объявить функцию внутри класса с ключевым словом \"virtual\""
+      "объявить функцию внутри класса с ключевым словом 'virtual'"
     ]
   },
   {
@@ -3577,7 +3573,8 @@
     ]
   },
   {
-    "question": "Какая функция в приведенном ниже коде является виртуальной?\n\nclass Vegetable{\n   private:\n    string type;\n   public:\n    Vegetable() : type(\"Vegetable\") {}\n    virtual string getWeight() {\n        return type;\n    }\n};\nclass Cucumber: public Vegetable{\n   private:\n    string type;\n   public:\n    Cucumber() : type(\"Cucumber\") {}\n    string getWeight() override {\n        return type;\n    }\n};",
+    "question": "Какая функция в приведенном ниже коде является виртуальной?",
+    "image": "https://github.com/FORBIX7/lab02-/blob/TEST_22_37/%D0%BC%D0%B4%D0%BA_01.04/15.png?raw=true",
     "choices": [
       "getWeight()",
       "Cucumber()",
@@ -3743,7 +3740,7 @@
       "int",
       "char",
       "wchar_t",
-      "boot",
+      "bool",
       "float",
       "double"
     ],
