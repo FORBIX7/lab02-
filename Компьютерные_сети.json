@@ -201,6 +201,7 @@
     },
     {
         "question": "Какая команда выдает такие значения",
+        "image": "https://github.com/FORBIX7/lab02-/blob/TEST_22_37/no_img.png?raw=true",
         "choices": [
             "route",
             "ping",
@@ -235,6 +236,7 @@
     },
     {
         "question": "Какая команда выдает такие значения []",
+        "image": "https://github.com/FORBIX7/lab02-/blob/TEST_22_37/no_img.png?raw=true",
         "choices": [
             "route",
             "arp",
@@ -246,6 +248,7 @@
     },
     {
         "question": "Какая команда выдает такие значения []",
+        "image": "https://github.com/FORBIX7/lab02-/blob/TEST_22_37/no_img.png?raw=true",
         "choices": [
             "arp",
             "route",
@@ -1122,7 +1125,7 @@
         "question": "Преобразуйте число 0xCA в двоичный формат",
         "choices": [
             "11111010",
-            "10100011",
+            "11001010",
             "10111000",
             "11111001"
         ],
