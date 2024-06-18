@@ -2476,7 +2476,7 @@
             "ArrayList< Object> in; List< CharSequence> result;"
         ],
         "correctAnswers": [
-            "List< String> in; List< Object> result"
+            "ArrayList< String> in; List result;"
         ]
     },
     {
