@@ -1,0 +1,4162 @@
+[
+  {
+    "question": "Выберите правильный перевод: плоскогубцы",
+    "image": "",
+    "choices": [
+      "Phillips screwdriver   ",
+      "flat screwdriver ",
+      "needle-nose pliers",
+      "slip-joint pliers   "
+    ],
+    "correctAnswers": [
+      "slip-joint pliers   "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: кусачки\n",
+    "image": "",
+    "choices": [
+      "Phillips screwdriver   ",
+      " flat screwdriver ",
+      "needle-nose pliers",
+      "slip-joint pliers   "
+    ],
+    "correctAnswers": [
+      "needle-nose pliers"
+    ]
+  },
+  {
+    "question": " Выберите правильный перевод: крестовая отвертка\n",
+    "image": "",
+    "choices": [
+      "Phillips screwdriver  ",
+      "flat screwdriver ",
+      "needle-nose pliers",
+      "slip-joint pliers   "
+    ],
+    "correctAnswers": [
+      "Phillips screwdriver  "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: плоская отвертка\n",
+    "image": "",
+    "choices": [
+      "Phillips screwdriver   ",
+      "flat screwdriver ",
+      "needle-nose pliers",
+      "slip-joint pliers   "
+    ],
+    "correctAnswers": [
+      "flat screwdriver "
+    ]
+  },
+  {
+    "question": " Выберите правильный перевод: рулетка\n",
+    "image": "",
+    "choices": [
+      "hacksaw   ",
+      " hand saw ",
+      "claw hammer",
+      "tape measure   "
+    ],
+    "correctAnswers": [
+      "tape measure   "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: ножовка\n",
+    "image": "",
+    "choices": [
+      "hacksaw   ",
+      "hand saw ",
+      "claw hammer",
+      " tape measure   "
+    ],
+    "correctAnswers": [
+      "hacksaw   "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: ручная пила\n",
+    "image": "",
+    "choices": [
+      " hacksaw   ",
+      " hand saw ",
+      "claw hammer",
+      "tape measure   "
+    ],
+    "correctAnswers": [
+      " hand saw "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: молоток-гвоздодер\n",
+    "image": "",
+    "choices": [
+      "hacksaw   ",
+      "hand saw ",
+      "claw hammer",
+      "tape measure   "
+    ],
+    "correctAnswers": [
+      "claw hammer"
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: уровень\n",
+    "image": "",
+    "choices": [
+      " level   ",
+      "utility knife",
+      "tool box ",
+      "hand tools   "
+    ],
+    "correctAnswers": [
+      " level   "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: ручные инструменты\n",
+    "image": "",
+    "choices": [
+      " level ",
+      "utility knife",
+      "tool box",
+      "hand tools   "
+    ],
+    "correctAnswers": [
+      "hand tools   "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: канцелярский нож\n",
+    "image": "",
+    "choices": [
+      " level ",
+      "utility knife",
+      "tool box ",
+      "hand tools  "
+    ],
+    "correctAnswers": [
+      "utility knife"
+    ]
+  },
+  {
+    "question": " Выберите правильный перевод: ящик для инструментов\n",
+    "image": "",
+    "choices": [
+      "level ",
+      "utility knife",
+      "tool box",
+      "hand tools   "
+    ],
+    "correctAnswers": [
+      "tool box"
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: разводной гаечный ключ\n",
+    "image": "",
+    "choices": [
+      "a) box-end wrench",
+      "b) open-end wrench",
+      "с) socket wrench",
+      " d) adjustable wrench   "
+    ],
+    "correctAnswers": [
+      " d) adjustable wrench   "
+    ]
+  },
+  {
+    "question": " Выберите правильный перевод: накидной гаечный ключ\n",
+    "image": "",
+    "choices": [
+      "a) box-end wrench",
+      "b) open-end wrench",
+      "c) socket wrench",
+      "d) adjustable wrench   "
+    ],
+    "correctAnswers": [
+      "a) box-end wrench"
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: рожковый гаечный ключ\n",
+    "image": "",
+    "choices": [
+      "a) box-end wrench",
+      "b) open-end wrench",
+      "c) socket wrench",
+      "d) adjustable wrench  "
+    ],
+    "correctAnswers": [
+      "b) open-end wrench"
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: гнездовой гаечный ключ\n\n",
+    "image": "",
+    "choices": [
+      "a) box-end wrench ",
+      "b) open-end wrench",
+      "c) socket wrench",
+      "d) adjustable wrench   "
+    ],
+    "correctAnswers": [
+      "c) socket wrench"
+    ]
+  },
+  {
+    "question": " Выберите правильный перевод: отвес\n",
+    "image": "",
+    "choices": [
+      "a) snips",
+      "b) plump bob ",
+      "c) chalk line reel",
+      "d) speed square   "
+    ],
+    "correctAnswers": [
+      "b) plump bob "
+    ]
+  },
+  {
+    "question": " Выберите правильный перевод: ножницы\n",
+    "image": "",
+    "choices": [
+      "a) snips",
+      "b) plump bob ",
+      "c) chalk line reel",
+      "d) speed square   "
+    ],
+    "correctAnswers": [
+      "a) snips"
+    ]
+  },
+  {
+    "question": " Выберите правильный перевод: меловая рулетка\n",
+    "image": "",
+    "choices": [
+      "a) snips",
+      "b) plump bob",
+      "c) chalk line reel",
+      "d) speed square   "
+    ],
+    "correctAnswers": [
+      "c) chalk line reel"
+    ]
+  },
+  {
+    "question": " Выберите правильный перевод: угольник\n",
+    "image": "",
+    "choices": [
+      "a) snips",
+      "b) plump bob",
+      "c) chalk line reel",
+      "d) speed square "
+    ],
+    "correctAnswers": [
+      "d) speed square "
+    ]
+  },
+  {
+    "question": " Выберите правильный перевод: отбойный молоток\n",
+    "image": "",
+    "choices": [
+      "a) hammer drill",
+      "b) power drill",
+      "c) sander",
+      "d) jackhammer   "
+    ],
+    "correctAnswers": [
+      "d) jackhammer   "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: перфоратор\n",
+    "image": "",
+    "choices": [
+      "a) hammer drill",
+      "b) power drill",
+      "c) sander",
+      "d) jackhammer   "
+    ],
+    "correctAnswers": [
+      "a) hammer drill"
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: дрель\n",
+    "image": "",
+    "choices": [
+      "a) hammer drill",
+      "b) power drill",
+      "c) sander",
+      "d) jackhammer   "
+    ],
+    "correctAnswers": [
+      "b) power drill"
+    ]
+  },
+  {
+    "question": " Выберите правильный перевод: шлифовальный станок\n",
+    "image": "",
+    "choices": [
+      "a) hammer drill ",
+      "b) power drill ",
+      "c) sander",
+      "d) jackhammer   "
+    ],
+    "correctAnswers": [
+      "c) sander"
+    ]
+  },
+  {
+    "question": " Выберите лишнее слово: ",
+    "image": "",
+    "choices": [
+      "a) Phillips screwdriver   ",
+      "b) nail   ",
+      "c) needle-nose pliers",
+      " d) slip-joint pliers   "
+    ],
+    "correctAnswers": [
+      "b) nail   "
+    ]
+  },
+  {
+    "question": "Выберите лишнее слово: \n",
+    "image": "",
+    "choices": [
+      "a) hammer drill ",
+      "b) power drill",
+      "c) sander ",
+      "d) plump bob   "
+    ],
+    "correctAnswers": [
+      "d) plump bob   "
+    ]
+  },
+  {
+    "question": " Выберите лишнее слово: \n\n",
+    "image": "",
+    "choices": [
+      "a) hammer drill",
+      "b) builder",
+      " c) needle-nose pliers",
+      " d) slip-joint pliers   "
+    ],
+    "correctAnswers": [
+      "b) builder"
+    ]
+  },
+  {
+    "question": " Выберите лишнее слово: \n",
+    "image": "",
+    "choices": [
+      "a) Phillips screwdriver",
+      "b) snips",
+      "c) needle-nose pliers",
+      "d) tool box   "
+    ],
+    "correctAnswers": [
+      "d) tool box   "
+    ]
+  },
+  {
+    "question": " Выберите правильный вариант: Sometimes she plays ball after classes.\n",
+    "image": "",
+    "choices": [
+      "a) Present Simple ",
+      "b) Past Simple",
+      "c) Future Simple",
+      "d) Present Continuous   "
+    ],
+    "correctAnswers": [
+      "a) Present Simple "
+    ]
+  },
+  {
+    "question": " Выберите правильный вариант: Yesterday they read this text about animals.\n",
+    "image": "",
+    "choices": [
+      "a) Present Simple",
+      "b) Past Simple",
+      "c) Future Simple",
+      "d) Present Continuous  "
+    ],
+    "correctAnswers": [
+      "b) Past Simple"
+    ]
+  },
+  {
+    "question": "Выберите правильный вариант: Tomorrow they will wait for him at the station.\n",
+    "image": "",
+    "choices": [
+      "a) Present Simple",
+      "b) Past Simple",
+      " c) Future Simple",
+      "d) Present Continuous   "
+    ],
+    "correctAnswers": [
+      " c) Future Simple"
+    ]
+  },
+  {
+    "question": " Выберите правильный вариант: He seldom helps his parents.\n   \n",
+    "image": "",
+    "choices": [
+      "a) Present Simple",
+      "b) Past Simple  ",
+      "c) Future Simple",
+      "d) Present Continuous   "
+    ],
+    "correctAnswers": [
+      "a) Present Simple"
+    ]
+  },
+  {
+    "question": " Выберите правильный вариант: Sheila will write a message next week.\n",
+    "image": "",
+    "choices": [
+      "a) Present Simple",
+      " b) Past Simple",
+      "c) Future Simple",
+      " d) Present Continuous   "
+    ],
+    "correctAnswers": [
+      "c) Future Simple"
+    ]
+  },
+  {
+    "question": " Выберите правильный вариант: She ... a lawyer. \n",
+    "image": "",
+    "choices": [
+      "a) am ",
+      "b) is",
+      " c) are",
+      "d) were   "
+    ],
+    "correctAnswers": [
+      "b) is"
+    ]
+  },
+  {
+    "question": " Выберите правильный вариант: These girls ... students.\n",
+    "image": "",
+    "choices": [
+      "a) am ",
+      "b) is",
+      "c) are",
+      " d) was   "
+    ],
+    "correctAnswers": [
+      "c) are"
+    ]
+  },
+  {
+    "question": " Выберите правильный вариант: My uncle ... an engineer.\n",
+    "image": "",
+    "choices": [
+      "a) am",
+      "b) is",
+      "c) are",
+      "d) were   "
+    ],
+    "correctAnswers": [
+      "b) is"
+    ]
+  },
+  {
+    "question": " Выберите правильный вариант: We ... a book and a lot of notebooks.\n",
+    "image": "",
+    "choices": [
+      "a) have",
+      "b) has",
+      " c) are ",
+      "d) were   "
+    ],
+    "correctAnswers": [
+      "a) have"
+    ]
+  },
+  {
+    "question": "Выберите правильный вариант: My brother ... a new flat.\n",
+    "image": "",
+    "choices": [
+      "a) have",
+      "b) has",
+      "c) are",
+      "d) were   "
+    ],
+    "correctAnswers": [
+      "b) has"
+    ]
+  },
+  {
+    "question": " Выберите правильный вариант: I ... a small house.\n\n",
+    "image": "",
+    "choices": [
+      "a) have",
+      "b) has ",
+      "c) am",
+      " d) were   "
+    ],
+    "correctAnswers": [
+      "a) have"
+    ]
+  },
+  {
+    "question": " Выберите правильный вариант: A week ago I … this book.\n",
+    "image": "",
+    "choices": [
+      "a) buy",
+      "b) bought ",
+      " c) will buy",
+      "d) buys    "
+    ],
+    "correctAnswers": [
+      "b) bought "
+    ]
+  },
+  {
+    "question": "Выберите правильный вариант: Samantha … this article tomorrow.\n",
+    "image": "",
+    "choices": [
+      "a) translate ",
+      "b) translates  ",
+      " c) will translate  ",
+      " d) translated     "
+    ],
+    "correctAnswers": [
+      " c) will translate  "
+    ]
+  },
+  {
+    "question": "Выберите правильный вариант: He … new letters very often.\n",
+    "image": "",
+    "choices": [
+      "a) write  ",
+      "b) writes",
+      "c) writed ",
+      "a) writed) wroted  "
+    ],
+    "correctAnswers": [
+      "b) writes"
+    ]
+  },
+  {
+    "question": " Выберите правильный вариант: Next month we … a wardrobe.\n",
+    "image": "",
+    "choices": [
+      "a) will sell ",
+      " b) sell ",
+      " c) sold",
+      " d) sald"
+    ],
+    "correctAnswers": [
+      "a) will sell "
+    ]
+  },
+  {
+    "question": " Выберите правильный вариант: In a year he … to the village.\n",
+    "image": "",
+    "choices": [
+      "a) move      ",
+      "b) will move ",
+      " c) moved ",
+      " d) moven"
+    ],
+    "correctAnswers": [
+      "b) will move "
+    ]
+  },
+  {
+    "question": "Выберите правильный вариант:  My friends always … food at the restaurant.\n",
+    "image": "",
+    "choices": [
+      "a) buyed",
+      "b) buy ",
+      "c) buys ",
+      "d) will buys"
+    ],
+    "correctAnswers": [
+      "b) buy "
+    ]
+  },
+  {
+    "question": "Выберите правильный вариант: They … in the Pacific Ocean next month.\n",
+    "image": "",
+    "choices": [
+      "a) swam",
+      "b) swim",
+      "c) swum",
+      "d) will swim"
+    ],
+    "correctAnswers": [
+      "d) will swim"
+    ]
+  },
+  {
+    "question": " Выберите правильный вариант: We didn't … the exercise yesterday. \n",
+    "image": "",
+    "choices": [
+      "a) does    ",
+      "b) do",
+      " c) did",
+      "d) done"
+    ],
+    "correctAnswers": [
+      "b) do"
+    ]
+  },
+  {
+    "question": " Выберите правильный вариант: He does not always … such films.\n",
+    "image": "",
+    "choices": [
+      "a) liked ",
+      "b) likes",
+      "c) like",
+      "d) will like "
+    ],
+    "correctAnswers": [
+      "c) like"
+    ]
+  },
+  {
+    "question": " Выберите правильный вариант:  Michael is a bricklayer, … ?\n",
+    "image": "",
+    "choices": [
+      "a) is not Michael",
+      "b) is he",
+      "c) is not he",
+      "d) is not she"
+    ],
+    "correctAnswers": [
+      "c) is not he"
+    ]
+  },
+  {
+    "question": " Выберите правильный вариант:  Usually he goes to work by bus, … ?\n",
+    "image": "",
+    "choices": [
+      "a) do not he ",
+      "b) does not he",
+      "c) did not he",
+      "d) does not she     "
+    ],
+    "correctAnswers": [
+      "b) does not he"
+    ]
+  },
+  {
+    "question": " Выберите правильный вариант:  Do they often water the plants?\n",
+    "image": "",
+    "choices": [
+      "a) Yes, they do",
+      "b) Yes, they does",
+      "c) Yes, they did ",
+      " d) Yes, they will"
+    ],
+    "correctAnswers": [
+      "a) Yes, they do"
+    ]
+  },
+  {
+    "question": " Выберите правильный вариант:   Did they visit you last year?",
+    "image": "",
+    "choices": [
+      "a) Yes, they do",
+      "b) Yes, they does",
+      " c) Yes, they did",
+      "d) Yes, they will"
+    ],
+    "correctAnswers": [
+      " c) Yes, they did"
+    ]
+  },
+  {
+    "question": "Выберите правильный вариант:  Sam has a big flat, … ?\n",
+    "image": "",
+    "choices": [
+      "a) has not Sam",
+      "b) has he ",
+      "c) has not he",
+      "d) have not he"
+    ],
+    "correctAnswers": [
+      "c) has not he"
+    ]
+  },
+  {
+    "question": " Выберите правильный вариант:  I saw them in the city last week, … ?\n",
+    "image": "",
+    "choices": [
+      "a) do not I ",
+      " b) did not I",
+      "c) did  I ",
+      "d) do I"
+    ],
+    "correctAnswers": [
+      " b) did not I"
+    ]
+  },
+  {
+    "question": " Выберите правильный вариант:  Will my cousin enter the university in a year?\n",
+    "image": "",
+    "choices": [
+      "a) Yes, he do",
+      "b) Yes, he does ",
+      "c) Yes, he will",
+      "d) Yes, he did"
+    ],
+    "correctAnswers": [
+      "c) Yes, he will"
+    ]
+  },
+  {
+    "question": " Выберите правильный вариант:  Are they handsome?\n",
+    "image": "",
+    "choices": [
+      "a) Yes, they do ",
+      "b) Yes, they are",
+      " c) Yes, they have",
+      " d) Yes, they will"
+    ],
+    "correctAnswers": [
+      "b) Yes, they are"
+    ]
+  },
+  {
+    "question": " Выберите правильный перевод: циркулярная пила\n",
+    "image": "",
+    "choices": [
+      "a) circular saw  ",
+      "b) reciprocating saw",
+      "c) air compressor ",
+      "d) nail gun   "
+    ],
+    "correctAnswers": [
+      "a) circular saw  "
+    ]
+  },
+  {
+    "question": " Выберите правильный перевод: сабельная пила\n",
+    "image": "",
+    "choices": [
+      "a) circular saw ",
+      "b) reciprocating saw",
+      "c) air compressor",
+      "d) nail gun   "
+    ],
+    "correctAnswers": [
+      "b) reciprocating saw"
+    ]
+  },
+  {
+    "question": " Выберите правильный перевод: гвоздебой\n",
+    "image": "",
+    "choices": [
+      "a) circular saw ",
+      "b) reciprocating saw",
+      " c) air compressor",
+      "d) nail gun   "
+    ],
+    "correctAnswers": [
+      "d) nail gun   "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: компрессор\n",
+    "image": "",
+    "choices": [
+      "a) circular saw ",
+      "b) reciprocating saw",
+      "c) air compressor ",
+      "d) nail gun   "
+    ],
+    "correctAnswers": [
+      "c) air compressor "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: шуруп\n",
+    "image": "",
+    "choices": [
+      "a) cement mixer",
+      "b) compactor",
+      "c) nail",
+      "d) screw   "
+    ],
+    "correctAnswers": [
+      "d) screw   "
+    ]
+  },
+  {
+    "question": " Выберите правильный перевод: гвоздь\n",
+    "image": "",
+    "choices": [
+      "a) cement mixer",
+      "b) compactor ",
+      " c) nail",
+      "d) screw   "
+    ],
+    "correctAnswers": [
+      " c) nail"
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: бетономешалка\n",
+    "image": "",
+    "choices": [
+      "a) cement mixer ",
+      "b) compactor ",
+      "c) nail",
+      " d) screw   "
+    ],
+    "correctAnswers": [
+      "a) cement mixer "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: уплотнитель\n",
+    "image": "",
+    "choices": [
+      "a) cement mixer ",
+      "b) compactor ",
+      "c) nail ",
+      "d) screw   "
+    ],
+    "correctAnswers": [
+      "b) compactor "
+    ]
+  },
+  {
+    "question": " Выберите правильный перевод: гайка\n",
+    "image": "",
+    "choices": [
+      "a) nut",
+      " b) washer",
+      "c) anchor ",
+      " d) staple   "
+    ],
+    "correctAnswers": [
+      "a) nut"
+    ]
+  },
+  {
+    "question": " Выберите правильный перевод: анкер\n",
+    "image": "",
+    "choices": [
+      "a) nut ",
+      " b) washer",
+      "c) anchor",
+      "d) staple   "
+    ],
+    "correctAnswers": [
+      "c) anchor"
+    ]
+  },
+  {
+    "question": " Выберите правильный перевод: шайба\n",
+    "image": "",
+    "choices": [
+      "a) nut ",
+      "b) washer",
+      "c) anchor ",
+      "d) staple   "
+    ],
+    "correctAnswers": [
+      "b) washer"
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: скоба\n \n",
+    "image": "",
+    "choices": [
+      "a) nut",
+      "b) washer ",
+      "c) anchor   ",
+      "d) staple   "
+    ],
+    "correctAnswers": [
+      "d) staple   "
+    ]
+  },
+  {
+    "question": " Выберите лишнее слово: \n",
+    "image": "",
+    "choices": [
+      "a) hammer drill ",
+      "b) washer",
+      " c) anchor",
+      "d) staple  "
+    ],
+    "correctAnswers": [
+      "a) hammer drill "
+    ]
+  },
+  {
+    "question": "Выберите лишнее слово: \n",
+    "image": "",
+    "choices": [
+      "a) hammer drill ",
+      "b) compactor",
+      "c) anchor ",
+      " d) cement mixer   "
+    ],
+    "correctAnswers": [
+      "c) anchor "
+    ]
+  },
+  {
+    "question": " Выберите лишнее слово: \n",
+    "image": "",
+    "choices": [
+      "a) hammer drill",
+      "b) forest",
+      "c) anchor",
+      "d) cement mixer   "
+    ],
+    "correctAnswers": [
+      "b) forest"
+    ]
+  },
+  {
+    "question": "Выберите лишнее слово: \n",
+    "image": "",
+    "choices": [
+      "a) nut ",
+      "b) washer",
+      " c) snips ",
+      "d) staple   "
+    ],
+    "correctAnswers": [
+      " c) snips "
+    ]
+  },
+  {
+    "question": " Выберите правильный вариант: Punting is … leisure activity in the life of the Englishmen.\n",
+    "image": "",
+    "choices": [
+      "a) the most favourite",
+      "b) favouritest",
+      "c) favouriter",
+      "d) more favourite"
+    ],
+    "correctAnswers": [
+      "a) the most favourite"
+    ]
+  },
+  {
+    "question": "Выберите правильный вариант: The soil in Central Russia is … than in the North. \n",
+    "image": "",
+    "choices": [
+      "a) the most fertile",
+      "b) fertile",
+      "c) fertilest ",
+      " d) more fertile"
+    ],
+    "correctAnswers": [
+      " d) more fertile"
+    ]
+  },
+  {
+    "question": "Выберите правильный вариант: Yachts are … in sunny weather. \n",
+    "image": "",
+    "choices": [
+      "a) the most beautifuler ",
+      "b) beautifuler ",
+      " c) beautifulest ",
+      "d) more beautiful"
+    ],
+    "correctAnswers": [
+      "d) more beautiful"
+    ]
+  },
+  {
+    "question": "Выберите правильный вариант: The wood of oak is much … than the birch. \n",
+    "image": "",
+    "choices": [
+      " a) the most strong ",
+      "b) stronger ",
+      "c) strong ",
+      "d) more strong"
+    ],
+    "correctAnswers": [
+      "b) stronger "
+    ]
+  },
+  {
+    "question": " Выберите правильный вариант: I can use an ax … than a saw. \n",
+    "image": "",
+    "choices": [
+      "a) gooder",
+      "b) good",
+      "c) better ",
+      "d) more good"
+    ],
+    "correctAnswers": [
+      "c) better "
+    ]
+  },
+  {
+    "question": "Выберите правильный вариант: Last year Sam used a plane … than he does this year.\n",
+    "image": "",
+    "choices": [
+      "a) bad",
+      "b) worse ",
+      "c) more bad ",
+      " d) bader"
+    ],
+    "correctAnswers": [
+      "b) worse "
+    ]
+  },
+  {
+    "question": " Найдите правильный перевод- Что ты делаешь по вечерам?",
+    "image": "",
+    "choices": [
+      "a) What do you do in the evenings? ",
+      "b) Where do you do in the evenings? ",
+      "c) When do you do in the evenings?",
+      "d) Why do you do in the evenings?"
+    ],
+    "correctAnswers": [
+      "a) What do you do in the evenings? "
+    ]
+  },
+  {
+    "question": " Найдите правильный перевод- Где ты работаешь?\n",
+    "image": "",
+    "choices": [
+      "a) What do you work?",
+      "b) When do you work?",
+      "c) Where do you work?",
+      " d) Whom do you work? "
+    ],
+    "correctAnswers": [
+      "c) Where do you work?"
+    ]
+  },
+  {
+    "question": "Найдите правильный перевод- Сколько ты заработаешь?\n",
+    "image": "",
+    "choices": [
+      "a) How will you earn? ",
+      "b) How much will you earn? ",
+      "c) How many will you earn?",
+      " d) Where will you earn?"
+    ],
+    "correctAnswers": [
+      "b) How much will you earn? "
+    ]
+  },
+  {
+    "question": "Найдите правильный перевод - Когда они принесли оборудование?\n",
+    "image": "",
+    "choices": [
+      "a) Where did they bring the equipment?",
+      " b) Where do they bring the equipment?",
+      " c) When did they bring the equipment? ",
+      "d) When do they bring the equipment?\t"
+    ],
+    "correctAnswers": [
+      " c) When did they bring the equipment? "
+    ]
+  },
+  {
+    "question": " Я умею работать с секатором.\n",
+    "image": "",
+    "choices": [
+      "A) I must work with pruners ",
+      "B) I can work with pruners",
+      "C) I should work with pruners",
+      "D) I will work with pruners"
+    ],
+    "correctAnswers": [
+      "B) I can work with pruners"
+    ]
+  },
+  {
+    "question": "Я должен работать с секатором.\n",
+    "image": "",
+    "choices": [
+      "A) I must work with pruners",
+      "B) I can work with pruners ",
+      "C) I should work with pruners ",
+      "D) I will work with pruners"
+    ],
+    "correctAnswers": [
+      "A) I must work with pruners"
+    ]
+  },
+  {
+    "question": "Мне следует работать с секатором.\n",
+    "image": "",
+    "choices": [
+      "A) I must work with pruners",
+      " B) I can work with pruners ",
+      " C) I should work with pruners",
+      " D) I will work with pruners"
+    ],
+    "correctAnswers": [
+      " C) I should work with pruners"
+    ]
+  },
+  {
+    "question": "Ему следует быть терпеливым.\n",
+    "image": "",
+    "choices": [
+      "A) He should be patient ",
+      "B) He must be patient ",
+      "C) He can be patient",
+      "D) He will be patient   "
+    ],
+    "correctAnswers": [
+      "A) He should be patient "
+    ]
+  },
+  {
+    "question": " Он должен быть терпеливым.\n",
+    "image": "",
+    "choices": [
+      "A) He should be patient ",
+      "B) He must be patient ",
+      " C) He can be patient ",
+      "D) He will be patient   "
+    ],
+    "correctAnswers": [
+      "B) He must be patient "
+    ]
+  },
+  {
+    "question": " Он может быть терпеливым.\n",
+    "image": "",
+    "choices": [
+      "A) He should be patient",
+      "B) He must be patient",
+      "C) He can be patient",
+      "D) He will be patient   "
+    ],
+    "correctAnswers": [
+      "C) He can be patient"
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: ботинки со стальным носком\n",
+    "image": "",
+    "choices": [
+      "a) steel-toe boots",
+      " b) hard hat",
+      "c) googles",
+      "d) dust mask   "
+    ],
+    "correctAnswers": [
+      "a) steel-toe boots"
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: пылезащитная маска\n",
+    "image": "",
+    "choices": [
+      "a) steel-toe boots  ",
+      "b) hard hat",
+      " c) googles",
+      "d) dust mask   "
+    ],
+    "correctAnswers": [
+      "d) dust mask   "
+    ]
+  },
+  {
+    "question": " Выберите правильный перевод: каска\n",
+    "image": "",
+    "choices": [
+      "a) steel-toe boots ",
+      " b) hard hat ",
+      "c) googles",
+      "d) dust mask   "
+    ],
+    "correctAnswers": [
+      " b) hard hat "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: защитные очки\n",
+    "image": "",
+    "choices": [
+      "a) steel-toe boots ",
+      "b) hard hat ",
+      "c) googles ",
+      " d) dust mask   "
+    ],
+    "correctAnswers": [
+      "c) googles "
+    ]
+  },
+  {
+    "question": " Выберите правильный перевод: прорезиненные перчатки\n",
+    "image": "",
+    "choices": [
+      "a) face shield",
+      "b) earplugs ",
+      "c) kneepads",
+      "d) grip gloves   "
+    ],
+    "correctAnswers": [
+      "d) grip gloves   "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: беруши\n",
+    "image": "",
+    "choices": [
+      "a) face shield ",
+      "b) earplugs ",
+      "c) kneepads ",
+      " d) grip gloves  "
+    ],
+    "correctAnswers": [
+      "b) earplugs "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: наколенники\n",
+    "image": "",
+    "choices": [
+      "a) face shield ",
+      "b) earplugs",
+      "c) kneepads ",
+      "d) grip gloves  "
+    ],
+    "correctAnswers": [
+      "c) kneepads "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: лицевой щит\n",
+    "image": "",
+    "choices": [
+      "a) face shield  ",
+      " b) earplugs ",
+      "c) kneepads",
+      " d) grip gloves   "
+    ],
+    "correctAnswers": [
+      "a) face shield  "
+    ]
+  },
+  {
+    "question": "Выберите лишнее слово: \n",
+    "image": "",
+    "choices": [
+      "a) face shield    ",
+      "b) screw",
+      "c) kneepads",
+      "d) grip gloves   "
+    ],
+    "correctAnswers": [
+      "b) screw"
+    ]
+  },
+  {
+    "question": "Выберите лишнее слово: \n",
+    "image": "",
+    "choices": [
+      "a) face shield  ",
+      " b) dust mask",
+      " c) kneepads",
+      "d) jackhanner   "
+    ],
+    "correctAnswers": [
+      "d) jackhanner   "
+    ]
+  },
+  {
+    "question": "Я могу купить беруши.\n",
+    "image": "",
+    "choices": [
+      "A) I must buy earplugs ",
+      " B) I should buy earplugs ",
+      "  C) I can buy earplugs",
+      " D) I will buy earplugs   "
+    ],
+    "correctAnswers": [
+      "  C) I can buy earplugs"
+    ]
+  },
+  {
+    "question": "Я могу определить проблему.\n",
+    "image": "",
+    "choices": [
+      "A) I must figure out the problem",
+      "B) I should figure out the problem",
+      "C) I can figure out the problem",
+      "D) I will figure out the problem   "
+    ],
+    "correctAnswers": [
+      "C) I can figure out the problem"
+    ]
+  },
+  {
+    "question": " Я должен определить проблему.\n",
+    "image": "",
+    "choices": [
+      "A) I must figure out the problem",
+      "B) I should figure out the problem",
+      "C) I can figure out the problem ",
+      "D) I will figure out the problem   "
+    ],
+    "correctAnswers": [
+      "A) I must figure out the problem"
+    ]
+  },
+  {
+    "question": "Мне следует определить проблему.\n",
+    "image": "",
+    "choices": [
+      "A) I must figure out the problem",
+      " B) I should figure out the problem",
+      "C) I can figure out the problem ",
+      "D) I will figure out the problem   "
+    ],
+    "correctAnswers": [
+      " B) I should figure out the problem"
+    ]
+  },
+  {
+    "question": " Она не может поднять машину.\n",
+    "image": "",
+    "choices": [
+      "A) She can lift the machine ",
+      "B) She must lift the machine",
+      "C) She mustn’t lift the machine ",
+      " D) She can’t lift the machine   "
+    ],
+    "correctAnswers": [
+      " D) She can’t lift the machine   "
+    ]
+  },
+  {
+    "question": "Она может поднять машину.\n",
+    "image": "",
+    "choices": [
+      "A) She can lift the machine",
+      "B) She must lift the machine ",
+      "C) She mustn’t lift the machine ",
+      "D) She can’t lift the machine"
+    ],
+    "correctAnswers": [
+      "A) She can lift the machine"
+    ]
+  },
+  {
+    "question": "Она не должна поднимать машину.\n",
+    "image": "",
+    "choices": [
+      "A) She can lift the machine",
+      " B) She must lift the machine ",
+      " C) She mustn’t lift the machine",
+      "D) She can’t lift the machine"
+    ],
+    "correctAnswers": [
+      " C) She mustn’t lift the machine"
+    ]
+  },
+  {
+    "question": "Она должна поднять машину.\n",
+    "image": "",
+    "choices": [
+      "A) She can lift the machine ",
+      " B) She must lift the machine ",
+      "C) She mustn’t lift the machine",
+      "D) She can’t lift the machine"
+    ],
+    "correctAnswers": [
+      " B) She must lift the machine "
+    ]
+  },
+  {
+    "question": "Он умеет пользоваться граблями. \n",
+    "image": "",
+    "choices": [
+      "A) He can’t use a rake",
+      "B) He must use a rake",
+      "C) He can use a rake",
+      "D) He mustn’t use a rake"
+    ],
+    "correctAnswers": [
+      "C) He can use a rake"
+    ]
+  },
+  {
+    "question": " Он не умеет пользоваться граблями. \n",
+    "image": "",
+    "choices": [
+      "A) He can’t use a rake",
+      "B) He must use a rake",
+      "C) He can use a rake ",
+      "D) He mustn’t use a rake"
+    ],
+    "correctAnswers": [
+      "A) He can’t use a rake"
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: Отметь деталь!\n",
+    "image": "",
+    "choices": [
+      "a) Mark the detail!  ",
+      " b) Cut the detail! ",
+      "c) Measure the detail!",
+      "d) Screw the detail!   "
+    ],
+    "correctAnswers": [
+      "a) Mark the detail!  "
+    ]
+  },
+  {
+    "question": " Выберите правильный перевод: Прикрути деталь!\n",
+    "image": "",
+    "choices": [
+      "a) Mark the detail! ",
+      "b) Cut the detail!",
+      "c) Measure the detail!",
+      "d) Screw the detail!   "
+    ],
+    "correctAnswers": [
+      "d) Screw the detail!   "
+    ]
+  },
+  {
+    "question": " Выберите правильный перевод: Отрежь деталь!\n",
+    "image": "",
+    "choices": [
+      " a) Mark the detail!  ",
+      "b) Cut the detail! ",
+      "c) Measure the detail!",
+      "d) Screw the detail!   "
+    ],
+    "correctAnswers": [
+      "b) Cut the detail! "
+    ]
+  },
+  {
+    "question": " Выберите правильный перевод: Измерь деталь!\n",
+    "image": "",
+    "choices": [
+      "a) Mark the detail!",
+      "b) Cut the detail!",
+      "c) Measure the detail!",
+      "d) Screw the detail!   "
+    ],
+    "correctAnswers": [
+      "c) Measure the detail!"
+    ]
+  },
+  {
+    "question": " Выберите правильный перевод: Прибей это вон там!\n",
+    "image": "",
+    "choices": [
+      "a) Nail it over there!   ",
+      "b) Place it over there! ",
+      "c) Push it over there! ",
+      "d) Drill it over there!   "
+    ],
+    "correctAnswers": [
+      "a) Nail it over there!   "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: Просверли это вон там!\n",
+    "image": "",
+    "choices": [
+      "a) Nail it over there! ",
+      " b) Place it over there! ",
+      "c) Push it over there!",
+      "d) Drill it over there!   "
+    ],
+    "correctAnswers": [
+      "d) Drill it over there!   "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: Положи это вон там!\n",
+    "image": "",
+    "choices": [
+      "a) Nail it over there!    ",
+      " b) Place it over there!  ",
+      "c) Push it over there!",
+      "d) Drill it over there!   "
+    ],
+    "correctAnswers": [
+      " b) Place it over there!  "
+    ]
+  },
+  {
+    "question": " Выберите правильный перевод: Толкай это туда!\n",
+    "image": "",
+    "choices": [
+      "a) Nail it over there!",
+      "b) Place it over there! ",
+      "c) Push it over there!",
+      "d) Drill it over there!   "
+    ],
+    "correctAnswers": [
+      "c) Push it over there!"
+    ]
+  },
+  {
+    "question": " Выберите правильный перевод: Вставь это!\n",
+    "image": "",
+    "choices": [
+      "a) Check it! ",
+      "b) Line it up it! ",
+      " c) Turn it!",
+      "d) Insert  it!   "
+    ],
+    "correctAnswers": [
+      "d) Insert  it!   "
+    ]
+  },
+  {
+    "question": " Выберите правильный перевод: Проверь это!\n",
+    "image": "",
+    "choices": [
+      "a) Check it!",
+      "b) Line it up it!  ",
+      "c) Turn it! ",
+      "d) Insert  it!  "
+    ],
+    "correctAnswers": [
+      "a) Check it!"
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: Затяни шуруп!\n",
+    "image": "",
+    "choices": [
+      "a) Loosen the screw!  ",
+      " b) Tighten the screw! ",
+      "c) Remove the screw! ",
+      "d) Twist the screw!"
+    ],
+    "correctAnswers": [
+      " b) Tighten the screw! "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: Ослабь шуруп!\n",
+    "image": "",
+    "choices": [
+      "a) Loosen the screw! ",
+      "b) Tighten the screw!",
+      "c) Remove the screw!",
+      "d) Twist the screw! "
+    ],
+    "correctAnswers": [
+      "a) Loosen the screw! "
+    ]
+  },
+  {
+    "question": " Выберите правильный перевод: Убери шуруп!\n",
+    "image": "",
+    "choices": [
+      "a) Loosen the screw!  ",
+      "b) Tighten the screw!",
+      "c) Remove the screw! ",
+      " d) Twist the screw! "
+    ],
+    "correctAnswers": [
+      "c) Remove the screw! "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: Поверни шуруп!\n\n",
+    "image": "",
+    "choices": [
+      "a) Loosen the screw! ",
+      "b) Tighten the screw! ",
+      "c) Remove the screw! ",
+      "d) Twist the screw!"
+    ],
+    "correctAnswers": [
+      "d) Twist the screw!"
+    ]
+  },
+  {
+    "question": "Twelve ______ five equals 17.\n",
+    "image": "",
+    "choices": [
+      "A) minus   ",
+      "  B) plus  ",
+      "C) remainder  ",
+      "  D) equal "
+    ],
+    "correctAnswers": [
+      "  B) plus  "
+    ]
+  },
+  {
+    "question": " Nineteen _______ four is 15.\n",
+    "image": "",
+    "choices": [
+      "A) minus",
+      " B) plus",
+      " C) remainder ",
+      "   D) equals "
+    ],
+    "correctAnswers": [
+      "A) minus"
+    ]
+  },
+  {
+    "question": "Ten minus two  ________ six plus two.\n",
+    "image": "",
+    "choices": [
+      "A) point ",
+      " B) dash ",
+      "C) remainder ",
+      "  D) equals "
+    ],
+    "correctAnswers": [
+      "  D) equals "
+    ]
+  },
+  {
+    "question": " What is the _________ when you divide sixteen by three?\n",
+    "image": "",
+    "choices": [
+      "A) minus",
+      " B) plus ",
+      "C) remainder ",
+      " D) equals "
+    ],
+    "correctAnswers": [
+      "C) remainder "
+    ]
+  },
+  {
+    "question": "The expression 12 2/3 is a ________.\n",
+    "image": "",
+    "choices": [
+      "A) decimal ",
+      "B) mixed number",
+      " C) percent   ",
+      " D) fraction"
+    ],
+    "correctAnswers": [
+      "B) mixed number"
+    ]
+  },
+  {
+    "question": "The expression 4/5 is a ________.\n",
+    "image": "",
+    "choices": [
+      "A) decimal",
+      "B) mixed number",
+      " C) percent ",
+      "D) fraction"
+    ],
+    "correctAnswers": [
+      "D) fraction"
+    ]
+  },
+  {
+    "question": "The expression 1,2  is a ________.\n",
+    "image": "",
+    "choices": [
+      "A) decimal  ",
+      "B) mixed number ",
+      "C) percent ",
+      " D) fraction"
+    ],
+    "correctAnswers": [
+      "A) decimal  "
+    ]
+  },
+  {
+    "question": "The expression 12 %  is a ________.\n",
+    "image": "",
+    "choices": [
+      "A) decimal",
+      "B) mixed number ",
+      " C) percent ",
+      "  D) fraction"
+    ],
+    "correctAnswers": [
+      " C) percent "
+    ]
+  },
+  {
+    "question": " Он должен пользоваться граблями. \n",
+    "image": "",
+    "choices": [
+      "A) He can’t use a rake ",
+      "B) He must use a rake ",
+      "C) He can use a rake",
+      " D) He mustn’t use a rake"
+    ],
+    "correctAnswers": [
+      "B) He must use a rake "
+    ]
+  },
+  {
+    "question": "Он не должен пользоваться граблями. \n",
+    "image": "",
+    "choices": [
+      "A) He can’t use a rake ",
+      " B) He must use a rake ",
+      "C) He can use a rake",
+      "D) He mustn’t use a rake"
+    ],
+    "correctAnswers": [
+      "D) He mustn’t use a rake"
+    ]
+  },
+  {
+    "question": "Мне следует выкопать дерево?\n",
+    "image": "",
+    "choices": [
+      "A) I should dig out the tree",
+      "B) Should I dig out the tree ",
+      "C) I shouldn’t dig out the tree",
+      "D) Can I dig out the tree"
+    ],
+    "correctAnswers": [
+      "B) Should I dig out the tree "
+    ]
+  },
+  {
+    "question": "Мне следует выкопать дерево.\n",
+    "image": "",
+    "choices": [
+      "A) I should dig out the tree ",
+      "B) Should I dig out the tree",
+      "C) I shouldn’t dig out the tree",
+      "D) Can I dig out the tree"
+    ],
+    "correctAnswers": [
+      "A) I should dig out the tree "
+    ]
+  },
+  {
+    "question": "Я могу выкопать дерево?\n",
+    "image": "",
+    "choices": [
+      "A) I should dig out the tree",
+      "B) Should I dig out the tree",
+      "C) I shouldn’t dig out the tree",
+      "D) Can I dig out the tree"
+    ],
+    "correctAnswers": [
+      "D) Can I dig out the tree"
+    ]
+  },
+  {
+    "question": "Мне не следует выкапывать дерево\n",
+    "image": "",
+    "choices": [
+      "A) I should dig out the tree",
+      " B) Should I dig out the tree ",
+      " C) I shouldn’t dig out the tree",
+      "D) Can I dig out the tree"
+    ],
+    "correctAnswers": [
+      " C) I shouldn’t dig out the tree"
+    ]
+  },
+  {
+    "question": " Определите часть речи выделенного слова: HE is a driver.\n",
+    "image": "",
+    "choices": [
+      "  a. Verb       ",
+      " b. Noun ",
+      " c. Adjective",
+      " d. Pronoun   "
+    ],
+    "correctAnswers": [
+      " d. Pronoun   "
+    ]
+  },
+  {
+    "question": "Определите часть речи выделенного слова: It is a BIG house.\n",
+    "image": "",
+    "choices": [
+      "  a. Verb ",
+      "b. Noun ",
+      "c. Adjective  ",
+      "  d. Pronoun   "
+    ],
+    "correctAnswers": [
+      "c. Adjective  "
+    ]
+  },
+  {
+    "question": "Определите часть речи выделенного слова: We can WORK with this equipment.\n",
+    "image": "",
+    "choices": [
+      "    a. Verb ",
+      "b. Noun",
+      "c. Adjective",
+      "d. Pronoun   "
+    ],
+    "correctAnswers": [
+      "    a. Verb "
+    ]
+  },
+  {
+    "question": "Определите часть речи выделенного слова: It was a nice SIDEBOARD.\n",
+    "image": "",
+    "choices": [
+      " a. Verb                 ",
+      "  b. Noun ",
+      "c. Adjective   ",
+      "d. Pronoun   "
+    ],
+    "correctAnswers": [
+      "  b. Noun "
+    ]
+  },
+  {
+    "question": " Определите часть речи выделенного слова: I bought this NEW hammer last year.\n",
+    "image": "",
+    "choices": [
+      "  a. Verb ",
+      "b. Noun ",
+      " c. Adjective   ",
+      "d. Pronoun   "
+    ],
+    "correctAnswers": [
+      " c. Adjective   "
+    ]
+  },
+  {
+    "question": "Определите часть речи выделенного слова: The master BUILT that shed 2 years ago.\n",
+    "image": "",
+    "choices": [
+      "   a. Verb ",
+      "b. Noun",
+      " c. Adjective ",
+      "d. Pronoun   "
+    ],
+    "correctAnswers": [
+      "   a. Verb "
+    ]
+  },
+  {
+    "question": " Определите часть речи выделенного слова: THEY invented a saw.\n",
+    "image": "",
+    "choices": [
+      "   a. Verb ",
+      "b. Noun ",
+      "c. Adjective",
+      "d. Pronoun   "
+    ],
+    "correctAnswers": [
+      "d. Pronoun   "
+    ]
+  },
+  {
+    "question": "Определите часть речи выделенного слова: Lu Ban was a great MASTER.\n",
+    "image": "",
+    "choices": [
+      "  a. Verb  ",
+      "b. Noun",
+      "c. Adjective",
+      "d. Pronoun   "
+    ],
+    "correctAnswers": [
+      "b. Noun"
+    ]
+  },
+  {
+    "question": "Определите часть речи выделенного слова: I hope my room will be COMFORTABLE.\n",
+    "image": "",
+    "choices": [
+      "a. Verb ",
+      "b. Noun  ",
+      " c. Adjective",
+      " d. Pronoun   "
+    ],
+    "correctAnswers": [
+      " c. Adjective"
+    ]
+  },
+  {
+    "question": " Определите часть речи выделенного слова: A cooper makes BARRELS.\n",
+    "image": "",
+    "choices": [
+      "  a. Verb  ",
+      " b. Noun  ",
+      "c. Adjective",
+      " d. Pronoun   "
+    ],
+    "correctAnswers": [
+      " b. Noun  "
+    ]
+  },
+  {
+    "question": " Определите часть речи выделенного слова: WE brought this wood from Africa.",
+    "image": "",
+    "choices": [
+      "  a. Verb",
+      "b. Noun ",
+      " c. Adjective ",
+      "d. Pronoun   "
+    ],
+    "correctAnswers": [
+      "d. Pronoun   "
+    ]
+  },
+  {
+    "question": "Определите часть речи выделенного слова: Knots DESTROY the structure of wood.\n",
+    "image": "",
+    "choices": [
+      "    a. Verb     ",
+      "b. Noun ",
+      " c. Adjective ",
+      "d. Pronoun   "
+    ],
+    "correctAnswers": [
+      "    a. Verb     "
+    ]
+  },
+  {
+    "question": " I opened the door and found___facing a stranger. \n",
+    "image": "",
+    "choices": [
+      "a) himself\t",
+      "b) themselves",
+      "c) myself",
+      " d) yourself"
+    ],
+    "correctAnswers": [
+      "c) myself"
+    ]
+  },
+  {
+    "question": "You! Go and see it for___if you like. \n",
+    "image": "",
+    "choices": [
+      "a) himself",
+      "b) themselves",
+      "c) myself",
+      "d) yourself"
+    ],
+    "correctAnswers": [
+      "d) yourself"
+    ]
+  },
+  {
+    "question": " They built the houses___.\n",
+    "image": "",
+    "choices": [
+      "a) himself",
+      " b) themselves",
+      "c) myself",
+      "d) yourself"
+    ],
+    "correctAnswers": [
+      " b) themselves"
+    ]
+  },
+  {
+    "question": " Would you mind keeping your words to ___? \n",
+    "image": "",
+    "choices": [
+      "a) himself",
+      " b) themselves",
+      "c) myself",
+      "d) yourself"
+    ],
+    "correctAnswers": [
+      "d) yourself"
+    ]
+  },
+  {
+    "question": "Переведите аббревиатуру КГТК на английский язык.",
+    "image": "",
+    "choices": [
+      "A) Krasnodar Humanitarian Technological College ",
+      "B) Krasnodarsky Humanitarny Technology College",
+      "C) Krasnodar Humanitary Technologichesky Kollege",
+      "D) Krasnodarsky Gumanitarny Technology Kollege"
+    ],
+    "correctAnswers": [
+      "A) Krasnodar Humanitarian Technological College "
+    ]
+  },
+  {
+    "question": "Выберете правильное слово подходящие под описание: a metric unit of mass",
+    "image": "",
+    "choices": [
+      "a) kilogram",
+      "b) liter",
+      "c) meter",
+      "d) inch"
+    ],
+    "correctAnswers": [
+      "a) kilogram"
+    ]
+  },
+  {
+    "question": "Выберете правильное слово подходящие под описание: a metric unit of volume",
+    "image": "",
+    "choices": [
+      "a) kilogram",
+      "b) liter",
+      "c) meter",
+      "d) inch"
+    ],
+    "correctAnswers": [
+      "b) liter"
+    ]
+  },
+  {
+    "question": "Выберете правильное слово подходящие под описание: a metric unit of length",
+    "image": "",
+    "choices": [
+      "a) kilogram",
+      "b) liter",
+      "c) meter",
+      "d) inch"
+    ],
+    "correctAnswers": [
+      "c) meter"
+    ]
+  },
+  {
+    "question": "Выберете правильное слово подходящие под описание: a imperial unit of mass",
+    "image": "",
+    "choices": [
+      "a) kilogram",
+      "b) liter",
+      "c) pound",
+      "d) inch"
+    ],
+    "correctAnswers": [
+      "c) pound"
+    ]
+  },
+  {
+    "question": "Выберете правильное слово подходящие под описание: a imperial unit of volume",
+    "image": "",
+    "choices": [
+      "a) gallon",
+      "b) liter",
+      "c) pound",
+      "d) inch"
+    ],
+    "correctAnswers": [
+      "a) gallon"
+    ]
+  },
+  {
+    "question": "Выберете правильное слово подходящие под описание: a imperial unit of length",
+    "image": "",
+    "choices": [
+      "a) kilogram",
+      "b) liter",
+      "c) pound",
+      "d) inch"
+    ],
+    "correctAnswers": [
+      "d) inch"
+    ]
+  },
+  {
+    "question": "Выберете правильное слово подходящие под описание: the measurement of how long something is",
+    "image": "",
+    "choices": [
+      "a) weight",
+      "b) depth",
+      "c) length",
+      "d) width"
+    ],
+    "correctAnswers": [
+      "c) length"
+    ]
+  },
+  {
+    "question": "Выберете правильное слово подходящие под описание: the measurement of how heavy something is",
+    "image": "",
+    "choices": [
+      "a) weight",
+      "b) depth",
+      "c) length",
+      "d) width"
+    ],
+    "correctAnswers": [
+      "a) weight"
+    ]
+  },
+  {
+    "question": "Выберете правильное слово подходящие под описание: the measurement of how wide something is",
+    "image": "",
+    "choices": [
+      "a) weight",
+      "b) depth",
+      "c) length",
+      "d) width"
+    ],
+    "correctAnswers": [
+      "d) width"
+    ]
+  },
+  {
+    "question": "Выберете правильное слово подходящие под описание: the measurement of how deep something is",
+    "image": "",
+    "choices": [
+      "a) weight",
+      "b) depth",
+      "c) length",
+      "d) width"
+    ],
+    "correctAnswers": [
+      "b) depth"
+    ]
+  },
+  {
+    "question": "Выберете правильное слово подходящие под описание: the measurement of how tall something is",
+    "image": "",
+    "choices": [
+      "a) weight",
+      "b) depth",
+      "c) height",
+      "d) width"
+    ],
+    "correctAnswers": [
+      "c) height"
+    ]
+  },
+  {
+    "question": "Выберите лишнее слово:",
+    "image": "",
+    "choices": [
+      "a) weight",
+      "b) deep",
+      "d) width",
+      "c) height"
+    ],
+    "correctAnswers": [
+      "b) deep"
+    ]
+  },
+  {
+    "question": "Выберите лишнее слово",
+    "image": "",
+    "choices": [
+      "a) weight",
+      "b) depth",
+      "c) high",
+      "d) width"
+    ],
+    "correctAnswers": [
+      "c) high"
+    ]
+  },
+  {
+    "question": "Выберите лишнее слово:",
+    "image": "",
+    "choices": [
+      "a) weight",
+      "b) depth",
+      "c) height",
+      "d) wide"
+    ],
+    "correctAnswers": [
+      "d) wide"
+    ]
+  },
+  {
+    "question": "Выберите лишнее слово:",
+    "image": "",
+    "choices": [
+      "a) white",
+      "b) depth",
+      "c) height",
+      "d) width"
+    ],
+    "correctAnswers": [
+      "a) white"
+    ]
+  },
+  {
+    "question": "Подберите правильный ответ: 150 kg",
+    "image": "",
+    "choices": [
+      "a)\twidth ",
+      "b)\tdepth",
+      "c)\theight",
+      "d)\tweight"
+    ],
+    "correctAnswers": [
+      "d)\tweight"
+    ]
+  },
+  {
+    "question": "Подберите правильный ответ: 35 cm wide",
+    "image": "",
+    "choices": [
+      "a)\twidth ",
+      "b)\tdepth",
+      "c)\theight",
+      "d)\tweight"
+    ],
+    "correctAnswers": [
+      "a)\twidth "
+    ]
+  },
+  {
+    "question": "Подберите правильный ответ: 60 m high",
+    "image": "",
+    "choices": [
+      "a)\twidth ",
+      "b)\tdepth",
+      "c)\theight",
+      "d)\tweight"
+    ],
+    "correctAnswers": [
+      "c)\theight"
+    ]
+  },
+  {
+    "question": "Подберите правильный ответ: 5 km deep",
+    "image": "",
+    "choices": [
+      "a)\twidth ",
+      "b)\tdepth",
+      "c)\theight",
+      "d)\tweight"
+    ],
+    "correctAnswers": [
+      "b)\tdepth"
+    ]
+  },
+  {
+    "question": "Подберите правильный ответ: 40 cm long",
+    "image": "",
+    "choices": [
+      "a)\twidth ",
+      "b)\tlength",
+      "c)\theight",
+      "d)\tweight"
+    ],
+    "correctAnswers": [
+      "b)\tlength"
+    ]
+  },
+  {
+    "question": "Подберите правильный ответ: 15 liters",
+    "image": "",
+    "choices": [
+      "a)\twidth ",
+      "b)\tdepth",
+      "c)\tvolume",
+      "d)\tweight"
+    ],
+    "correctAnswers": [
+      "c)\tvolume"
+    ]
+  },
+  {
+    "question": "He has injured ______.",
+    "image": "",
+    "choices": [
+      "a) himself",
+      "b) themselves",
+      "c) myself",
+      "d) yourself"
+    ],
+    "correctAnswers": [
+      "a) himself"
+    ]
+  },
+  {
+    "question": "During the breaks they amused _____ in the bar",
+    "image": "",
+    "choices": [
+      "a) himself",
+      "b) themselves",
+      "c) myself",
+      "d) yourself"
+    ],
+    "correctAnswers": [
+      "b) themselves"
+    ]
+  },
+  {
+    "question": "We protect ___from the cold with warm things. ",
+    "image": "",
+    "choices": [
+      "a) herself",
+      "b) ourselves",
+      "c) itself",
+      "d) yourself"
+    ],
+    "correctAnswers": [
+      "b) ourselves"
+    ]
+  },
+  {
+    "question": "She settled___in the armchair as comfortably as she could. ",
+    "image": "",
+    "choices": [
+      "a) herself",
+      "b) ourselves",
+      "c) itself",
+      "d) yourself"
+    ],
+    "correctAnswers": [
+      "a) herself"
+    ]
+  },
+  {
+    "question": "You can easily dress _____. ",
+    "image": "",
+    "choices": [
+      "a) herself",
+      "b) ourselves",
+      "c) itself",
+      "d) yourself"
+    ],
+    "correctAnswers": [
+      "d) yourself"
+    ]
+  },
+  {
+    "question": "In the morning Nina washes and dresses ____.",
+    "image": "",
+    "choices": [
+      "a) herself",
+      "b) themselves",
+      "c) myself",
+      "d) yourself"
+    ],
+    "correctAnswers": [
+      "a) herself"
+    ]
+  },
+  {
+    "question": "He cut ____shaving this morning",
+    "image": "",
+    "choices": [
+      "a) himself",
+      "b) themselves",
+      "c) myself",
+      "d) yourself"
+    ],
+    "correctAnswers": [
+      "a) himself"
+    ]
+  },
+  {
+    "question": "Which one is NOT a pronoun?",
+    "image": "",
+    "choices": [
+      "A) She",
+      "B) We",
+      "C) Dog",
+      "D) He"
+    ],
+    "correctAnswers": [
+      "C) Dog"
+    ]
+  },
+  {
+    "question": "Choose the correct pronoun: \"___ love pizza.\"",
+    "image": "",
+    "choices": [
+      "A) Them",
+      "B) We",
+      "C) His",
+      "D) He"
+    ],
+    "correctAnswers": [
+      "B) We"
+    ]
+  },
+  {
+    "question": "Fill in the blank: \"This is my friend. ___ name is John.\"",
+    "image": "",
+    "choices": [
+      "A) His",
+      "B) He",
+      "C) Him",
+      "D) They"
+    ],
+    "correctAnswers": [
+      "A) His"
+    ]
+  },
+  {
+    "question": "Choose the correct form: \"I ___ not know the answer.\"\n",
+    "image": "",
+    "choices": [
+      "A) is",
+      "B) have",
+      "C) do",
+      "D) are"
+    ],
+    "correctAnswers": [
+      "C) do"
+    ]
+  },
+  {
+    "question": "Which pronoun is correct? \"Is this ___ book?\"",
+    "image": "",
+    "choices": [
+      "A) she",
+      "B) her",
+      "C) he",
+      "D) they"
+    ],
+    "correctAnswers": [
+      "B) her"
+    ]
+  },
+  {
+    "question": "Choose the correct pronoun: \"___ went to the park.\"",
+    "image": "",
+    "choices": [
+      "A) Him",
+      "B) They",
+      "C) Us",
+      "D) There"
+    ],
+    "correctAnswers": [
+      "B) They"
+    ]
+  },
+  {
+    "question": "Which pronoun is used for a group?",
+    "image": "",
+    "choices": [
+      "A) He",
+      "B) They",
+      "C) She",
+      "D) It"
+    ],
+    "correctAnswers": [
+      "B) They"
+    ]
+  },
+  {
+    "question": "Choose the correct pronoun: \"___ have two children.\"",
+    "image": "",
+    "choices": [
+      "A) He",
+      "B) She",
+      "C) They",
+      "D) Him"
+    ],
+    "correctAnswers": [
+      "C) They"
+    ]
+  },
+  {
+    "question": "Which one is NOT a form of \"to have\"?",
+    "image": "",
+    "choices": [
+      "A) Have",
+      "B) Has",
+      "C) Had",
+      "D) Am"
+    ],
+    "correctAnswers": [
+      "D) Am"
+    ]
+  },
+  {
+    "question": "Choose the correct pronoun: \"Is this ___ book?\"",
+    "image": "",
+    "choices": [
+      "A) their",
+      "B) they",
+      "C) them",
+      "D) he"
+    ],
+    "correctAnswers": [
+      "A) their"
+    ]
+  },
+  {
+    "question": "Complete the sentence: \"Is that ___ dog?\"",
+    "image": "",
+    "choices": [
+      "A) his",
+      "B) he",
+      "C) they",
+      "D) we"
+    ],
+    "correctAnswers": [
+      "A) his"
+    ]
+  },
+  {
+    "question": "Choose the correct pronoun: \"Can you tell ___ the time?\"",
+    "image": "",
+    "choices": [
+      "A) me",
+      "B) I",
+      "C) my",
+      "D) we"
+    ],
+    "correctAnswers": [
+      "A) me"
+    ]
+  },
+  {
+    "question": "What is the correct form? \"She ___ to the gym every day.\"",
+    "image": "",
+    "choices": [
+      "A) go",
+      "B) goes",
+      "C) gone",
+      "D) going"
+    ],
+    "correctAnswers": [
+      "B) goes"
+    ]
+  },
+  {
+    "question": "Choose the correct form: \"They ___ a movie last night.\"",
+    "image": "",
+    "choices": [
+      "A) watch",
+      "B) watches",
+      "C) watched",
+      "D) watching"
+    ],
+    "correctAnswers": [
+      "C) watched"
+    ]
+  },
+  {
+    "question": "Complete the sentence: \"I usually ___ breakfast at 8 AM.\"",
+    "image": "",
+    "choices": [
+      "A) eat",
+      "B) ate",
+      "C) eating",
+      "D) eats"
+    ],
+    "correctAnswers": [
+      "A) eat"
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: шлакоблок\n \n",
+    "image": "",
+    "choices": [
+      "a) concrete  ",
+      "b) cinder block   ",
+      "c) rebars  ",
+      "d) lumber   "
+    ],
+    "correctAnswers": [
+      "b) cinder block   "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: бетон\n   \n   \n  \n \n",
+    "image": "",
+    "choices": [
+      "a) concrete",
+      "b) cinder block",
+      "c) rebars",
+      "d) lumber  "
+    ],
+    "correctAnswers": [
+      "a) concrete"
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: арматура\n   \n   \n  \n",
+    "image": "",
+    "choices": [
+      "a) concrete",
+      "b) cinder block",
+      "c) rebars",
+      "d) lumber   "
+    ],
+    "correctAnswers": [
+      "c) rebars"
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: пиломатериалы\n   \n   \n  \n",
+    "image": "",
+    "choices": [
+      "a) concrete",
+      "b) cinder block",
+      "c) rebars",
+      "d) lumber   "
+    ],
+    "correctAnswers": [
+      "d) lumber   "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: кирпич\n",
+    "image": "",
+    "choices": [
+      "a) drywall   ",
+      "b) brick        ",
+      "c) rebars  ",
+      "d) flooring"
+    ],
+    "correctAnswers": [
+      "b) brick        "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: гипсокартон\n\n  \n",
+    "image": "",
+    "choices": [
+      "a) drywall      ",
+      "b) brick ",
+      "c) rebars",
+      "d) flooring   "
+    ],
+    "correctAnswers": [
+      "a) drywall      "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: напольное покрытие\n",
+    "image": "",
+    "choices": [
+      "a) drywall   ",
+      "b) brick          ",
+      "c) rebars",
+      "d) flooring"
+    ],
+    "correctAnswers": [
+      "d) flooring"
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: крыша\n\n",
+    "image": "",
+    "choices": [
+      "a) roof       ",
+      "b) bedroom",
+      "c) bathroom  ",
+      "d) utility room   "
+    ],
+    "correctAnswers": [
+      "a) roof       "
+    ]
+  },
+  {
+    "question": ". Выберите правильный перевод: подсобное помещение\n \n   \n",
+    "image": "",
+    "choices": [
+      "a) roof  ",
+      "b) bedroom",
+      "c) bathroom  ",
+      "d) utility room   "
+    ],
+    "correctAnswers": [
+      "d) utility room   "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: спальня\n",
+    "image": "",
+    "choices": [
+      "a) roof   ",
+      "b) bedroom   ",
+      "c) bathroom  ",
+      "d) utility room   "
+    ],
+    "correctAnswers": [
+      "b) bedroom   "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: ванная комната\n",
+    "image": "",
+    "choices": [
+      "a) roof   ",
+      "b) bedroom   ",
+      "c) bathroom  ",
+      "d) utility room   "
+    ],
+    "correctAnswers": [
+      "c) bathroom  "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: гардеробная\n\n",
+    "image": "",
+    "choices": [
+      "a) patio     ",
+      "b) kitchen  ",
+      "c) living room  ",
+      "d) walk-in closet   "
+    ],
+    "correctAnswers": [
+      "d) walk-in closet   "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: гостинная\n",
+    "image": "",
+    "choices": [
+      "a) patio   ",
+      "b) kitchen   ",
+      "c) living room  ",
+      "d) walk-in closet   "
+    ],
+    "correctAnswers": [
+      "c) living room  "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: кухня\n\n",
+    "image": "",
+    "choices": [
+      "a) patio   ",
+      "b) kitchen   ",
+      "c) living room  ",
+      "d) walk-in closet   "
+    ],
+    "correctAnswers": [
+      "b) kitchen   "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: зона отдыха\n",
+    "image": "",
+    "choices": [
+      "a) patio   ",
+      "b) kitchen   ",
+      "c) living room  ",
+      "d) walk-in closet   "
+    ],
+    "correctAnswers": [
+      "d) walk-in closet   "
+    ]
+  },
+  {
+    "question": ". Выберите правильный перевод: вестибюль\n\n",
+    "image": "",
+    "choices": [
+      "a) entrance       ",
+      "b) exit",
+      "c) lobby  ",
+      "d) hallway   "
+    ],
+    "correctAnswers": [
+      "c) lobby  "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: вход\n",
+    "image": "",
+    "choices": [
+      "a) entrance  ",
+      "b) exit   ",
+      "c) lobby  ",
+      "d) hallway   "
+    ],
+    "correctAnswers": [
+      "a) entrance  "
+    ]
+  },
+  {
+    "question": ". Выберите правильный перевод: выход\n  \n\n  \n",
+    "image": "",
+    "choices": [
+      "a) entrance ",
+      "b) exit   ",
+      "c) lobby  ",
+      "d) hallway "
+    ],
+    "correctAnswers": [
+      "b) exit   "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: коридор\n   \n   \n \n\n",
+    "image": "",
+    "choices": [
+      "a) entrance",
+      "b) exit",
+      "c) lobby ",
+      "d) hallway   "
+    ],
+    "correctAnswers": [
+      "d) hallway   "
+    ]
+  },
+  {
+    "question": " Выберите правильный перевод: знак\n   \n  \n \n \n",
+    "image": "",
+    "choices": [
+      "a) sign",
+      "b) floor ",
+      "c) emergency ",
+      "d) stairwell  "
+    ],
+    "correctAnswers": [
+      "a) sign"
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: лестничная клетка\n   \n\n  \n\n",
+    "image": "",
+    "choices": [
+      "a) sign",
+      "b) floor   ",
+      "c) emergency",
+      "d) stairwell  "
+    ],
+    "correctAnswers": [
+      "d) stairwell  "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: этаж\n  \n   \n  \n \n",
+    "image": "",
+    "choices": [
+      "a) sign ",
+      "b) floor",
+      "c) emergency",
+      "d) stairwell  "
+    ],
+    "correctAnswers": [
+      "b) floor"
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: чрезвычайная ситуация\n",
+    "image": "",
+    "choices": [
+      "a) sign      ",
+      "b) floor     ",
+      "c) emergency ",
+      "d) stairwell "
+    ],
+    "correctAnswers": [
+      "c) emergency "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: пожарная лестница\n",
+    "image": "",
+    "choices": [
+      "a) fire escape   ",
+      "b) elevator   ",
+      "c) roof  ",
+      "d) lobby  "
+    ],
+    "correctAnswers": [
+      "a) fire escape   "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: лифт\n",
+    "image": "",
+    "choices": [
+      "a) fire escape   ",
+      "b) elevator   ",
+      "c) roof  ",
+      "d) lobby  "
+    ],
+    "correctAnswers": [
+      "b) elevator   "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: подтвердить\n",
+    "image": "",
+    "choices": [
+      "a) consult   ",
+      "b) communicate   ",
+      "c) contact  ",
+      "d) confirm    "
+    ],
+    "correctAnswers": [
+      "d) confirm    "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: консультировать\n\n",
+    "image": "",
+    "choices": [
+      "a) consult   ",
+      "b) communicate   ",
+      "c) contact     ",
+      "d) confirm  "
+    ],
+    "correctAnswers": [
+      "a) consult   "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: общаться\n",
+    "image": "",
+    "choices": [
+      "a) consult   ",
+      "b) communicate   ",
+      "c) contact  ",
+      "d) confirm   "
+    ],
+    "correctAnswers": [
+      "b) communicate   "
+    ]
+  },
+  {
+    "question": "Выберите правильный перевод: связаться\n \n  \n\n",
+    "image": "",
+    "choices": [
+      "a) consult  ",
+      "b) communicate ",
+      "c) contact  ",
+      "d) confirm    "
+    ],
+    "correctAnswers": [
+      "c) contact  "
+    ]
+  },
+  {
+    "question": "You must contact the client!\n\n",
+    "image": "",
+    "choices": [
+      "a) Ты должен связаться с клиентом   ",
+      "b) Ты должен пообщаться с клиентом  ",
+      "c) Ты должен проконсультировать клиента  ",
+      "d) Ты должен подтвердить клиента"
+    ],
+    "correctAnswers": [
+      "a) Ты должен связаться с клиентом   "
+    ]
+  },
+  {
+    "question": "You must confirm the client!\n\n",
+    "image": "",
+    "choices": [
+      "a) Ты должен связаться с клиентом   ",
+      "b) Ты должен пообщаться с клиентом  ",
+      "c) Ты должен проконсультировать клиента  ",
+      "d) Ты должен подтвердить клиента"
+    ],
+    "correctAnswers": [
+      "d) Ты должен подтвердить клиента"
+    ]
+  },
+  {
+    "question": "You must communicate with the client!\n",
+    "image": "",
+    "choices": [
+      "a) Ты должен связаться с клиентом   ",
+      "b) Ты должен пообщаться с клиентом  ",
+      "c) Ты должен проконсультировать клиента  ",
+      "d) Ты должен подтвердить клиента"
+    ],
+    "correctAnswers": [
+      "b) Ты должен пообщаться с клиентом  "
+    ]
+  },
+  {
+    "question": "You must consult the client!\n",
+    "image": "",
+    "choices": [
+      "a) Ты должен связаться с клиентом   ",
+      "b) Ты должен пообщаться с клиентом  ",
+      "c) Ты должен проконсультировать клиента  ",
+      "d) Ты должен подтвердить клиента"
+    ],
+    "correctAnswers": [
+      "c) Ты должен проконсультировать клиента  "
+    ]
+  },
+  {
+    "question": "Fill in the blank: \"We ___ to the park every weekend.\"\n\n",
+    "image": "",
+    "choices": [
+      "A) goes",
+      "B) gone",
+      "C) go",
+      "D) going"
+    ],
+    "correctAnswers": [
+      "C) go"
+    ]
+  },
+  {
+    "question": "Choose the right form: \"She ___ a letter last week.\"\n\n\n",
+    "image": "",
+    "choices": [
+      "A) write",
+      "B) wrote",
+      "C) writing",
+      "D) writes"
+    ],
+    "correctAnswers": [
+      "B) wrote"
+    ]
+  },
+  {
+    "question": "What is the correct form? \"I always ___ my keys.\"\n",
+    "image": "",
+    "choices": [
+      "A) lose",
+      "B) lost",
+      "C) losing",
+      "D) loses"
+    ],
+    "correctAnswers": [
+      "A) lose"
+    ]
+  },
+  {
+    "question": "Fill in the blank: \"He ___ his bike every Saturday.\"\n",
+    "image": "",
+    "choices": [
+      "A) rides",
+      "B) ride",
+      "C) riding",
+      "D) rode"
+    ],
+    "correctAnswers": [
+      "A) rides"
+    ]
+  },
+  {
+    "question": "What is the correct form? \"They ___ a trip to Paris last summer.\"\n",
+    "image": "",
+    "choices": [
+      "A) take",
+      "B) took",
+      "C) taken",
+      "D) taking"
+    ],
+    "correctAnswers": [
+      "B) took"
+    ]
+  },
+  {
+    "question": "Choose the right form: \"I ___ my friend yesterday.\"\n\n\n\n",
+    "image": "",
+    "choices": [
+      "A) see",
+      "B) seen",
+      "C) saw",
+      "D) seeing"
+    ],
+    "correctAnswers": [
+      "C) saw"
+    ]
+  },
+  {
+    "question": "Fill in the blank: \"She often ___ TV in the evening.\"\n\n\n\n\n",
+    "image": "",
+    "choices": [
+      "A) watches",
+      "B) watch",
+      "C) watched",
+      "D) watching"
+    ],
+    "correctAnswers": [
+      "A) watches"
+    ]
+  },
+  {
+    "question": "What is the correct form? \"We ___ very busy last week.\"\n\n",
+    "image": "",
+    "choices": [
+      "A) are",
+      "B) were",
+      "C) was",
+      "D) being"
+    ],
+    "correctAnswers": [
+      "B) were"
+    ]
+  },
+  {
+    "question": "Choose the right form: \"He ___ to the store every day.\"\n",
+    "image": "",
+    "choices": [
+      "A) go",
+      "B) goes",
+      "C) gone",
+      "D) going"
+    ],
+    "correctAnswers": [
+      "B) goes"
+    ]
+  },
+  {
+    "question": "Complete the sentence: \"They usually ___ at 6 PM.\"\n\n",
+    "image": "",
+    "choices": [
+      "A) eat",
+      "B) eats",
+      "C) eaten",
+      "D) eating"
+    ],
+    "correctAnswers": [
+      "A) eat"
+    ]
+  },
+  {
+    "question": "Fill in the blank: \"She ___ a great time at the party yesterday.\"\n",
+    "image": "",
+    "choices": [
+      "A) has",
+      "B) had",
+      "C) have",
+      "D) having"
+    ],
+    "correctAnswers": [
+      "B) had"
+    ]
+  },
+  {
+    "question": "Choose the right form: \"The dog always ___ its ball.\"\n",
+    "image": "",
+    "choices": [
+      "A) fetches",
+      "B) fetched",
+      "C) fetch",
+      "D) fetching"
+    ],
+    "correctAnswers": [
+      "A) fetches"
+    ]
+  },
+  {
+    "question": "What is the correct form? \"We ___ to the concert two weeks ago.\"\n",
+    "image": "",
+    "choices": [
+      "A) go",
+      "B) gone",
+      "C) went",
+      "D) going"
+    ],
+    "correctAnswers": [
+      "C) went"
+    ]
+  },
+  {
+    "question": "Complete the sentence: \"He ___ breakfast every morning.\"\n\n\n",
+    "image": "",
+    "choices": [
+      "A) have",
+      "B) has",
+      "C) had",
+      "D) having"
+    ],
+    "correctAnswers": [
+      "B) has"
+    ]
+  },
+  {
+    "question": "Choose the correct form: \"I often ___ coffee in the morning.\"\n",
+    "image": "",
+    "choices": [
+      "A) drink",
+      "B) drinks",
+      "C) drank",
+      "D) drinking"
+    ],
+    "correctAnswers": [
+      "A) drink"
+    ]
+  },
+  {
+    "question": "Complete the sentence: \"They ___ in the park every Sunday.\"\n",
+    "image": "",
+    "choices": [
+      "A) run",
+      "B) ran",
+      "C) running",
+      "D) runs"
+    ],
+    "correctAnswers": [
+      "A) run"
+    ]
+  },
+  {
+    "question": ". Choose the right form: \"I ___ to my grandma every week.\"\n",
+    "image": "",
+    "choices": [
+      "A) write",
+      "B) writes",
+      "C) written",
+      "D) writing"
+    ],
+    "correctAnswers": [
+      "A) write"
+    ]
+  },
+  {
+    "question": "What is the correct form? \"He ___ his homework on time last night.\"\n",
+    "image": "",
+    "choices": [
+      "A) finish",
+      "B) finishes",
+      "C) finished",
+      "D) finishing"
+    ],
+    "correctAnswers": [
+      "C) finished"
+    ]
+  },
+  {
+    "question": "Fill in the blank: \"We usually ___ dinner at 7 PM.\"\n",
+    "image": "",
+    "choices": [
+      "A) have",
+      "B) has",
+      "C) had",
+      "D) having"
+    ],
+    "correctAnswers": [
+      "A) have"
+    ]
+  },
+  {
+    "question": "What is the correct form? \"She ___ a book last month.\"\n\n",
+    "image": "",
+    "choices": [
+      "A) read",
+      "B) reads",
+      "C) reading",
+      "D) readed"
+    ],
+    "correctAnswers": [
+      "A) read"
+    ]
+  },
+  {
+    "question": "Fill in the blank: \"You always ___ the right answer.\"\n",
+    "image": "",
+    "choices": [
+      "A) have",
+      "B) has",
+      "C) had",
+      "D) having"
+    ],
+    "correctAnswers": [
+      "A) have"
+    ]
+  },
+  {
+    "question": "Choose the correct form: \"They ___ a picnic last Saturday.\"\n",
+    "image": "",
+    "choices": [
+      "A) have",
+      "B) had",
+      "C) has",
+      "D) having"
+    ],
+    "correctAnswers": [
+      "B) had"
+    ]
+  },
+  {
+    "question": "What is the correct form? \"I ___ the homework yesterday.\"\n",
+    "image": "",
+    "choices": [
+      "A) completed",
+      "B) complete",
+      "C) completing",
+      "D) completes"
+    ],
+    "correctAnswers": [
+      "A) completed"
+    ]
+  },
+  {
+    "question": "Complete the sentence: \"She often ___ her friends at the mall.\"\n",
+    "image": "",
+    "choices": [
+      "A) meet",
+      "B) meets",
+      "C) met",
+      "D) meeting"
+    ],
+    "correctAnswers": [
+      "B) meets"
+    ]
+  },
+  {
+    "question": "Fill in the blank: \"He ___ the car yesterday.\"\n\n",
+    "image": "",
+    "choices": [
+      "A) drive",
+      "B) drove",
+      "C) driven",
+      "D) drives"
+    ],
+    "correctAnswers": [
+      "B) drove"
+    ]
+  },
+  {
+    "question": "What is the correct form? \"We usually ___ in the evening.\"\n\n\n",
+    "image": "",
+    "choices": [
+      "A) walk",
+      "B) walks",
+      "C) walking",
+      "D) walked"
+    ],
+    "correctAnswers": [
+      "A) walk"
+    ]
+  },
+  {
+    "question": "Choose the right form: \"I ___ my homework last night.\"\n",
+    "image": "",
+    "choices": [
+      "A) do",
+      "B) did",
+      "C) done",
+      "D) does"
+    ],
+    "correctAnswers": [
+      "B) did"
+    ]
+  },
+  {
+    "question": "Complete the sentence: \"They ___ to the beach every summer.\"\n",
+    "image": "",
+    "choices": [
+      "A) go",
+      "B) goes",
+      "C) gone",
+      "D) going"
+    ],
+    "correctAnswers": [
+      "A) go"
+    ]
+  },
+  {
+    "question": "Fill in the blank: \"They usually ___ at home on weekends.\"\n",
+    "image": "",
+    "choices": [
+      "A) stay",
+      "B) stays",
+      "C) stayed",
+      "D) staying"
+    ],
+    "correctAnswers": [
+      "A) stay"
+    ]
+  },
+  {
+    "question": "What is the correct form? \"She ___ a beautiful painting yesterday.\"\n",
+    "image": "",
+    "choices": [
+      "A) created",
+      "B) create",
+      "C) creating",
+      "D) creates"
+    ],
+    "correctAnswers": [
+      "A) created"
+    ]
+  },
+  {
+    "question": "What is the correct form? \"She ______ this task tomorrow.\"\n",
+    "image": "",
+    "choices": [
+      "A) do",
+      "B) does",
+      "C) did",
+      "D) will do"
+    ],
+    "correctAnswers": [
+      "D) will do"
+    ]
+  },
+  {
+    "question": "The contractor will install a _______ floor in this gym.\n",
+    "image": "",
+    "choices": [
+      "A) rebars   ",
+      "B) drywall   ",
+      "C) rubber    ",
+      "D) steel"
+    ],
+    "correctAnswers": [
+      "C) rubber    "
+    ]
+  },
+  {
+    "question": "________ bars give this building a very solid frame.\n",
+    "image": "",
+    "choices": [
+      "A) a rebar   ",
+      "B) a drywall   ",
+      "C) a rubber    ",
+      "D) steel"
+    ],
+    "correctAnswers": [
+      "D) steel"
+    ]
+  },
+  {
+    "question": "________ is the ideal material for walls of new rooms.\n",
+    "image": "",
+    "choices": [
+      "A) rebars   ",
+      "B) drywall   ",
+      "C) rubbers    ",
+      "D) steels"
+    ],
+    "correctAnswers": [
+      "B) drywall   "
+    ]
+  },
+  {
+    "question": "There are a lot of _______ running through this concrete wall to support it.\n",
+    "image": "",
+    "choices": [
+      "A) rebars   ",
+      "B) drywall   ",
+      "C) rubber    ",
+      "D) steel"
+    ],
+    "correctAnswers": [
+      "A) rebars   "
+    ]
+  },
+  {
+    "question": "What is the height and other ________ of that table?\n",
+    "image": "",
+    "choices": [
+      "A) thickness    ",
+      "B) jamb   ",
+      "C) strength   ",
+      "D) dimensions"
+    ],
+    "correctAnswers": [
+      "D) dimensions"
+    ]
+  },
+  {
+    "question": "The window glass should have a __________ of at least 3 cm to keep out cold winds.\n",
+    "image": "",
+    "choices": [
+      "A) thickness   ",
+      "B) jamb   ",
+      "C) strength   ",
+      "D) dimension"
+    ],
+    "correctAnswers": [
+      "A) thickness   "
+    ]
+  },
+  {
+    "question": "Write a(n) ________ to the site manager.\n",
+    "image": "",
+    "choices": [
+      "A)  two-way   ",
+      "B) email   ",
+      "C) one-way radio  ",
+      "D) two-way radio"
+    ],
+    "correctAnswers": [
+      "B) email   "
+    ]
+  },
+  {
+    "question": "Scan the blueprints as a(n) __________.\n",
+    "image": "",
+    "choices": [
+      "A) PDF    ",
+      "B) email   ",
+      "C) smartphone   ",
+      "D) two-way radio"
+    ],
+    "correctAnswers": [
+      "A) PDF    "
+    ]
+  },
+  {
+    "question": "A(n) _________ has a smaller range than a cell phone.\n",
+    "image": "",
+    "choices": [
+      "A) cellphone   ",
+      "B) email   ",
+      "C) smartphone   ",
+      "D) two-way radio"
+    ],
+    "correctAnswers": [
+      "D) two-way radio"
+    ]
+  },
+  {
+    "question": "A(n) _________ has many more functions than a cell phone.\n",
+    "image": "",
+    "choices": [
+      "A) three-way   ",
+      "B) one-way radio  ",
+      "C) smartphone   ",
+      "D) two-way radio"
+    ],
+    "correctAnswers": [
+      "C) smartphone   "
+    ]
+  },
+  {
+    "question": "The washer and dryer are in the ___________.\n",
+    "image": "",
+    "choices": [
+      "A) garage    ",
+      "B) kitchen    ",
+      "C) bathroom    ",
+      "D) utility room"
+    ],
+    "correctAnswers": [
+      "D) utility room"
+    ]
+  },
+  {
+    "question": "The _________ has two sinks and a large walk-in shower.\n",
+    "image": "",
+    "choices": [
+      "A) living room   ",
+      "B) dining room    ",
+      "C) bathroom    ",
+      "D) utility room"
+    ],
+    "correctAnswers": [
+      "C) bathroom    "
+    ]
+  },
+  {
+    "question": "The _________ needs a gas line for the stove and oven.\n",
+    "image": "",
+    "choices": [
+      "A) walk-in closet   ",
+      "B) kitchen    ",
+      "C) living room    ",
+      "D) utility room"
+    ],
+    "correctAnswers": [
+      "B) kitchen    "
+    ]
+  },
+  {
+    "question": "The _________ has enough room for two cars.\n",
+    "image": "",
+    "choices": [
+      "A) garage    ",
+      "B) bedroom   ",
+      "C)  bathroom    ",
+      "D) utility room"
+    ],
+    "correctAnswers": [
+      "A) garage    "
+    ]
+  },
+  {
+    "question": "The company’s old ______ was small and dark, but the new one is much nicer.\n",
+    "image": "",
+    "choices": [
+      "A) stairwells    ",
+      "B) lobbys   ",
+      "C) office   ",
+      "D) entrances"
+    ],
+    "correctAnswers": [
+      "C) office   "
+    ]
+  },
+  {
+    "question": "The _______ is the first room people enter. \n",
+    "image": "",
+    "choices": [
+      "A) stairwells    ",
+      "B) lobby   ",
+      "C) offices   ",
+      "D) entrances"
+    ],
+    "correctAnswers": [
+      "B) lobby   "
+    ]
+  },
+  {
+    "question": "After-hours visitors can only get into the building using the south ______.\n\n",
+    "image": "",
+    "choices": [
+      "A) a stairwell    ",
+      "B) a lobby   ",
+      "C) a office   ",
+      "D) entrance"
+    ],
+    "correctAnswers": [
+      "D) entrance"
+    ]
+  },
+  {
+    "question": "The elevator broke, so everyone had to go up the _________.\n\n\n",
+    "image": "",
+    "choices": [
+      "A) stairwell   ",
+      "B) lobby   ",
+      "C) office   ",
+      "D) entrance"
+    ],
+    "correctAnswers": [
+      "A) stairwell   "
+    ]
+  },
+  {
+    "question": "A building material made of rectangular blocks of hardened clay \n\n\n",
+    "image": "",
+    "choices": [
+      "A) brick       ",
+      "B)push       ",
+      "C) place    ",
+      "D)percent"
+    ],
+    "correctAnswers": [
+      "A) brick       "
+    ]
+  },
+  {
+    "question": "A mix of cement, water, gravel, and sand used  as a building material\n",
+    "image": "",
+    "choices": [
+      "A) concrete  ",
+      "B) glass    ",
+      "C) gallon  ",
+      "D) questions"
+    ],
+    "correctAnswers": [
+      "A) concrete  "
+    ]
+  },
+  {
+    "question": "Processed wood used as a building material \n",
+    "image": "",
+    "choices": [
+      "A) wood   ",
+      "B) weight    ",
+      "C) lumber  ",
+      "D) width"
+    ],
+    "correctAnswers": [
+      "C) lumber  "
+    ]
+  },
+  {
+    "question": "Material  used in floors\n",
+    "image": "",
+    "choices": [
+      "A) wood   ",
+      "B) weight    ",
+      "C) flooring  ",
+      "D) width"
+    ],
+    "correctAnswers": [
+      "C) flooring  "
+    ]
+  },
+  {
+    "question": "A solid, breakable, and transparent material  often used to make windows\n",
+    "image": "",
+    "choices": [
+      "A) brad   ",
+      "B) bolt   ",
+      "C) glass  ",
+      "D) brick"
+    ],
+    "correctAnswers": [
+      "C) glass  "
+    ]
+  },
+  {
+    "question": "To make an electronic copy of something\n",
+    "image": "",
+    "choices": [
+      "A) brad   ",
+      "B) bolt   ",
+      "C) glass  ",
+      "D) scan"
+    ],
+    "correctAnswers": [
+      "D) scan"
+    ]
+  },
+  {
+    "question": "To make sure a statement is true \n",
+    "image": "",
+    "choices": [
+      "A) gallon   ",
+      "B)glass     ",
+      "C) confirm ",
+      "D)garage "
+    ],
+    "correctAnswers": [
+      "C) confirm "
+    ]
+  },
+  {
+    "question": "A person trained to use wood to create buildings and other structures.\n\n",
+    "image": "",
+    "choices": [
+      "A) roofer   ",
+      "B) mason   ",
+      "C) carpenter   ",
+      "D) electrician"
+    ],
+    "correctAnswers": [
+      "C) carpenter   "
+    ]
+  },
+  {
+    "question": "A person who builds structures with stone or brick.\n",
+    "image": "",
+    "choices": [
+      "A) roofer   ",
+      "B) mason   ",
+      "C) carpenter   ",
+      "D) electrician"
+    ],
+    "correctAnswers": [
+      "B) mason   "
+    ]
+  },
+  {
+    "question": "A person who lays and repairs the roofs of buildings.\n\n",
+    "image": "",
+    "choices": [
+      "A) roofer   ",
+      "B) mason   ",
+      "C) carpenter   ",
+      "D) electrician"
+    ],
+    "correctAnswers": [
+      "A) roofer   "
+    ]
+  },
+  {
+    "question": "A person skilled in installing and repairing electrical equipment and wiring.\n",
+    "image": "",
+    "choices": [
+      "A) roofer   ",
+      "B) mason   ",
+      "C) carpenter   ",
+      "D) electrician"
+    ],
+    "correctAnswers": [
+      "D) electrician"
+    ]
+  },
+  {
+    "question": "__________ is necessary to remove smoke. \n",
+    "image": "",
+    "choices": [
+      "A) ventilation     ",
+      "B) closed space    ",
+      "C) accident space   ",
+      "D) ladder space"
+    ],
+    "correctAnswers": [
+      "A) ventilation     "
+    ]
+  },
+  {
+    "question": "__________is used to protect a person from electric shock.\n",
+    "image": "",
+    "choices": [
+      "A) ground     ",
+      "B) closed space    ",
+      "C) accident space   ",
+      "D) ladder space"
+    ],
+    "correctAnswers": [
+      "A) ground     "
+    ]
+  },
+  {
+    "question": "Use  _________ when working with chemicals\n",
+    "image": "",
+    "choices": [
+      "A) scaffold     ",
+      "B) closed   ",
+      "C) accident   ",
+      "D) protective equipment"
+    ],
+    "correctAnswers": [
+      "D) protective equipment"
+    ]
+  },
+  {
+    "question": "Never use a toxic chemical in a __________.\n",
+    "image": "",
+    "choices": [
+      "A) outdoors     ",
+      "B) closed space    ",
+      "C) outside  ",
+      " D) away"
+    ],
+    "correctAnswers": [
+      "B) closed space    "
+    ]
+  },
+  {
+    "question": "The __________ must be cleared of rubbish before starting work.\n",
+    "image": "",
+    "choices": [
+      "A) level   ",
+      "B) construction site ",
+      "C) drill   ",
+      "D) profile"
+    ],
+    "correctAnswers": [
+      "B) construction site "
+    ]
+  },
+  {
+    "question": "Can that ________ make a hole 25 meters deep?\n",
+    "image": "",
+    "choices": [
+      "A) level   ",
+      "B) screwdriver   ",
+      "C) drill rig   ",
+      "D) saw"
+    ],
+    "correctAnswers": [
+      "C) drill rig   "
+    ]
+  },
+  {
+    "question": "Protect hands from injury.\n",
+    "image": "",
+    "choices": [
+      "A) grade rod   ",
+      "B) mittens work      ",
+      "C) property line   ",
+      "D) gloves"
+    ],
+    "correctAnswers": [
+      "D) gloves"
+    ]
+  },
+  {
+    "question": "MSDS \n",
+    "image": "",
+    "choices": [
+      "A) Material Safety Dogs Science   ",
+      "B) construction site   ",
+      "C) Material Safety Data Sheets   ",
+      "D) a wood"
+    ],
+    "correctAnswers": [
+      "C) Material Safety Data Sheets   "
+    ]
+  },
+  {
+    "question": "A document that gives essential information about a substance, including how to handle it, where to store and dispose of it. \n",
+    "image": "",
+    "choices": [
+      "A) schedule ",
+      "B) the code ",
+      "C) MSDS  ",
+      "D) standard"
+    ],
+    "correctAnswers": [
+      "C) MSDS  "
+    ]
+  },
+  {
+    "question": "The construction workers ___ the building every day.\n",
+    "image": "",
+    "choices": [
+      "A) complete",
+      "B) completed",
+      "C) completing",
+      "D) completes"
+    ],
+    "correctAnswers": [
+      "A) complete"
+    ]
+  },
+  {
+    "question": "Last year, they ___ a new bridge.\n",
+    "image": "",
+    "choices": [
+      "A) build",
+      "B) built",
+      "C) building",
+      "D) builds"
+    ],
+    "correctAnswers": [
+      "B) built"
+    ]
+  },
+  {
+    "question": "Next month, we ___ the new project.\n",
+    "image": "",
+    "choices": [
+      "A) start",
+      "B) started",
+      "C) will start",
+      "D) starts"
+    ],
+    "correctAnswers": [
+      "C) will start"
+    ]
+  },
+  {
+    "question": "She usually ___ blueprints for the construction.\n",
+    "image": "",
+    "choices": [
+      "A) design",
+      "B) designed",
+      "C) designs",
+      "D) designing"
+    ],
+    "correctAnswers": [
+      "C) designs"
+    ]
+  },
+  {
+    "question": "Yesterday, he ___ the site inspection.\n",
+    "image": "",
+    "choices": [
+      "A) conduct",
+      "B) conducted",
+      "C) conducting",
+      "D) conducts"
+    ],
+    "correctAnswers": [
+      "B) conducted"
+    ]
+  },
+  {
+    "question": "We ___ the materials next week.\n\n\n",
+    "image": "",
+    "choices": [
+      "A) receive",
+      "B) received",
+      "C) will receive",
+      "D) receives"
+    ],
+    "correctAnswers": [
+      "C) will receive"
+    ]
+  },
+  {
+    "question": "They ___ the foundation last month.\n",
+    "image": "",
+    "choices": [
+      "A) pour",
+      "B) poured",
+      "C) pouring",
+      "D) pours"
+    ],
+    "correctAnswers": [
+      "B) poured"
+    ]
+  },
+  {
+    "question": "The engineer ___ the project on time last week.\n",
+    "image": "",
+    "choices": [
+      "A) finishes",
+      "B) finished",
+      "C) finishing",
+      "D) finish"
+    ],
+    "correctAnswers": [
+      "B) finished"
+    ]
+  },
+  {
+    "question": "Tomorrow, I ___ a meeting with the architect.\n",
+    "image": "",
+    "choices": [
+      "A) have",
+      "B) had",
+      "C) will have",
+      "D) has"
+    ],
+    "correctAnswers": [
+      "C) will have"
+    ]
+  },
+  {
+    "question": "He ___ the safety protocols every month.\n\n",
+    "image": "",
+    "choices": [
+      "A) review",
+      "B) reviews",
+      "C) reviewed",
+      "D) reviewing"
+    ],
+    "correctAnswers": [
+      "B) reviews"
+    ]
+  },
+  {
+    "question": "Last week, we ___ the blueprints for the new building.\n",
+    "image": "",
+    "choices": [
+      "A) submit",
+      "B) submitted",
+      "C) submitting",
+      "D) submits"
+    ],
+    "correctAnswers": [
+      "B) submitted"
+    ]
+  },
+  {
+    "question": "They ___ the new regulations next year.\n",
+    "image": "",
+    "choices": [
+      "A) implement",
+      "B) implemented",
+      "C) will implement",
+      "D) implements"
+    ],
+    "correctAnswers": [
+      "C) will implement"
+    ]
+  },
+  {
+    "question": "The team ___ the project successfully.\n\n",
+    "image": "",
+    "choices": [
+      "A) complete",
+      "B) completed",
+      "C) completing",
+      "D) completes"
+    ],
+    "correctAnswers": [
+      "B) completed"
+    ]
+  },
+  {
+    "question": "I ___ the measurements yesterday.\n",
+    "image": "",
+    "choices": [
+      "A) take",
+      "B) took",
+      "C) taking",
+      "D) takes"
+    ],
+    "correctAnswers": [
+      "B) took"
+    ]
+  },
+  {
+    "question": "We ___ on the new structure now.\n",
+    "image": "",
+    "choices": [
+      "A) work",
+      "B) works",
+      "C) worked",
+      "D) will work"
+    ],
+    "correctAnswers": [
+      "A) work"
+    ]
+  },
+  {
+    "question": "They ___ the old building last year.\n",
+    "image": "",
+    "choices": [
+      "A) demolish",
+      "B) demolished",
+      "C) demolishing",
+      "D) demolishes"
+    ],
+    "correctAnswers": [
+      "B) demolished"
+    ]
+  },
+  {
+    "question": "Next week, she ___ the final report.\n",
+    "image": "",
+    "choices": [
+      "A) submit",
+      "B) submits",
+      "C) submitted",
+      "D) will submit"
+    ],
+    "correctAnswers": [
+      "D) will submit"
+    ]
+  },
+  {
+    "question": "The workers ___ the site before sunrise yesterday.\nA) arrive\n",
+    "image": "",
+    "choices": [
+      "A) arrive",
+      "B) arrived",
+      "C) arriving",
+      "D) arrives"
+    ],
+    "correctAnswers": [
+      "B) arrived"
+    ]
+  },
+  {
+    "question": "He ___ survey the land tomorrow.\n",
+    "image": "",
+    "choices": [
+      "A) will",
+      "B) is",
+      "C) was",
+      "D) are"
+    ],
+    "correctAnswers": [
+      "A) will"
+    ]
+  },
+  {
+    "question": "The contractor ___ the plans last week.\n",
+    "image": "",
+    "choices": [
+      "A) approve",
+      "B) approved",
+      "C) approving",
+      "D) approves"
+    ],
+    "correctAnswers": [
+      "B) approved"
+    ]
+  },
+  {
+    "question": "They ___ a new technique for construction a year ago.\n",
+    "image": "",
+    "choices": [
+      "A) use",
+      "B) using",
+      "C) used",
+      "D) uses"
+    ],
+    "correctAnswers": [
+      "C) used"
+    ]
+  },
+  {
+    "question": "She ___ the cost estimates yesterday.\n",
+    "image": "",
+    "choices": [
+      "A) prepare",
+      "B) prepares",
+      "C) prepared",
+      "D) preparing"
+    ],
+    "correctAnswers": [
+      "C) prepared"
+    ]
+  }
+]
