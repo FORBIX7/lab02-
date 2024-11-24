@@ -1,0 +1,665 @@
+[
+  {
+    "question": "This ... а cat, ... cat is sleeping now",
+    "image": "",
+    "choices": [
+      "a) are , the ",
+      "b) is, the",
+      "c) were, a",
+      "d) am, the"
+    ],
+    "correctAnswers": [
+      "b) is, the"
+    ]
+  },
+  {
+    "question": "These are ...",
+    "image": "",
+    "choices": [
+      "a) dog",
+      "b)dog's",
+      "c)dogs",
+      "d) dogges"
+    ],
+    "correctAnswers": [
+      "c)dogs"
+    ]
+  },
+  {
+    "question": "This is ... car, ... car behind it is my father's",
+    "image": "",
+    "choices": [
+      "a) am, a",
+      "b) mine, the",
+      "c)my, the",
+      "d) hers, the"
+    ],
+    "correctAnswers": [
+      "c)my, the"
+    ]
+  },
+  {
+    "question": "That is ... apple",
+    "image": "",
+    "choices": [
+      "a)the",
+      "b) an",
+      "c) ours",
+      "d) no"
+    ],
+    "correctAnswers": [
+      "b) an"
+    ]
+  },
+  {
+    "question": "I like ... new dress",
+    "image": "",
+    "choices": [
+      "a) your",
+      "b) a",
+      "c) not",
+      "D) those"
+    ],
+    "correctAnswers": [
+      "a) your"
+    ]
+  },
+  {
+    "question": "She has got few friends... friends study at college",
+    "image": "",
+    "choices": [
+      "a) her",
+      "b) his",
+      "c) hers",
+      "d) their"
+    ],
+    "correctAnswers": [
+      "a) her"
+    ]
+  },
+  {
+    "question": "Those ... my books",
+    "image": "",
+    "choices": [
+      "a)be",
+      "b) was",
+      "c) is",
+      "d) are"
+    ],
+    "correctAnswers": [
+      "d) are"
+    ]
+  },
+  {
+    "question": "There ... a picture in the wall",
+    "image": "",
+    "choices": [
+      "a) weren't",
+      "b) were",
+      "c) is",
+      "d) are"
+    ],
+    "correctAnswers": [
+      "c) is"
+    ]
+  },
+  {
+    "question": "My mother ... got a new job",
+    "image": "",
+    "choices": [
+      "a) have",
+      "b) haven't",
+      "c) has",
+      "d) has no"
+    ],
+    "correctAnswers": [
+      "c) has"
+    ]
+  },
+  {
+    "question": "We ... got any textbooks. The textbooks are in some other department ",
+    "image": "",
+    "choices": [
+      "a) have",
+      "b) haven't",
+      "c) has",
+      "d) hasn't"
+    ],
+    "correctAnswers": [
+      "b) haven't"
+    ]
+  },
+  {
+    "question": "He ... some money",
+    "image": "",
+    "choices": [
+      "a) haves",
+      "b) has",
+      "c) don't have ",
+      "d)have"
+    ],
+    "correctAnswers": [
+      "b) has"
+    ]
+  },
+  {
+    "question": "They ... any money. I will give them some.",
+    "image": "",
+    "choices": [
+      "a) doesn't have",
+      "b) don't have",
+      "c) hasn't got",
+      "d) have no"
+    ],
+    "correctAnswers": [
+      "b) don't have"
+    ]
+  },
+  {
+    "question": "How old are you? - ....",
+    "image": "",
+    "choices": [
+      "a) I have27 years",
+      "b) I am fine",
+      "c) I am 27 years old",
+      "d) I have 27 years old"
+    ],
+    "correctAnswers": [
+      "c) I am 27 years old"
+    ]
+  },
+  {
+    "question": "This room isn't... . This is ... room",
+    "image": "",
+    "choices": [
+      "a) mine, their",
+      "b) my , their",
+      "c) my, theirs",
+      "d) mine, theirs"
+    ],
+    "correctAnswers": [
+      "a) mine, their"
+    ]
+  },
+  {
+    "question": "He always washes his car ...",
+    "image": "",
+    "choices": [
+      "a) herself ",
+      "b) hisself",
+      "c) himself",
+      "d) him self"
+    ],
+    "correctAnswers": [
+      "c) himself"
+    ]
+  },
+  {
+    "question": "Do you ever talk to ...?",
+    "image": "",
+    "choices": [
+      "a) myself",
+      "b) yourself",
+      "c) theirselves",
+      "d) yourself"
+    ],
+    "correctAnswers": [
+      "d) yourself"
+    ]
+  },
+  {
+    "question": "You can have your ice-cream only... you have dinner.",
+    "image": "",
+    "choices": [
+      "a) while ",
+      "b) after",
+      "c) before",
+      "d) until "
+    ],
+    "correctAnswers": [
+      "b) after"
+    ]
+  },
+  {
+    "question": "Once upon a time, ... three bears who lived in a forest",
+    "image": "",
+    "choices": [
+      "a) were",
+      "b) was",
+      "c) there were",
+      "d) was there "
+    ],
+    "correctAnswers": [
+      "c) there were"
+    ]
+  },
+  {
+    "question": "... the answer?- Yes, the answer is twenty-eight.",
+    "image": "",
+    "choices": [
+      "a) know you ",
+      "b) knowing you",
+      "c) you know",
+      "d) do you know"
+    ],
+    "correctAnswers": [
+      "d) do you know"
+    ]
+  },
+  {
+    "question": "... his new job?",
+    "image": "",
+    "choices": [
+      "a) does he like ",
+      "b) do he like",
+      "c) he like",
+      "d)like"
+    ],
+    "correctAnswers": [
+      "a) does he like "
+    ]
+  },
+  {
+    "question": "-...? - My sister is a secretary",
+    "image": "",
+    "choices": [
+      "a) Which is your sister?",
+      "b) Why is your sister?",
+      "c) Who is your sister?",
+      "d) What is your sister"
+    ],
+    "correctAnswers": [
+      "d) What is your sister"
+    ]
+  },
+  {
+    "question": "Do you brush your teeth after meal? ...",
+    "image": "",
+    "choices": [
+      "a) yes, me do",
+      "b) yes, i do",
+      "c) no, i donot",
+      "d) no, i dont"
+    ],
+    "correctAnswers": [
+      "b) yes, i do"
+    ]
+  },
+  {
+    "question": "-...? - I'm going to work ",
+    "image": "",
+    "choices": [
+      "a) What are you doing?",
+      "b) Why are you going?",
+      "c) Where are you going?",
+      "d) Where you are going?"
+    ],
+    "correctAnswers": [
+      "c) Where are you going?"
+    ]
+  },
+  {
+    "question": "How much is a plane ticket to Rio? - ...",
+    "image": "",
+    "choices": [
+      "a) it's very very",
+      "b) it's not much",
+      "c) is a lot",
+      "d) it is many money"
+    ],
+    "correctAnswers": [
+      "b) it's not much"
+    ]
+  },
+  {
+    "question": "How was the movie last night?",
+    "image": "",
+    "choices": [
+      "a) it was a action",
+      "b) was it comedy",
+      "c) it was science fiction kind",
+      "d) it was boring"
+    ],
+    "correctAnswers": [
+      "d) it was boring"
+    ]
+  },
+  {
+    "question": "He plays soccer,...?",
+    "image": "",
+    "choices": [
+      "a) isn't he ",
+      "b) doesn't he",
+      "c) does he",
+      "d) didn't he"
+    ],
+    "correctAnswers": [
+      "b) doesn't he"
+    ]
+  },
+  {
+    "question": "She plays tennis ... Wednesdays",
+    "image": "",
+    "choices": [
+      "a) in ",
+      "b) at",
+      "c) on ",
+      "d) with "
+    ],
+    "correctAnswers": [
+      "c) on "
+    ]
+  },
+  {
+    "question": "I need to finish this ... Friday, it's a deadline",
+    "image": "",
+    "choices": [
+      "a) during ",
+      "b) on",
+      "c) at",
+      "d) by"
+    ],
+    "correctAnswers": [
+      "d) by"
+    ]
+  },
+  {
+    "question": "...? - I'm from France",
+    "image": "",
+    "choices": [
+      "a) When are you from?",
+      "b) Where are you from?",
+      "c) Where are you?",
+      "d) Are frome where you>"
+    ],
+    "correctAnswers": [
+      "b) Where are you from?"
+    ]
+  },
+  {
+    "question": "Are you French?-...",
+    "image": "",
+    "choices": [
+      "a) Yes, i is",
+      "b) Yes, i do",
+      "c) Yes, i am",
+      "d) No, i am "
+    ],
+    "correctAnswers": [
+      "c) Yes, i am"
+    ]
+  },
+  {
+    "question": "Do you speak English?-...",
+    "image": "",
+    "choices": [
+      "a) Yes, i do",
+      "b) Yes, i don't",
+      "c) No, i do",
+      "d) Yes. i does"
+    ],
+    "correctAnswers": [
+      "a) Yes, i do"
+    ]
+  },
+  {
+    "question": "...? - I have breakfast at 7 a.m.",
+    "image": "",
+    "choices": [
+      "a)Where do you have breakfast",
+      "b) When breakfast you",
+      "c) Do you breakfast",
+      "d) When do you have breakfast"
+    ],
+    "correctAnswers": [
+      "d) When do you have breakfast"
+    ]
+  },
+  {
+    "question": "... me any question",
+    "image": "",
+    "choices": [
+      "a) listen",
+      "b) look",
+      "c) ask",
+      "d) take"
+    ],
+    "correctAnswers": [
+      "c) ask"
+    ]
+  },
+  {
+    "question": "... at this picture",
+    "image": "",
+    "choices": [
+      "a) look",
+      "b) watch",
+      "c) see",
+      "d) bring"
+    ],
+    "correctAnswers": [
+      "a) look"
+    ]
+  },
+  {
+    "question": "He ... in a bank",
+    "image": "",
+    "choices": [
+      "a) lives",
+      "b) works",
+      "c) runs",
+      "d) speak"
+    ],
+    "correctAnswers": [
+      "b) works"
+    ]
+  },
+  {
+    "question": "... to this song",
+    "image": "",
+    "choices": [
+      "a) hear",
+      "b) say",
+      "c) listen",
+      "d) give"
+    ],
+    "correctAnswers": [
+      "c) listen"
+    ]
+  },
+  {
+    "question": "Ann told me a very ... story",
+    "image": "",
+    "choices": [
+      "a) interesting",
+      "b) interest",
+      "c) interested",
+      "d) interestingly"
+    ],
+    "correctAnswers": [
+      "a) interesting"
+    ]
+  },
+  {
+    "question": "Выьери правильное числительное: He has got thirteen birds",
+    "image": "",
+    "choices": [
+      "a)14",
+      "b) 13",
+      "c) 15",
+      "d) 19"
+    ],
+    "correctAnswers": [
+      "b) 13"
+    ]
+  },
+  {
+    "question": "Выбери правильный перевод : У него тридцать пятый результат ",
+    "image": "",
+    "choices": [
+      "a) firty-fifth",
+      "b) thirty-fifth",
+      "c) thirty-fiveth",
+      "d)thirtieth-fifth"
+    ],
+    "correctAnswers": [
+      "b) thirty-fifth"
+    ]
+  },
+  {
+    "question": "Выбери лишнее слово:",
+    "image": "",
+    "choices": [
+      "a) Friday",
+      "b) Wednesday",
+      "c) July",
+      "d) Monday"
+    ],
+    "correctAnswers": [
+      "c) July"
+    ]
+  },
+  {
+    "question": "Выбери лишнее слово:",
+    "image": "",
+    "choices": [
+      "a) August",
+      "b) February",
+      "c) September",
+      "d) Italian"
+    ],
+    "correctAnswers": [
+      "d) Italian"
+    ]
+  },
+  {
+    "question": "Выбери лишнее слово:",
+    "image": "",
+    "choices": [
+      "a) Saturday",
+      "b) Germany",
+      "c) Portugal",
+      "d) Korea"
+    ],
+    "correctAnswers": [
+      "a) Saturday"
+    ]
+  },
+  {
+    "question": "Выбери лишнее слово:",
+    "image": "",
+    "choices": [
+      "a) Swiss",
+      "b) Japan",
+      "c) French",
+      "d)Chinese"
+    ],
+    "correctAnswers": [
+      "b) Japan"
+    ]
+  },
+  {
+    "question": "This book is a ... one",
+    "image": "",
+    "choices": [
+      "a) interestinger",
+      "b) the most interestnig",
+      "c) more interestnig",
+      "d) interesting"
+    ],
+    "correctAnswers": [
+      "c) more interestnig"
+    ]
+  },
+  {
+    "question": "That was ... horse i ever saw in my life",
+    "image": "",
+    "choices": [
+      "a) the most quick",
+      "b) quickest",
+      "c) the quicker ",
+      "d) the quickest"
+    ],
+    "correctAnswers": [
+      "d) the quickest"
+    ]
+  },
+  {
+    "question": "I saw ... people in the street that morning",
+    "image": "",
+    "choices": [
+      "a) much",
+      "b) lot",
+      "c) many",
+      "d) any"
+    ],
+    "correctAnswers": [
+      "c) many"
+    ]
+  },
+  {
+    "question": "I don't like ... sugar in my tea",
+    "image": "",
+    "choices": [
+      "a) much",
+      "b) many",
+      "c) lot",
+      "d) any"
+    ],
+    "correctAnswers": [
+      "a) much"
+    ]
+  },
+  {
+    "question": "Выберите правильный вариант:",
+    "image": "",
+    "choices": [
+      "a) the worst toothes",
+      "b) worst teath",
+      "c) the worst teeth",
+      "d) the baddest teeth"
+    ],
+    "correctAnswers": [
+      "c) the worst teeth"
+    ]
+  },
+  {
+    "question": "Выберите правильный вариант:",
+    "image": "",
+    "choices": [
+      "a) the best runner",
+      "b) bestest runner",
+      "c) the goodest runnist",
+      "d) the best runnor"
+    ],
+    "correctAnswers": [
+      "a) the best runner"
+    ]
+  },
+  {
+    "question": "Выберите правильный вариант:",
+    "image": "",
+    "choices": [
+      "a) i like to reading",
+      "b) i like reading ",
+      "c) i likes reading",
+      "d) i don't like to reads"
+    ],
+    "correctAnswers": [
+      "b) i like reading "
+    ]
+  },
+  {
+    "question": "Выберите неправильный вариант:",
+    "image": "",
+    "choices": [
+      "a) geese",
+      "b) apples",
+      "c) eyes",
+      "d) moneys"
+    ],
+    "correctAnswers": [
+      "d) moneys"
+    ]
+  }
+]
