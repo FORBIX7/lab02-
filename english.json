@@ -2878,5 +2878,485 @@
         "correctAnswers": [
             "bank fraud / identity theft"
         ]
-    }
+    },
+    {
+    "question": "The company that produces Macs and other computing products.",
+    "choices": ["Apple", "Windows", "OS X", "Microsoft"],
+    "correctAnswers": ["Apple"]
+  },
+  {
+    "question": "The company that produces the Windows operating system among other products.",
+    "choices": ["Apple", "Windows", "OS X", "Microsoft"],
+    "correctAnswers": ["Microsoft"]
+  },
+  {
+    "question": "It is an operating system from Apple for Mac computers.",
+    "choices": ["Apple", "Windows", "OS X", "Microsoft"],
+    "correctAnswers": ["OS X"]
+  },
+  {
+    "question": "It’s an operating system created by Microsoft that is used on many PCs.",
+    "choices": ["Apple", "Windows", "OS X", "Microsoft"],
+    "correctAnswers": ["Windows"]
+  },
+  {
+    "question": "You have to enter a _________ to make the system do anything.",
+    "choices": ["Microsoft Office", "TCP / IP protocol", "command line", "free software license"],
+    "correctAnswers": ["command line"]
+  },
+  {
+    "question": "This program has a __________, so anyone can use it.",
+    "choices": ["Microsoft Office", "TCP / IP protocol", "command line", "free software license"],
+    "correctAnswers": ["free software license"]
+  },
+  {
+    "question": "______ has an excellent word processing program.",
+    "choices": ["Microsoft Office", "TCP / IP protocol", "command line", "free software license"],
+    "correctAnswers": ["Microsoft Office"]
+  },
+  {
+    "question": "You need to reconfigure the computer’s __________ to get online.",
+    "choices": ["Microsoft Office", "TCP / IP protocol", "command line", "free software license"],
+    "correctAnswers": ["TCP / IP protocol"]
+  },
+  {
+    "question": "There is no doubt that people of our information-dependent society ________ computer-literate.",
+    "choices": ["may be", "can be", "should be", "might be"],
+    "correctAnswers": ["should be"]
+  },
+  {
+    "question": "Thanks to the Internet, people _______ communicate 24/7!",
+    "choices": ["can", "may", "must", "have to"],
+    "correctAnswers": ["must"]
+  },
+  {
+    "question": "Zhenya spoke to Lena yesterday. They _______ talk again today.",
+    "choices": ["mustn’t", "cannot", "may not", "needn’t"],
+    "correctAnswers": ["needn’t"]
+  },
+  {
+    "question": "It’s nearly 1pm! You ________ be late.",
+    "choices": ["needn’t", "mustn’t", "cannot", "may not"],
+    "correctAnswers": ["mustn’t"]
+  },
+  {
+    "question": "_______ the coat on, she started to the door.",
+    "choices": ["putting", "put", "when put", "being put"],
+    "correctAnswers": ["putting"]
+  },
+  {
+    "question": "The ________ coffee smelt delicious.",
+    "choices": ["roasting", "roasted", "having roasted", "having been roasted"],
+    "correctAnswers": ["roasted"]
+  },
+  {
+    "question": "I know the man entering the room.",
+    "choices": ["войдя", "входящего", "вошедшего", "входит"],
+    "correctAnswers": ["входящего"]
+  },
+  {
+    "question": "Having finished the essay he stood up to make up some coffee.",
+    "choices": ["заканчивая", "законченный", "закончив", "заканчивающий"],
+    "correctAnswers": ["закончив"]
+  },
+  {
+    "question": "______ is the use of a computer to design things such as machines or buildings.",
+    "choices": ["CAD", "CBT", "FAQ", "DVD"],
+    "correctAnswers": ["CAD"]
+  },
+  {
+    "question": "______ is the use of a computer to train employees.",
+    "choices": ["CAD", "CBT", "FAQ", "DVD"],
+    "correctAnswers": ["CBT"]
+  },
+  {
+    "question": "It is a list of common questions with their answers.",
+    "choices": ["CAD", "CBT", "FAQ", "DVD"],
+    "correctAnswers": ["FAQ"]
+  },
+  {
+    "question": "It is a storage disc that is read by a laser and can store media files such as videos and images.",
+    "choices": ["CAD", "CBT", "FAQ", "DVD"],
+    "correctAnswers": ["DVD"]
+  },
+  {
+    "question": "Computer science ________ computable processes and structures with the help of computers.",
+    "choices": ["studies", "study", "studys", "studied"],
+    "correctAnswers": ["studies"]
+  },
+  {
+    "question": "Three foreign languages ________ in Switzerland.",
+    "choices": ["speak", "is spoken", "are spoken", "spoke"],
+    "correctAnswers": ["are spoken"]
+  },
+  {
+    "question": "Many calculators ____________ by engineers.",
+    "choices": ["was invented", "were invented", "invented", "are invented"],
+    "correctAnswers": ["were invented"]
+  },
+  {
+    "question": "Examinations _________ in June.",
+    "choices": ["will be taken", "will take", "will have taken", "take"],
+    "correctAnswers": ["will be taken"]
+  },
+  {
+    "question": "It is the combination of multiple GIF files in one advertisement to create animation.",
+    "choices": ["commission", "click tracking", "geo targeting", "animated GIF"],
+    "correctAnswers": ["animated GIF"]
+  },
+  {
+    "question": "It is the amount of money charged by a website for hosting advertisements.",
+    "choices": ["commission", "click tracking", "geo targeting", "animated GIF"],
+    "correctAnswers": ["commission"]
+  },
+  {
+    "question": "It is the process of counting and keeping track of the number of clicks an advertisement receives.",
+    "choices": ["commission", "click tracking", "geo targeting", "animated GIF"],
+    "correctAnswers": ["click tracking"]
+  },
+  {
+    "question": "It is the process of showing advertisements in geographical areas where they are relevant.",
+    "choices": ["commission", "click tracking", "geo targeting", "animated GIF"],
+    "correctAnswers": ["geo targeting"]
+  },
+  {
+    "question": "The car is there now and __________ a lot of attention from Joe and the other mechanics at his shop.",
+    "choices": ["is receiving", "is received", "receive", "receives"],
+    "correctAnswers": ["is receiving"]
+  },
+  {
+    "question": "The engine ______________.",
+    "choices": ["is tuned", "is being tuned", "tunes", "tuned"],
+    "correctAnswers": ["is being tuned"]
+  },
+  {
+    "question": "I ________ coffee at the moment.",
+    "choices": ["drink", "am drink", "am drinking", "am being drunk"],
+    "correctAnswers": ["am drinking"]
+  },
+  {
+    "question": "The battery _______________.",
+    "choices": ["charged", "is charged", "is being charging", "is being charged"],
+    "correctAnswers": ["is being charged"]
+  },
+  {
+    "question": "At last we ________ this difficult problem.",
+    "choices": ["will have solved", "had solved", "have solved", "have been solving"],
+    "correctAnswers": ["have solved"]
+  },
+  {
+    "question": "The detective reported that he ________ everywhere for thief without success.",
+    "choices": ["has looked", "had been looking", "has been looking", "had looked"],
+    "correctAnswers": ["had looked"]
+  },
+  {
+    "question": "We ________ this work by six o’clock tomorrow.",
+    "choices": ["have done", "will have done", "will do", "will have been doing"],
+    "correctAnswers": ["will have done"]
+  },
+  {
+    "question": "They were very tired because they __________ all day.",
+    "choices": ["had travelled", "have travelled", "have been travelling", "had been travelling"],
+    "correctAnswers": ["had been travelling"]
+  },
+  {
+    "question": "Надо было предупредить меня, что вы придете, я бы испекла пирог.",
+    "choices": ["must have told", "should have told", "had to tell", "can tell"],
+    "correctAnswers": ["should have told"]
+  },
+  {
+    "question": "Напрасно ты послал этот документ по факсу, им необходим оригинал.",
+    "choices": ["needn’t have sent", "shouldn’t have sent", "mustn’t have sent", "cannot send"],
+    "correctAnswers": ["needn’t have sent"]
+  },
+  {
+    "question": "Зря ты пришел. Лекцию отменили.",
+    "choices": ["didn’t have to come", "needn’t have come", "mustn’t come", "cannot come"],
+    "correctAnswers": ["needn’t have come"]
+  },
+  {
+    "question": "Тебе не следовало так невежливо разговаривать с ней, она обиделась.",
+    "choices": ["shouldn’t have spoken", "shouldn’t speak", "didn’t have to speak", "cannot speak"],
+    "correctAnswers": ["shouldn’t have spoken"]
+  },
+  {
+    "question": "To switch from one file to another.",
+    "choices": ["automation", "telecommute", "toggle", "fault tolerant"],
+    "correctAnswers": ["toggle"]
+  },
+  {
+    "question": "To work away from an office using technology.",
+    "choices": ["automation", "telecommute", "toggle", "fault tolerant"],
+    "correctAnswers": ["telecommute"]
+  },
+  {
+    "question": "The use of machines to perform tasks without human assistance.",
+    "choices": ["automation", "telecommute", "toggle", "fault tolerant"],
+    "correctAnswers": ["automation"]
+  },
+  {
+    "question": "The ability to continue functioning after an error.",
+    "choices": ["automation", "telecommute", "toggle", "fault tolerant"],
+    "correctAnswers": ["fault tolerant"]
+  },
+  {
+    "question": "Alice and Mike _________ to the seaside this summer.",
+    "choices": ["went", "go", "have gone", "had gone"],
+    "correctAnswers": ["have gone"]
+  },
+  {
+    "question": "The golf course was the most wonderful they ________ on.",
+    "choices": ["had ever played", "have ever played", "had played ever", "ever had played"],
+    "correctAnswers": ["had ever played"]
+  },
+  {
+    "question": "I’m sure they _________ back only by the end of August.",
+    "choices": ["come", "will come", "will have come", "came"],
+    "correctAnswers": ["will have come"]
+  },
+  {
+    "question": "I think it is the best vacation they __________.",
+    "choices": ["have taken ever", "ever have taken", "ever taken", "have ever taken"],
+    "correctAnswers": ["have ever taken"]
+  },
+  {
+    "question": "The process of stealing another person’s personal information and using it for personal gain.",
+    "choices": ["pretexting", "phishing", "pharming", "identity theft"],
+    "correctAnswers": ["identity theft"]
+  },
+  {
+    "question": "The process wherein thieves trick people into giving away their personal information over the phone.",
+    "choices": ["pretexting", "phishing", "pharming", "identity theft"],
+    "correctAnswers": ["pretexting"]
+  },
+  {
+    "question": "The process wherein thieves trick people into giving away their personal information through email.",
+    "choices": ["pretexting", "phishing", "pharming", "identity theft"],
+    "correctAnswers": ["phishing"]
+  },
+  {
+    "question": "The process wherein thieves reroute people to a fake website that appears to be legitimate in order to trick them into giving away their personal information.",
+    "choices": ["pretexting", "phishing", "pharming", "identity theft"],
+    "correctAnswers": ["pharming"]
+  },
+  {
+    "question": "A keylogger ________ your passwords.",
+    "choices": ["will record", "record", "is recorded", "is record"],
+    "correctAnswers": ["will record"]
+  },
+  {
+    "question": "Without antivirus software, computers ________ to an attack.",
+    "choices": ["opens", "opened", "are open", "is open"],
+    "correctAnswers": ["are open"]
+  },
+  {
+    "question": "The man was arrested and went to jail for committing ________.",
+    "choices": ["cyber", "worm", "scanner", "fraud"],
+    "correctAnswers": ["fraud"]
+  },
+  {
+    "question": "Avoid _______ crime by being safe on your computer.",
+    "choices": ["cyber", "worm", "scanner", "fraud"],
+    "correctAnswers": ["cyber"]
+  },
+  {
+    "question": "I heard they ________ for our department for three months.",
+    "choices": ["worked", "have worked", "had been working", "are working"],
+    "correctAnswers": ["had been working"]
+  },
+  {
+    "question": "It was obvious that he ________ lonely here, with no relatives or friends.",
+    "choices": ["is feeling", "was feeling", "feels", "had felt"],
+    "correctAnswers": ["was feeling"]
+  },
+  {
+    "question": "A week ago Joe thought that he never _____ in love again. But now it happened.",
+    "choices": ["fell", "would fall", "falls", "will fall"],
+    "correctAnswers": ["would fall"]
+  },
+  {
+    "question": "I felt he ________ what he had told.",
+    "choices": ["regrets", "will regret", "regretted", "had been regretted"],
+    "correctAnswers": ["regretted"]
+  },
+  {
+    "question": "A(n) _______ will record your password.",
+    "choices": ["attack", "firewall", "patch", "keylogger"],
+    "correctAnswers": ["keylogger"]
+  },
+  {
+    "question": "Without antivirus software, computers are open to a(n) _________.",
+    "choices": ["attack", "firewall", "patch", "keylogger"],
+    "correctAnswers": ["attack"]
+  },
+  {
+    "question": "Put up a(n) __________ to keep hackers out of your computer.",
+    "choices": ["attack", "firewall", "patch", "keylogger"],
+    "correctAnswers": ["firewall"]
+  },
+  {
+    "question": "Download the _________ to make the program work correctly.",
+    "choices": ["attack", "firewall", "patch", "keylogger"],
+    "correctAnswers": ["patch"]
+  },
+  {
+    "question": "When antivirus software incorrectly indicates that an infected file is clean.",
+    "choices": ["false positive", "false negative", "rootkit", "cyber criminal"],
+    "correctAnswers": ["false negative"]
+  },
+  {
+    "question": "When antivirus software incorrectly indicates that a clean file has been infected",
+    "choices": ["false positive", "false negative", "rootkit", "cyber criminal"],
+    "correctAnswers": ["false positive"]
+  },
+  {
+    "question": "A type of computer virus that is created to gain total control over a computer system by",
+    "choices": ["false positive", "false negative", "rootkit", "cyber criminal"],
+    "correctAnswers": ["rootkit"]
+  },
+  {
+    "question": "A person who uses computers and the Internet to commit crimes such as identity theft",
+    "choices": ["false positive", "false negative", "rootkit", "cyber criminal"],
+    "correctAnswers": ["cyber criminal"]
+  },
+  {
+    "question": "If she _________ finished work by 4 o’clock, she will go home.",
+    "choices": ["will", "is", "has", "-----"],
+    "correctAnswers": ["has"]
+  },
+  {
+    "question": "If they understood the problem, they _______ find a solution, now.",
+    "choices": ["will", "would", "would have", "can"],
+    "correctAnswers": ["would"]
+  },
+  {
+    "question": "If she _______ known the facts, she could have told us what to do.",
+    "choices": ["have", "will have", "would have", "had"],
+    "correctAnswers": ["had"]
+  },
+  {
+    "question": "You’d better come by noon tomorrow. If you go by train, you _____ get there earlier.",
+    "choices": ["will", "would", "-----", "would have"],
+    "correctAnswers": ["will"]
+  },
+  {
+    "question": "Thanks to _______ pricing, we’re only billed when we use it.",
+    "choices": ["pay as you go", "elasticity", "SaaS", "deployment"],
+    "correctAnswers": ["pay as you go"]
+  },
+  {
+    "question": "Cloud computing increases the __________ of our computer systems.",
+    "choices": ["pay as you go", "elasticity", "SaaS", "deployment"],
+    "correctAnswers": ["elasticity"]
+  },
+  {
+    "question": "Use __________ to avoid installing new programs on each computer.",
+    "choices": ["pay as you go", "elasticity", "SaaS", "deployment"],
+    "correctAnswers": ["SaaS"]
+  },
+  {
+    "question": "Cloud computing makes ________ of new software much easier.",
+    "choices": ["pay as you go", "elasticity", "SaaS", "deployment"],
+    "correctAnswers": ["deployment"]
+  },
+  {
+    "question": "A tiny device in a person’s body that releases specific amounts of medicine.",
+    "choices": ["implanted microchip", "micro robotic tweezers", "lab-on-a-chip", "bar coding"],
+    "correctAnswers": ["implanted microchip"]
+  },
+  {
+    "question": "A very tiny device that allows a doctor to operate in extremely small or delicate areas.",
+    "choices": ["implanted microchip", "micro robotic tweezers", "lab-on-a-chip", "bar coding"],
+    "correctAnswers": ["micro robotic tweezers"]
+  },
+  {
+    "question": "A tiny device that holds cells and fluid that a doctor can analyze easily.",
+    "choices": ["implanted microchip", "micro robotic tweezers", "lab-on-a-chip", "bar coding"],
+    "correctAnswers": ["lab-on-a-chip"]
+  },
+  {
+    "question": "A system in which doctors scan medicines and match them to patients.",
+    "choices": ["implanted microchip", "micro robotic tweezers", "lab-on-a-chip", "bar coding"],
+    "correctAnswers": ["bar coding"]
+  },
+  {
+    "question": "Mrs. Dashkova is reported __________ a new novel now.",
+    "choices": ["to write", "to be writing", "to have written", "to be written"],
+    "correctAnswers": ["to be writing"]
+  },
+  {
+    "question": "He is said __________ for his visa for two months, not less.",
+    "choices": ["to wait", "to be waiting", "to have waited", "to have been waiting"],
+    "correctAnswers": ["to have been waiting"]
+  },
+  {
+    "question": "I don’t expect him _________for Germany for good.",
+    "choices": ["to leave", "to be leaving", "to be left", "to have been leaving"],
+    "correctAnswers": ["to leave"]
+  },
+  {
+    "question": "She didn’t seem _________ in gardening.",
+    "choices": ["to interest", "to be interested", "to be interesting", "to have been interested"],
+    "correctAnswers": ["to be interested"]
+  },
+  {
+    "question": "To add a new component or program to a computer or system.",
+    "choices": ["install", "troubleshooting", "file archiving", "purge"],
+    "correctAnswers": ["install"]
+  },
+  {
+    "question": "The process of identifying and fixing technical problems.",
+    "choices": ["install", "troubleshooting", "file archiving", "purge"],
+    "correctAnswers": ["troubleshooting"]
+  },
+  {
+    "question": "The process of organizing computer files in an orderly way. This lets you retrieve them easily.",
+    "choices": ["install", "troubleshooting", "file archiving", "purge"],
+    "correctAnswers": ["file archiving"]
+  },
+  {
+    "question": "To delete files or data from a computer.",
+    "choices": ["install", "troubleshooting", "file archiving", "purge"],
+    "correctAnswers": ["purge"]
+  },
+  {
+    "question": "Someone who builds a website.",
+    "choices": ["web developer", "vendor", "system administrator", "programmer"],
+    "correctAnswers": ["web developer"]
+  },
+  {
+    "question": "Someone who distributes programs and utilities.",
+    "choices": ["web developer", "vendor", "system administrator", "programmer"],
+    "correctAnswers": ["vendor"]
+  },
+  {
+    "question": "Someone whose job is to manage and maintain a computer system.",
+    "choices": ["web developer", "vendor", "system administrator", "programmer"],
+    "correctAnswers": ["system administrator"]
+  },
+  {
+    "question": "Someone who writes computer programs.",
+    "choices": ["web developer", "vendor", "system administrator", "programmer"],
+    "correctAnswers": ["programmer"]
+  },
+  {
+    "question": "If she had passed the driving test, I ________ given her my car.",
+    "choices": ["had", "would", "would have", "will have"],
+    "correctAnswers": ["would have"]
+  },
+  {
+    "question": "If I _________ busy, I’ll visit you.",
+    "choices": ["isn’t", "will be", "won’t be", "am not"],
+    "correctAnswers": ["am not"]
+  },
+  {
+    "question": "If I had left three weeks ago, I _____________ be home now.",
+    "choices": ["will", "would have", "would", "have"],
+    "correctAnswers": ["would"]
+  },
+  {
+    "question": "If I hadn’t worked hard when I was young I _________ own the firm now.",
+    "choices": ["------", "wouldn’t", "won’t", "had"],
+    "correctAnswers": ["wouldn’t"]
+  }
 ]
