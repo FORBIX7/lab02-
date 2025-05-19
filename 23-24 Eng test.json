@@ -1,0 +1,1002 @@
+[
+    {
+        "question": "Выберите правильную форму глагола: His daughter ___ a computer.",
+        "choices": ["have got", "has got", "haven’t got", "have"],
+        "correctAnswers": ["has got"]
+    },
+    {
+        "question": "Выберите правильную форму глагола:  Her son ___ a computer soon. His father has given money for it.",
+        "choices": ["have", "will have", "has", "won't have"],
+        "correctAnswers": ["will have"]
+    },
+    {
+        "question": "Выберите правильный перевод: I live across the street.",
+        "choices": ["Я увидел свою улицу.", "Я иду по улице.", "Я живу через дорогу.", "Я люблю свою улицу."],
+        "correctAnswers": ["Я живу через дорогу."]
+    },
+    {
+        "question": "Выберите правильную форму глагола: My sister ___ some new clothes last week.",
+        "choices": ["had bought", "bought", "was buying", "has bought"],
+        "correctAnswers": ["bought"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: He ___ a cigarette two months ago.",
+        "choices": ["has last smoked", "was last smoking", "last smoked", "had smoked"],
+        "correctAnswers": ["last smoked"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: When ___ from his business trip?",
+        "choices": ["has he returned", "did he return", "was he returning", "did he returned"],
+        "correctAnswers": ["did he return"]
+    },
+    {
+        "question": "Выберите правильный вспомогательный глагол: ___ people work better if they are given complete freedom and responsibility?",
+        "choices": ["Will", "Were", "Is", "Do"],
+        "correctAnswers": ["Will"]
+    },
+    {
+        "question": "Выберите правильную форму вопроса: Fiona never buys expensive clothes, __?",
+        "choices": ["does Fiona", "doesn’t she", "does she", "don’t she"],
+        "correctAnswers": ["doesn’t she"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: I __ to Mr. Lloyds yesterday.",
+        "choices": ["speak", "spoke", "speaks", "speaking"],
+        "correctAnswers": ["spoke"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: The room was empty. There ___ nobody.",
+        "choices": ["were", "was", "is", "are"],
+        "correctAnswers": ["was"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: Who ___ Phil with his homework?",
+        "choices": ["does help", "helps", "do help", "has help"],
+        "correctAnswers": ["helps"]
+    },
+    {
+        "question": "Выберите правильный вспомогательный глагол: Ann ___ like her friend’s dog; she thinks hers is better.",
+        "choices": ["does", "don't", "doesn't", "isn't"],
+        "correctAnswers": ["doesn't"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: Kate is a vegetarian, she ___ meat.",
+        "choices": ["isn’t eating", "hasn’t been eating", "doesn’t eat", "don’t eat"],
+        "correctAnswers": ["doesn’t eat"]
+    },
+    {
+        "question": "Выберите правильный вспомогательный глагол: ___ you believe that Nick will go to London next month?",
+        "choices": ["Are", "Do", "Is", "Have"],
+        "correctAnswers": ["Do"]
+    },
+    {
+        "question": "Выберите правильную форму глагола:  Every day Johnny ___ to a street corner and ___ for the school bus.",
+        "choices": ["walks…waits", "is walking…waits", "walks…is waiting", "is walking…is waiting"],
+        "correctAnswers": ["walks…waits"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: They ___ meat at the market.",
+        "choices": ["are always buying", "always buys", "always buy", "have always been buying"],
+        "correctAnswers": ["always buy"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: After leaving school, James ___ it very difficult to get a good job.",
+        "choices": ["has found", "found", "had found", "had find"],
+        "correctAnswers": ["found"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: Reforming British universities ___ the quality of research and teaching there.",
+        "choices": ["improve", "are improving", "to improve", "will improve"],
+        "correctAnswers": ["will improve"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: In the nearest future in some Eastern Asia countries education ___ some changes.",
+        "choices": ["undergo", "underwent", "will undergo", "has undergone"],
+        "correctAnswers": ["will undergo"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: She __ already__ the exam.",
+        "choices": ["have passed", "are passed", "has passed", "was passed"],
+        "correctAnswers": ["has passed"]
+    },
+    {
+        "question": "Выберите правильное написание даты: In our country the academic year starts on 9/1.",
+        "choices": ["the ninth of January", "the nine of January", "first September", "the first of September"],
+        "correctAnswers": ["the first of September"]
+    },
+    {
+        "question": "Выберите правильное выражение: These students are ___.",
+        "choices": ["in college.", "on college.", "at college.", "out college."],
+        "correctAnswers": ["at college."]
+    },
+    {
+        "question": "Выберите правильное выражение: We are ___ students.",
+        "choices": ["two-year", "second-year", "two-years", "second-years"],
+        "correctAnswers": ["second-year"]
+    },
+    {
+        "question": "Выберите правильное слово: His ___ are on the table.",
+        "choices": ["textbooks", "textbook", "texts-books", "textbook's"],
+        "correctAnswers": ["textbooks"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: It ___ at the moment.",
+        "choices": ["doesn’t rain", "isn’t rain", "isn’t raining", "won’t rain"],
+        "correctAnswers": ["isn’t raining"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: “Where is your sister?” – “She ___ a bath”.",
+        "choices": ["has", "is having", "has been having", "had"],
+        "correctAnswers": ["is having"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: We ___ in a wonderful age.",
+        "choices": ["is living", "are living", "has been living", "to be living"],
+        "correctAnswers": ["are living"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: The children ___ so much noise that we couldn’t listen to the news on the radio.",
+        "choices": ["made", "had made", "were making", "had been making"],
+        "correctAnswers": ["were making"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: ___ when you came in?",
+        "choices": ["Did it snow", "Was it snowing", "Was it snow", "Was there snow"],
+        "correctAnswers": ["Was it snowing"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: When she was young, she ___ people. Nobody liked it.",
+        "choices": ["had always criticized", "was always criticizing", "always criticized", "were always criticizing"],
+        "correctAnswers": ["was always criticizing"]
+    },
+    {
+        "question": "Выберите правильную форму вопроса: They are having a meeting, ___?",
+        "choices": ["haven’t they", "aren’t they", "are they", "have they"],
+        "correctAnswers": ["aren’t they"]
+    },
+    {
+        "question": "Выберите правильную форму вопроса: All managers were doing something when a new employee came in, ___?",
+        "choices": ["weren’t they", "wasn’t he", "didn’t he", "weren’t managers"],
+        "correctAnswers": ["weren’t they"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: These methods of education ___ effective.",
+        "choices": ["is", "are", "am", "was"],
+        "correctAnswers": ["are"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: There ___ a pen and some books on the table.",
+        "choices": ["are", "were", "am", "is"],
+        "correctAnswers": ["is"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: Their sons ___ good marks. They are the best at school.",
+        "choices": ["have got", "has got", "hasn’t got", "haven’t got"],
+        "correctAnswers": ["have got"]
+    },
+    {
+        "question": "Выберите правильный перевод: He told me he was preparing for his exam.",
+        "choices": ["Он сказал мне, что готовится к экзамену.", "Он сказал мне, что будет экзамен.", "Он сказал мне, что экзамен уже прошел.", "Он сказал мне, что уже приготовился к экзамену."],
+        "correctAnswers": ["Он сказал мне, что готовится к экзамену."]
+    },
+    {
+        "question": "Выберите правильный перевод: English is spoken in many countries.",
+        "choices": ["Английский язык любят во многих странах.", "Английский язык учат во многих странах.", "На английском языке говорят во многих странах.", "Английский язык преподают во многих странах."],
+        "correctAnswers": ["На английском языке говорят во многих странах."]
+    },
+    {
+        "question": "Выберите правильный вопрос: ____? - Yes, it is clean.",
+        "choices": ["Did you clean the room?", "Cleaned you the room?", "Have you cleaned the room?", "You cleaned the room?"],
+        "correctAnswers": ["Have you cleaned the room?"]
+    },
+    {
+        "question": "Выберите правильный вопрос: _____? - No, we haven't, the weather is awful.",
+        "choices": ["Have you had a picnic?", "Do you have a picnic?", "Has she had a picnic?", "Are you having a picnic?"],
+        "correctAnswers": ["Have you had a picnic?"]
+    },
+    {
+        "question": "Выберите правильное слово: I __ English words by heart.",
+        "choices": ["teach", "work", "study", "learn"],
+        "correctAnswers": ["learn"]
+    },
+    {
+        "question": "Выберите правильное слово: We will ___ exams in summer.",
+        "choices": ["learn", "take", "make", "not"],
+        "correctAnswers": ["take"]
+    },
+    {
+        "question": "Выберите правильный предлог: The words are ___ the blackboard.",
+        "choices": ["on", "in", "between", "behind"],
+        "correctAnswers": ["on"]
+    },
+    {
+        "question": "Выберите правильный предлог: He studies __ the university.",
+        "choices": ["of", "on", "at", "under"],
+        "correctAnswers": ["at"]
+    },
+    {
+        "question": "Выберите правильное слово: Advertising is our ___.",
+        "choices": ["major", "subject", "training", "study"],
+        "correctAnswers": ["major"]
+    },
+    {
+        "question": "Выберите правильное слово: We study many different ___ to become professionals in our field.",
+        "choices": ["stories", "subjects", "novels", "articles"],
+        "correctAnswers": ["subjects"]
+    },
+    {
+        "question": "Выберите правильный вспомогательный глагол: ___ he already written the test?",
+        "choices": ["Is", "Has", "Do", "Will"],
+        "correctAnswers": ["Has"]
+    },
+    {
+        "question": "Выберите правильное слово: Professional training also includes getting Bachelor's or Master's ___ in a certain field of knowledge.",
+        "choices": ["paper", "work", "degree", "task"],
+        "correctAnswers": ["degree"]
+    },
+    {
+        "question": "Выберите правильное слово: We are going to ___ exams after we undergo practice.",
+        "choices": ["take", "make", "pass", "buy"],
+        "correctAnswers": ["take"]
+    },
+    {
+        "question": "Выберите правильный глагол: We ___ learn to distinguish truth.",
+        "choices": ["must", "needs", "was to", "has to"],
+        "correctAnswers": ["must"]
+    },
+    {
+        "question": "Выберите правильный глагол:  It ___ be true that supermarkets make shopping easier.",
+        "choices": ["need", "may", "had", "is to"],
+        "correctAnswers": ["may"]
+    },
+    {
+        "question": "Выберите правильный глагол: Tom ___ play tennis well, but he ___ play a game yesterday because he was ill.",
+        "choices": ["could, couldn’t", "can, was able", "can, couldn’t", "couldn’t, can"],
+        "correctAnswers": ["can, couldn’t"]
+    },
+    {
+        "question": "Выберите правильный перевод: Children ought to obey their parents.",
+        "choices": ["Дети будут с родителями.", "Дети должны быть с родителями.", "Дети должны слушать своих родителей.", "Дети нужны родителям."],
+        "correctAnswers": ["Дети должны слушать своих родителей."]
+    },
+    {
+        "question": "Выберите правильный перевод: She had to stay in London.",
+        "choices": ["Она будет в Лондоне.", "Она была вынуждена остаться в Лондоне.", "Она осталась в Лондоне.", "Она останавливалась в Лондоне."],
+        "correctAnswers": ["Она была вынуждена остаться в Лондоне."]
+    },
+    {
+        "question": "Выберите правильный модальный глагол: I'm not quite sure about his coming tonight. - Well, still he __ come.",
+        "choices": ["can", "may", "must", "has to"],
+        "correctAnswers": ["may"]
+    },
+    {
+        "question": "Выберите правильный модальный глагол: My mother said you __ come to our place any time you wanted.",
+        "choices": ["may", "might", "must", "would"],
+        "correctAnswers": ["might"]
+    },
+    {
+        "question": "Выберите правильное слово:  A television ad is often called a ___.",
+        "choices": ["consumer", "message", "commercial", "footage"],
+        "correctAnswers": ["commercial"]
+    },
+    {
+        "question": "Выберите правильное слово: A good ad must reach the ___ and make him/her buy the product.",
+        "choices": ["consumer", "manager", "user", "children"],
+        "correctAnswers": ["consumer"]
+    },
+    {
+        "question": "Выберите правильное слово: Ads are placed in different ___.",
+        "choices": ["minds", "media", "mountains", "directions"],
+        "correctAnswers": ["media"]
+    },
+    {
+        "question": "Выберите правильное слово: Banner and billboard are types of ___ advertising.",
+        "choices": ["indoor", "outside", "outdoor", "inside"],
+        "correctAnswers": ["outdoor"]
+    },
+    {
+        "question": "Выберите правильное слово: Advertising ___ is used to promote a new product.",
+        "choices": ["company", "campaign", "companion", "complement"],
+        "correctAnswers": ["campaign"]
+    },
+    {
+        "question": "Выберите правильное слово: One of the forms of advertising is ___ mail.",
+        "choices": ["home", "consumer's", "straight", "direct"],
+        "correctAnswers": ["direct"]
+    },
+    {
+        "question": "Выберите правильное слово:  Advertising placed on anything which moves (buses, subway, taxis) is ___ advertising.",
+        "choices": ["transit", "moving", "going", "outdoor"],
+        "correctAnswers": ["transit"]
+    },
+    {
+        "question": "Выберите правильное слово: Contests, coupons, prizes are examples of sales ___.",
+        "choices": ["branding", "management", "discount", "promotion"],
+        "correctAnswers": ["promotion"]
+    },
+    {
+        "question": "Выберите правильное слово: Advertising ___ operate since the end of the 19th century.",
+        "choices": ["bureaus", "agencies", "campaigns", "slogans"],
+        "correctAnswers": ["agencies"]
+    },
+    {
+        "question": "Выберите правильное слово:  ___ is a name, term, design, symbol that identifies a good or service as distinct from the others.",
+        "choices": ["Motto", "Blend", "Brand", "Picture"],
+        "correctAnswers": ["Brand"]
+    },
+    {
+        "question": "Выберите правильное слово: Stanford is one of the most __ universities of the world.",
+        "choices": ["big", "scientific", "famous", "American"],
+        "correctAnswers": ["famous"]
+    },
+    {
+        "question": "Выберите правильное слово: Oxford and Cambridge are often called ___.",
+        "choices": ["Uni", "Camford", "Oxbridge", "OxCam"],
+        "correctAnswers": ["Oxbridge"]
+    },
+    {
+        "question": "Выберите правильный перевод: You must speak English.",
+        "choices": ["Вы говорите по-английски.", "Вы будете говорить по-английски.", "Вы умеете говорить по-английски.", "Вы должны говорить по-английски."],
+        "correctAnswers": ["Вы должны говорить по-английски."]
+    },
+    {
+        "question": "Выберите правильную глагольную форму: You ___ well.",
+        "choices": ["must to study", "musts study", "must study", "must studying"],
+        "correctAnswers": ["must study"]
+    },
+    {
+        "question": "Выберите правильную глагольную форму: You ___ some butter. I'd like to make a pie.",
+        "choices": ["may buy", "should buy", "may to buy", "should to buy"],
+        "correctAnswers": ["should buy"]
+    },
+    {
+        "question": "Выберите правильную глагольную форму: We ___ start our meeting at 10.",
+        "choices": ["is to", "was to", "are to", "needn't to"],
+        "correctAnswers": ["are to"]
+    },
+    {
+        "question": "Выберите правильную глагольную форму: I thought I ___ be of some help.",
+        "choices": ["may", "could", "must", "shall"],
+        "correctAnswers": ["could"]
+    },
+    {
+        "question": "Выберите слово по смыслу: We decided not to go to the cinema ___ it was raining heavily.",
+        "choices": ["since", "then", "because", "where"],
+        "correctAnswers": ["because"]
+    },
+    {
+        "question": "Выберите правильное слово: This was the ___ film I’ve ever seen.",
+        "choices": ["funniest", "funny", "funnier", "most funniest"],
+        "correctAnswers": ["funniest"]
+    },
+    {
+        "question": "Выберите близкое по смыслу высказывание «She plays the leading role»",
+        "choices": ["She is an actress.", "She stars in the movie.", "She likes this role.", "Her role is supporting."],
+        "correctAnswers": ["She stars in the movie."]
+    },
+    {
+        "question": "Выберите правильный предлог: Travelling __ car can be pleasant, while travelling __ foot is more interesting.",
+        "choices": ["by, on", "by, by", "bye, bye", "on, by"],
+        "correctAnswers": ["by, on"]
+    },
+    {
+        "question": "Выберите синоним: «travelling by air»",
+        "choices": ["travelling by plane", "travelling by boat", "travelling by wings", "travelling by sea"],
+        "correctAnswers": ["travelling by plane"]
+    },
+    {
+        "question": "Выберите правильный предлог: Nobody knows ___ this new comedy.",
+        "choices": ["on", "at", "about", "in"],
+        "correctAnswers": ["about"]
+    },
+    {
+        "question": "Выберите правильный предлог: This is the capital __ world's film-making industry.",
+        "choices": ["of", "at", "in", "on"],
+        "correctAnswers": ["of"]
+    },
+    {
+        "question": "Выберите правильный артикль: ___ Mont Blanc is ___ highest mountain of ___ Alps.",
+        "choices": ["the, the, —", "the, —, the", "—, the, the", "—, —, the"],
+        "correctAnswers": ["—, the, the"]
+    },
+    {
+        "question": "Выберите правильный артикль: ___ Lake Baikal is ___ deepest lake in ___ world.",
+        "choices": ["the, —, a", "the, the, a", "—, the, —", "—, the, the"],
+        "correctAnswers": ["—, the, the"]
+    },
+    {
+        "question": "Выберите правильный артикль:  ___ British Isles are a group of islands lying off ___ north-west coast of ___ Europe.",
+        "choices": ["The, the, the", "The, the, —", "—, the, —", "The, —, the"],
+        "correctAnswers": ["The, the, —"]
+    },
+    {
+        "question": "Выберите правильный предлог: This actor is famous ___ his roles in actions.",
+        "choices": ["on", "for", "at", "with"],
+        "correctAnswers": ["for"]
+    },
+    {
+        "question": "Выберите слово по смыслу: There is ___ coffee in the cup.",
+        "choices": ["little", "many", "few", "a few"],
+        "correctAnswers": ["little"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: Everything in the industry of entertainment ___ expensive nowadays.",
+        "choices": ["is", "was", "are", "were"],
+        "correctAnswers": ["is"]
+    },
+    {
+        "question": "Выберите правильное слово: I'd like ___ around the world.",
+        "choices": ["to speak", "to like", "to watch", "to travel"],
+        "correctAnswers": ["to travel"]
+    },
+    {
+        "question": "Выберите правильное слово: Life is a ___, not a destination.",
+        "choices": ["journey", "voyage", "flying", "cruise"],
+        "correctAnswers": ["journey"]
+    },
+    {
+        "question": "Выберите правильное слово: I think we are to ___ the train at the next stop. This is our destination.",
+        "choices": ["wake", "get off", "catch", "wait"],
+        "correctAnswers": ["get off"]
+    },
+    {
+        "question": "Выберите правильное слово: The movie's ___ is that all people in the world should take care of the environment.",
+        "choices": ["story", "acting", "message", "plot"],
+        "correctAnswers": ["message"]
+    },
+    {
+        "question": "Выберите правильный перевод: The camera's work in this short deserves an award.",
+        "choices": ["Работа оператора в этой короткометражке заслуживает награды.", "Работа аниматора в этом фильме достойна награды.", "Награда нашла своего героя — оператора этой короткометражки.", "Камера работала в этом фильме, заслужив награду."],
+        "correctAnswers": ["Работа оператора в этой короткометражке заслуживает награды."]
+    },
+    {
+        "question": "Выберите правильный перевод: This script-writer has never won an Oscar, though he has been nominated several times.",
+        "choices": ["Этот режиссер никогда не выигрывал «Оскар», хотя его фильмы номинировались несколько раз.", "Этот актер ни разу не выигрывал «Оскар», хотя его и номинировали несколько раз.", "Этот сценарист так и не завоевал «Оскар», хотя его номинировали несколько раз.", "Этому сценаристу не дали премию «Оскар», хотя и должны были, судя по количеству номинаций."],
+        "correctAnswers": ["Этот сценарист так и не завоевал «Оскар», хотя его номинировали несколько раз."]
+    },
+    {
+        "question": "Выберите правильный перевод: I think that comedies are also worth the viewers' attention, as they help us relax.",
+        "choices": ["Думаю, комедии также достойны внимания критиков, они помогают им расслабиться.", "Думаю, зрителям стоит посмотреть и комедии, так как они помогают нам расслабиться.", "Думаю, комедии нужно смотреть всем зрителям, поскольку они заставляют нас отдохнуть.", "Думаю, комедии стоит смотреть, потому что зрители расслабляются при просмотре."],
+        "correctAnswers": ["Думаю, зрителям стоит посмотреть и комедии, так как они помогают нам расслабиться."]
+    },
+    {
+        "question": "Выберите правильный перевод: He said he would do it for you.",
+        "choices": ["Он сказал, что делал это для тебя.", "Он сказал, что делает это с тобой.", "Он сказал, что сделает это для тебя.", "Он сказал, что сделает всё ради тебя."],
+        "correctAnswers": ["Он сказал, что сделает это для тебя."]
+    },
+    {
+        "question": "Выберите правильный перевод: I didn't know he had left for Moscow.",
+        "choices": ["Я не знал, что он был в Москве.", "Я не знал, что он поедет в Москву.", "Я не знал, что он уехал в Москву.", "Я не знал, что был в Москве."],
+        "correctAnswers": ["Я не знал, что он уехал в Москву."]
+    },
+    {
+        "question": "Выберите правильный перевод: I had written the letter when he came.",
+        "choices": ["Я получил от него письмо.", "Я напишу ему письмо вскоре.", "Я написал письмо, когда он пришел.", "Я написал письмо, когда он ушел."],
+        "correctAnswers": ["Я написал письмо, когда он пришел."]
+    },
+    {
+        "question": "Выберите слово по смыслу: We know about the British culture ___ than we want to know.",
+        "choices": ["last", "least", "less", "more little"],
+        "correctAnswers": ["less"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: The boss said that we ______ till 9 p. m. the next day.",
+        "choices": ["would work", "will work", "are going to work", "work"],
+        "correctAnswers": ["would work"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: The art director asked if the design for the campaign ___ ready.",
+        "choices": ["were", "was", "are", "will be"],
+        "correctAnswers": ["was"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: The teacher asked us if we ___ the homework. (“Have you done your homework?”)",
+        "choices": ["has done", "have done", "do", "had done"],
+        "correctAnswers": ["had done"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: The director told that he ___ to shoot a sequel the following year.",
+        "choices": ["was going", "are going", "will be going", "would"],
+        "correctAnswers": ["was going"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: I think ___ should be forbidden in the workplace.",
+        "choices": ["to smoke", "smoke", "smoking", "smoked"],
+        "correctAnswers": ["smoking"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: We all have to learn ___ our emotions.",
+        "choices": ["controlling", "to control", "to be controlled", "have controlled"],
+        "correctAnswers": ["to control"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: How ___ his new job?",
+        "choices": ["is your brother liking", "does your brother like", "has your brother liked", "does your brother likes"],
+        "correctAnswers": ["does your brother like"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: ___ a flat when you were working in Germany?",
+        "choices": ["Have you rent", "Have you rented", "Did you rent", "Were you renting"],
+        "correctAnswers": ["Were you renting"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: ___ cold on Friday?",
+        "choices": ["Was it", "Did", "It", "Did it"],
+        "correctAnswers": ["Was it"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: You’d love an ice-cream, ___ you?",
+        "choices": ["don’t", "hadn’t", "wouldn’t", "didn’t"],
+        "correctAnswers": ["wouldn’t"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: What ___ for?",
+        "choices": ["people go there", "do people go abroad", "shall I do there", "abroad shall I do"],
+        "correctAnswers": ["do people go abroad"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: ___ this position interest you?",
+        "choices": ["Is", "Are", "Do", "Does"],
+        "correctAnswers": ["Does"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: ___ this job interesting for you?",
+        "choices": ["Does", "Is", "Do", "Are"],
+        "correctAnswers": ["Is"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: What ___ of this vacancy?",
+        "choices": ["are you thinking", "have you been thinking", "do you think", "does you think"],
+        "correctAnswers": ["do you think"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: ___ people work better if they are given complete freedom and responsibility?",
+        "choices": ["Will", "Were", "Is", "Do"],
+        "correctAnswers": ["Will"]
+    },
+    {
+        "question": "Выберите правильную конструкцию: What job is ___ for you: in the office or at the factory?",
+        "choices": ["better", "more good", "more better", "many better"],
+        "correctAnswers": ["better"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: When ___ from his business trip?",
+        "choices": ["has he returned", "did he return", "was he returning", "did he returned"],
+        "correctAnswers": ["did he return"]
+    },
+    {
+        "question": "Выберите правильную конструкцию: ___ a meeting yesterday?",
+        "choices": ["Was", "Did there", "Was there", "Did it"],
+        "correctAnswers": ["Was there"]
+    },
+    {
+        "question": "Выберите правильный разделительный вопрос: Mrs Fry doesn't work on Wednesdays, ___ ?",
+        "choices": ["does Mrs Fry", "doesn’t she", "does she", "don’t she"],
+        "correctAnswers": ["does she"]
+    },
+    {
+        "question": "Выберите правильную конструкцию: I think her new job is not ___ her previous one.",
+        "choices": ["as well-paid as", "so well-paid as", "so well-paid", "well-paid as"],
+        "correctAnswers": ["so well-paid as"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: We went ___ last holiday.",
+        "choices": ["to hike", "hiking", "for hiking", "to hiking"],
+        "correctAnswers": ["hiking"]
+    },
+    {
+        "question": "Выберите правильный артикль: I think ___ meat is cooked perfectly. Let's thank the chef.",
+        "choices": ["a", "—", "the", "an"],
+        "correctAnswers": ["the"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: It may be true that supermarkets make ___ easier.",
+        "choices": ["to shop", "shop", "to shopping", "shopping"],
+        "correctAnswers": ["shopping"]
+    },
+    {
+        "question": "Выберите правильное слово: You needn't buy ___ meat: I have already bought ___.",
+        "choices": ["—, any", "—, some", "the, some", "—, them"],
+        "correctAnswers": ["—, some"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: Tom can ___ tennis well but he wasn't able ___ a game yesterday because he was ill.",
+        "choices": ["play, to play", "to play, to play", "play, play", "to play, play"],
+        "correctAnswers": ["play, to play"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: Stop ___! You are too loud.",
+        "choices": ["to talk", "talk", "talking", "into talking"],
+        "correctAnswers": ["talking"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: You will have ___ to another flat: this one is ___ expensive.",
+        "choices": ["to move, no", "moving, too", "to move, too", "to move, much"],
+        "correctAnswers": ["to move, too"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: ___ I help you, Mr Brown? - Yes, ___.",
+        "choices": ["Can; please", "Could; and quick!", "Can; you're welcome", "Could; please"],
+        "correctAnswers": ["Can; please"]
+    },
+    {
+        "question": "Выберите правильную форму глагола:  ___ you be so kind as to switch off your music?",
+        "choices": ["Are", "Would", "Will", "Should"],
+        "correctAnswers": ["Would"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: Because of the destruction of tropical forests, many plants ___ right now.",
+        "choices": ["are protected", "are being protected", "were protected", "have been protected"],
+        "correctAnswers": ["are being protected"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: The problem ___ at the moment.",
+        "choices": ["are being discussed", "was discussed", "will be discussed", "is being discussed"],
+        "correctAnswers": ["is being discussed"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: Students hope that in a short time the reform of education ___.",
+        "choices": ["will be finished", "will finish itself", "will have been finished", "is being finished"],
+        "correctAnswers": ["will be finished"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: This house __ recently ___. Now the apartments are being sold out.",
+        "choices": ["is … built", "had been ... built", "was … built", "has been … built"],
+        "correctAnswers": ["has been … built"]
+    },
+    {
+        "question": "Выберите правильное наречие времени: Has the key been found ___?",
+        "choices": ["yesterday", "tomorrow", "by 5 o'clock", "very often"],
+        "correctAnswers": ["by 5 o'clock"]
+    },
+    {
+        "question": "Выберите правильную форму глагола: He ___ for a long time.",
+        "choices": ["wasn't seen", "isn't seen", "haven't been seen", "hasn’t been seen"],
+        "correctAnswers": ["hasn’t been seen"]
+    },
+    {
+        "question": "Выберите правильное слово: Scotland is famous for its ___ (Robert Burns, national Scottish poet, wrote a poem about them) and ___.",
+        "choices": ["Highlands, Loch Ness", "Lake District, Loch Lomond", "London, Loch Ness", "Highlands, Lake Ontario"],
+        "correctAnswers": ["Highlands, Loch Ness"]
+    },
+    {
+        "question": "Выберите правильное слово: Ireland is the motherland for many world-famous authors, ___ is among them.",
+        "choices": ["Ernest Hemingway", "Oscar Wilde", "F. Scott Fitzgerald", "Redyard Kipling"],
+        "correctAnswers": ["Oscar Wilde"]
+    },
+    {
+        "question": "Выберите правильное слово: The capital of ___, Edinburgh, is one of the most beautiful cities in the world.",
+        "choices": ["Great Britain", "Wales", "Ireland", "Scotland"],
+        "correctAnswers": ["Scotland"]
+    },
+    {
+        "question": "Выберите правильное слово: ___ is the smallest part of the United Kingdom.",
+        "choices": ["Wales", "Scotland", "Northern Ireland", "England"],
+        "correctAnswers": ["Wales"]
+    },
+    {
+        "question": "Выберите правильное слово: There are ___ states in the USA ___.",
+        "choices": ["fifty-one", "fifty … and District Columbia", "forty-nine … and District Columbia", "fifty"],
+        "correctAnswers": ["fifty … and District Columbia"]
+    },
+    {
+        "question": "Выберите правильное слово: In Great Britain the Boxing Day is celebrated on ___.",
+        "choices": ["the twenty-fifth of December", "the twenty-sixth of January", "twenty-sixth of December", "the twenty-sixth of December"],
+        "correctAnswers": ["the twenty-sixth of December"]
+    },
+    {
+        "question": "Выберите правильное слово: The Thanksgiving Day in the USA is celebrated in ___.",
+        "choices": ["February", "April", "November", "August"],
+        "correctAnswers": ["November"]
+    },
+    {
+        "question": "Выберите правильное слово: I have got two ___.",
+        "choices": ["works", "jobs", "careers", "study"],
+        "correctAnswers": ["jobs"]
+    },
+    {
+        "question": "Выберите правильное слово: His ___ in management is brilliant, and it has taken him ten years to take the ___ of top-manager.",
+        "choices": ["position, work", "career, position", "work, position", "career, work"],
+        "correctAnswers": ["career, position"]
+    },
+    {
+        "question": "Выберите правильное слово: It is necessary to write your marital ___ in your CV.",
+        "choices": ["position", "sign", "dream", "status"],
+        "correctAnswers": ["status"]
+    },
+    {
+        "question": "Выберите правильное слово: It is not essential to point out the number of your ___ in the resume.",
+        "choices": ["children", "childs", "grandparent", "spouse"],
+        "correctAnswers": ["children"]
+    },
+    {
+        "question": "Выберите правильное слово: It is important to write about your awards in ___.",
+        "choices": ["CV", "test paper", "resumé", "personal letter"],
+        "correctAnswers": ["CV"]
+    },
+    {
+        "question": "Выберите правильный перевод: The pupils are learning different skills.",
+        "choices": ["Ученики учат разные стихи.", "Ученики приобретают различные навыки.", "Ученики учат уроки.", "Ученики изучают различные ремесла."],
+        "correctAnswers": ["Ученики приобретают различные навыки."]
+    },
+    {
+        "question": "Выберите правильный перевод: Education includes different kinds of learning experiences.",
+        "choices": ["Образование включает в себя различные виды обучения.", "Преподавание включает в себя различные виды обучающего опыта.", "Образование включает в себя различные познавательные возможности.", "Образование включает в себя различные виды обучающего опыта."],
+        "correctAnswers": ["Образование включает в себя различные виды обучающего опыта."]
+    },
+    {
+        "question": "Выберите правильный перевод: Children learn to ride a bicycle.",
+        "choices": ["Дети учатся водить велосипед.", "Дети изучают велосипед.", "Дети учатся ездить на велосипеде.", "Дети учатся водить байк."],
+        "correctAnswers": ["Дети учатся ездить на велосипеде."]
+    },
+    {
+        "question": "Выберите правильный перевод: I expect she will pass the exam.",
+        "choices": ["Я ожидаю, что она напишет экзамен.", "Я знаю, что она не сдаст экзамен.", "Я ожидаю, что она сдаст экзамен.", "Я ожидаю, что она сдаст хоть один экзамен."],
+        "correctAnswers": ["Я ожидаю, что она сдаст экзамен."]
+    },
+    {
+        "question": "Выберите правильный перевод: She is a very intelligent student.",
+        "choices": ["Она очень интеллигентный студент.", "Она очень умная студентка.", "Она учится очень хорошо.", "Она очень воспитанная девушка."],
+        "correctAnswers": ["Она очень умная студентка."]
+    },
+    {
+        "question": "Выберите правильный перевод: The Minister of Education is responsible for education at different levels.",
+        "choices": ["Министр обучения несет ответственность за различные уровни образования.", "Министр образования несет ответственность за различные уровни воспитания.", "Министр образования несет ответственность за образование на различных уровнях.", "Министр образования ответственный на разных уровнях образования"],
+        "correctAnswers": ["Министр образования несет ответственность за образование на различных уровнях."]
+    },
+    {
+        "question": "Выберите правильный перевод: The people gain knowledge about the world.",
+        "choices": ["Люди получают знания о мире.", "Люди достигают знаний о мире.", "Люди могут узнать все о мире.", "Люди изучают мир во всем мире."],
+        "correctAnswers": ["Люди получают знания о мире."]
+    },
+    {
+        "question": "Выберите правильную форму глагола: He wanted to have a rest after ___ hard.",
+        "choices": ["work", "working", "works", "to work"],
+        "correctAnswers": ["working"]
+    },
+    {
+        "question": "Выберите правильный предлог: His elder brother studies ___ the university.",
+        "choices": ["in", "on", "at", "of"],
+        "correctAnswers": ["at"]
+    },
+    {
+        "question": "Выберите правильный предлог: My brother goes _____ school.",
+        "choices": ["to", "in", "into", "with"],
+        "correctAnswers": ["to"]
+    },
+    {
+        "question": "Выберите правильный артикль: His lessons start in _____ morning.",
+        "choices": ["a", "an", "the", "—"],
+        "correctAnswers": ["the"]
+    },
+    {
+        "question": "Выберите правильное слово: These _____ long texts. But it is not difficult to translate ___.",
+        "choices": ["am, them", "are, them", "was, they", "is, they"],
+        "correctAnswers": ["are, them"]
+    },
+    {
+        "question": "Выберите правильную неличную форму глагола: She made me ___ the song several times.",
+        "choices": ["to sing", "sing", "singing", "into singing"],
+        "correctAnswers": ["sing"]
+    },
+    {
+        "question": "Выберите правильную неличную форму глагола: It's high time for you __ working.",
+        "choices": ["to start", "start", "starting", "to be starting"],
+        "correctAnswers": ["to start"]
+    },
+    {
+        "question": "Выберите правильную неличную форму глагола: Every day I see kids ___ in the yard.",
+        "choices": ["playing", "to play", "play", "to be playing"],
+        "correctAnswers": ["play"]
+    },
+    {
+        "question": "Выберите правильную неличную форму глагола: I went out and saw a girl ___ her car next to mine.",
+        "choices": ["park", "parking", "to park", "to have parked"],
+        "correctAnswers": ["parking"]
+    },
+    {
+        "question": "Выберите правильную неличную форму глагола: You look tired. You had better ___ home.",
+        "choices": ["going", "to go", "be gone", "go"],
+        "correctAnswers": ["go"]
+    },
+    {
+        "question": "Выберите правильную неличную форму глагола: I think I will be able ___ the problem.",
+        "choices": ["solve", "to solve", "solving", "to have solved"],
+        "correctAnswers": ["to solve"]
+    },
+    {
+        "question": "Выберите правильную неличную форму глагола: I have brought a book for you ___.",
+        "choices": ["to read", "read", "reading", "to have read"],
+        "correctAnswers": ["to read"]
+    },
+    {
+        "question": "Выберите правильную неличную форму глагола: The problem is too difficult ___ it right now.",
+        "choices": ["discuss", "discussing", "to discuss", "to be discussed"],
+        "correctAnswers": ["to discuss"]
+    },
+    {
+        "question": "Выберите правильную неличную форму глагола: The book leaves much ___.",
+        "choices": ["to desire", "to be desired", "desire", "desiring"],
+        "correctAnswers": ["to be desired"]
+    },
+    {
+        "question": "Выберите правильную неличную форму глагола: He is difficult ___ with.",
+        "choices": ["to deal", "dealing", "deal", "to be dealt"],
+        "correctAnswers": ["to deal"]
+    },
+    {
+        "question": "Выберите правильную неличную форму глагола: She is hard ___.",
+        "choices": ["to be pleased", "to please", "pleasing", "please"],
+        "correctAnswers": ["to please"]
+    },
+    {
+        "question": "Выберите правильную неличную форму глагола: The kid is pleasant __ at.",
+        "choices": ["look", "looking", "to be looking", "to look"],
+        "correctAnswers": ["to look"]
+    },
+    {
+        "question": "Выберите правильную неличную форму глагола: Рад помочь вам. - I am glad ___ you.",
+        "choices": ["help", "to help", "to be helped", "helping"],
+        "correctAnswers": ["to help"]
+    },
+    {
+        "question": "Выберите правильную неличную форму глагола: Рад, что мне помогают. - I am glad ___ .",
+        "choices": ["to be helped", "to help", "helping", "help"],
+        "correctAnswers": ["to be helped"]
+    },
+    {
+        "question": "Выберите правильную неличную форму глагола: Рад, что сейчас разговариваю с вами. - I am glad ___ to you.",
+        "choices": ["to speak", "speaking", "to be speaking", "speak"],
+        "correctAnswers": ["to be speaking"]
+    },
+    {
+        "question": "Выберите правильную неличную форму глагола: Рад, что поговорил с вами. - I am glad ___ to you.",
+        "choices": ["spoken", "to have spoken", "to speak", "to be speaking"],
+        "correctAnswers": ["to have spoken"]
+    },
+    {
+        "question": "Выберите правильную неличную форму глагола: Всегда рад, когда мне рассказывают новости. - I'm always glad ___ the news.",
+        "choices": ["to tell", "told", "to be telling", "to be told"],
+        "correctAnswers": ["to be told"]
+    },
+    {
+        "question": "Выберите правильную неличную форму глагола: Everything ___ here is quite right.",
+        "choices": ["written", "writing", "write", "to be writing"],
+        "correctAnswers": ["written"]
+    },
+    {
+        "question": "Выберите правильную неличную форму глагола: The girl ___ the essay now is our best student.",
+        "choices": ["to have written", "to write", "writing", "to be writing"],
+        "correctAnswers": ["writing"]
+    },
+    {
+        "question": "Выберите правильную неличную форму глагола: The exercises ___ by the pupils were easy.",
+        "choices": ["done", "doing", "to do", "to be doing"],
+        "correctAnswers": ["done"]
+    },
+    {
+        "question": "Выберите правильную неличную форму глагола: ___ the test, he was thinking hard.",
+        "choices": ["to write", "writing", "having written", "to be written"],
+        "correctAnswers": ["writing"]
+    },
+    {
+        "question": "Выберите правильную неличную форму глагола: ___ his homework he went for a walk.",
+        "choices": ["having done", "doing", "to be doing", "to have done"],
+        "correctAnswers": ["having done"]
+    },
+    {
+        "question": "Выберите правильную неличную форму глагола: __ some juice and cakes, he went home.",
+        "choices": ["buy", "buying", "having bought", "bought"],
+        "correctAnswers": ["having bought"]
+    },
+    {
+        "question": "Выберите правильную неличную форму глагола: __ the milk, he realized that he left his wallet at home.",
+        "choices": ["buying", "to buy", "to be buying", "bought"],
+        "correctAnswers": ["buying"]
+    },
+    {
+        "question": "Выберите правильное слово:  ___ is often referred to as “The Father of Advertising”.",
+        "choices": ["John Kennedy", "David Ogilvy", "George Gallup", "Leo Burnett"],
+        "correctAnswers": ["David Ogilvy"]
+    },
+    {
+        "question": "Выберите правильное слово: \"In the modern world of business, it is useless to be a creative, original thinker unless you can also ___ what you create.\" (David Ogilvy)",
+        "choices": ["sell", "produce", "share", "touch"],
+        "correctAnswers": ["sell"]
+    },
+    {
+        "question": "Выберите правильное слово:   ___ is the act of writing a text for the purpose of advertising a product, a business, an idea or a man.",
+        "choices": ["Creating", "Managing", "Copywriting", "Producing"],
+        "correctAnswers": ["Copywriting"]
+    },
+    {
+        "question": "Выберите правильное слово: A ___ is a man used to help create direct mail pieces, taglines, jingle lyrics.",
+        "choices": ["manager", "copywriter", "producer", "HR-specialist"],
+        "correctAnswers": ["copywriter"]
+    },
+    {
+        "question": "Выберите правильное слово:  A ___ is a written or recorded communication directed at members of the news media for the purpose of announcing something ostensibly newsworthy.",
+        "choices": ["press release", "news", "direct mail", "headline"],
+        "correctAnswers": ["press release"]
+    },
+    {
+        "question": "Выберите правильное слово: Cannes ___ Festival is dedicated to nurturing the young talent of the industry of advertising and marketing.",
+        "choices": ["Kittens", "Tigers", "Lions", "Elephants"],
+        "correctAnswers": ["Lions"]
+    },
+    {
+        "question": "Выберите правильное слово: We prefer the discipline of knowledge to the anarchy of ___. (Ogilvy&Mather's principle)",
+        "choices": ["ignorance", "learning", "stupidity", "education"],
+        "correctAnswers": ["ignorance"]
+    },
+    {
+        "question": "Выберите правильное слово: The ___ is not a moron.   (Ogilvy&Mather's principle)",
+        "choices": ["advertiser", "manager", "salesperson", "consumer"],
+        "correctAnswers": ["consumer"]
+    },
+    {
+        "question": "Выберите правильное слово:  David Ogilvy made an astonishing career in England selling cooking ___.",
+        "choices": ["sets", "stoves", "spoons", "silver"],
+        "correctAnswers": ["stoves"]
+    },
+    {
+        "question": "Выберите правильное слово: David Ogilvy's books, Blood, Brains, and ___ being one of them, provide the basic principles of modern advertising.",
+        "choices": ["Whiskey", "Liquor", "Beer", "Brandy"],
+        "correctAnswers": ["Beer"]
+    },
+    {
+        "question": "Выберите правильное слово: Confessions of an Advertising Man was Ogilvy's ___ published book.",
+        "choices": ["last", "second", "first", "posthumously"],
+        "correctAnswers": ["first"]
+    },
+    {
+        "question": "Выберите правильное слово: In 1978 Ogilvy wrote his ___.",
+        "choices": ["first textbook", "life story", "will", "recipe book"],
+        "correctAnswers": ["life story"]
+    },
+    {
+        "question": "Выберите правильное слово: A ___ is responsible for the quality of all creative work produced by the agency for all clients.",
+        "choices": ["art director", "copywriter", "creative director", "web designer"],
+        "correctAnswers": ["creative director"]
+    },
+    {
+        "question": "Выберите правильное слово: The ___ is responsible for the visual creation of general advertising campaigns on one or more accounts.",
+        "choices": ["account manager", "executive", "supervisor", "art director"],
+        "correctAnswers": ["art director"]
+    },
+    {
+        "question": "The responsibility of the ___ is to be the client’s representative at the agency, and the agency’s representative at the client’s organization.",
+        "choices": ["art director", "account manager", "programmer", "copywriter"],
+        "correctAnswers": ["account manager"]
+    },
+    {
+        "question": "The ___ department plans, coordinates and purchases media space to run advertising that the agency has created.",
+        "choices": ["strategy", "account", "media", "creative"],
+        "correctAnswers": ["media"]
+    },
+    {
+        "question": "The ___ Department designs and creates all of the digital components of an advertising campaign, including websites, banner ads and other applications.",
+        "choices": ["creative", "interactive", "account", "strategy"],
+        "correctAnswers": ["interactive"]
+    },
+    {
+        "question": "___ department includes all the people who help get a job routed internally, proofread, checked, printed, duplicated, and distributed.",
+        "choices": ["Processing", "Production", "Administrative", "Creative"],
+        "correctAnswers": ["Production"]
+    },
+    {
+        "question": "TV advertising can also include sponsorships and product ___ within television shows.",
+        "choices": ["placement", "design", "sales", "distribution"],
+        "correctAnswers": ["placement"]
+    },
+    {
+        "question": "An online advertising agency is focused on creating advertising for the ___.",
+        "choices": ["bloggers", "programmers", "mass media", "Internet"],
+        "correctAnswers": ["Internet"]
+    },
+    {
+        "question": "Выберите правильное слово: Ask ___ to help him write his CV.",
+        "choices": ["something", "anyone", "someone", "anybody"],
+        "correctAnswers": ["someone"]
+    }
+]
